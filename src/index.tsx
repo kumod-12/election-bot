@@ -190,6 +190,14 @@ const API_CONFIG = {
   model: 'gpt-4o-mini'
 };
 
+// Debug: Log environment variables (remove in production)
+console.log('Environment check:', {
+  part1: process.env.REACT_APP_API_KEY_PART1 ? 'SET' : 'MISSING',
+  part2: process.env.REACT_APP_API_KEY_PART2 ? 'SET' : 'MISSING',
+  part3: process.env.REACT_APP_API_KEY_PART3 ? 'SET' : 'MISSING',
+  fullKey: API_CONFIG.openaiKey ? `${API_CONFIG.openaiKey.substring(0, 10)}...` : 'EMPTY'
+});
+
 // Hardcoded blocked keywords - no user modification
 const BLOCKED_KEYWORDS = [
   'who should i vote for',
