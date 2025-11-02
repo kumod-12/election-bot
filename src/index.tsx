@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import ElectionChatbot from './ElectionChatbot';
+import MainChatbot from './MainChatbot';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -9,6 +9,6 @@ const root = ReactDOM.createRoot(
 
 root.render(
   <React.StrictMode>
-    <ElectionChatbot />
+    <MainChatbot />
   </React.StrictMode>
 );
