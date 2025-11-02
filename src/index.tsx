@@ -132,51 +132,68 @@ class ElectionDataLoader {
       return 'Bihar Election Information: 243 constituencies in Bihar Legislative Assembly. I can help with voting procedures, candidate information, and election schedules.';
     }
 
-    let context = 'Bihar Election Data Summary:\n';
+    let context = 'Bihar Election Data - Detailed Information:\n\n';
 
-    // Add rich contextual information
-    if (data['bihar-constituencies-master']) {
-      const constituencies = data['bihar-constituencies-master'];
-      context += `- 243 total constituencies across Bihar with ${constituencies.reservedSeats?.SC || 38} SC seats, ${constituencies.reservedSeats?.ST || 2} ST seats\n`;
+    // Use actual data from bihar-election-complete.json
+    if (data['bihar-election-complete']) {
+      const election = data['bihar-election-complete'];
+      context += `${election.election?.name || 'Bihar Legislative Assembly Election 2025'}\n`;
+      context += `Total Constituencies: ${election.election?.total_constituencies || 243}\n\n`;
+
+      if (election.schedule?.phases) {
+        context += 'ELECTION SCHEDULE:\n';
+        election.schedule.phases.forEach((phase: any) => {
+          context += `• Phase ${phase.phase_number}: ${phase.polling_date} (${phase.polling_day}) - ${phase.constituencies_count} constituencies\n`;
+        });
+        context += `• Vote Counting: ${election.schedule.counting_date} (${election.schedule.counting_day})\n\n`;
+      }
+
+      if (election.voter_information) {
+        const seats = election.voter_information.reserved_seats;
+        context += `SEAT DISTRIBUTION:\n`;
+        context += `• Scheduled Caste (SC): ${seats?.scheduled_caste || '36 seats'}\n`;
+        context += `• Scheduled Tribe (ST): ${seats?.scheduled_tribe || '2 seats'}\n`;
+        context += `• General: ${seats?.general || '205 seats'}\n`;
+        context += `• Polling Hours: ${election.voter_information.polling_hours || '7:00 AM to 6:00 PM'}\n\n`;
+      }
     }
 
+    // Add party performance data with actual 2020 results
     if (data['bihar-party-performance']) {
       const parties = data['bihar-party-performance'];
-      context += `- Major parties: ${parties.majorParties?.join(', ') || 'RJD, JDU, BJP, Congress, LJP'}\n`;
-      context += `- Alliance structure: Mahagathbandhan vs NDA\n`;
+      context += 'MAJOR PARTIES (2020 Election Results):\n';
+      if (parties.parties) {
+        parties.parties.forEach((party: any) => {
+          if (party.party_name !== 'Total' && party.party_name !== 'OTH' && party.performance_2020?.seats_won !== 'NA') {
+            const perf = party.performance_2020;
+            context += `• ${party.party_name}: ${perf.seats_won} seats, ${perf.votes?.toLocaleString()} votes (${perf.vote_share?.toFixed(1)}%)\n`;
+          }
+        });
+      }
+      context += '\n';
     }
 
-    if (data['bihar-election-schedule']) {
-      const schedule = data['bihar-election-schedule'];
-      context += `- Last election: ${schedule.lastElectionDate || 'October-November 2020'} in ${schedule.phases || 3} phases\n`;
-      context += `- Total voters: ${schedule.totalVoters || '7.3 crore'}\n`;
+    // Add alliance performance
+    if (data['bihar-alliance-performance']) {
+      const alliances = data['bihar-alliance-performance'];
+      if (alliances.regional_analysis?.['2020']) {
+        const overall = alliances.regional_analysis['2020'].find((region: any) => region.region === 'Overall');
+        if (overall) {
+          context += `ALLIANCE PERFORMANCE (2020):\n`;
+          context += `• NDA (National Democratic Alliance): ${overall.nda_seats} seats (${overall.nda_vote_share?.toFixed(1)}% votes)\n`;
+          context += `• MGB (Mahagathbandhan): ${overall.mgb_seats} seats (${overall.mgb_vote_share?.toFixed(1)}% votes)\n`;
+          context += `• Others: ${overall.others_seats} seats\n\n`;
+        }
+      }
     }
 
-    if (data['bihar-turnout-analysis']) {
-      const turnout = data['bihar-turnout-analysis'];
-      context += `- Voter turnout: ${turnout.overallTurnout || '57.05%'} overall (Rural: ${turnout.ruralTurnout || '59.2%'}, Urban: ${turnout.urbanTurnout || '52.1%'})\n`;
-    }
-
-    if (data['bihar-winner-analysis']) {
-      context += '- Election winner analysis and victory margins available\n';
-    }
-
-    if (data['bihar-seat-analysis']) {
-      context += '- Detailed seat-wise analysis and performance data\n';
-    }
-
-    context += '\nKey Information Available:';
-    context += '\n• Constituency details and boundaries';
-    context += '\n• Candidate information and party affiliations';
-    context += '\n• Voting procedures and requirements';
-    context += '\n• Election dates and schedules';
-    context += '\n• Voter registration process';
-    context += '\n• Polling booth locations';
-    context += '\n• Results and winner analysis';
-
-    if (data.dataSource) {
-      context += `\n\nData Source: ${data.dataSource}`;
-    }
+    context += 'COMPREHENSIVE DATA AVAILABLE:\n';
+    context += '• Constituency-wise detailed analysis\n';
+    context += '• Candidate information and party affiliations\n';
+    context += '• Voting procedures and requirements\n';
+    context += '• Historical election trends and analysis\n';
+    context += '• Voter turnout and demographic data\n';
+    context += '• Regional performance breakdown\n';
 
     return context;
   }
