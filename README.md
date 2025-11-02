@@ -8,7 +8,7 @@
 ## 🚀 Features
 
 ### 🤖 AI-Powered Chatbot
-- **Intelligent responses** using GPT-4 or Claude AI
+- **Intelligent responses** using GPT-4o-mini or Claude AI
 - **Context-aware conversations** with election data integration
 - **Natural language processing** for voter queries
 
@@ -35,7 +35,7 @@
 ## 🛠️ Technology Stack
 
 - **Frontend:** React 19, TypeScript
-- **AI APIs:** OpenAI GPT-4, Anthropic Claude
+- **AI APIs:** OpenAI GPT-4o-mini, Anthropic Claude
 - **Data Processing:** XLSX.js, PapaParse
 - **Deployment:** Vercel, Static Hosting
 - **Analytics:** Custom tracking system
@@ -80,7 +80,7 @@ cp .env.example .env
 Add your AI API key to `.env`:
 ```env
 REACT_APP_OPENAI_API_KEY=your_openai_key_here
-REACT_APP_OPENAI_MODEL=gpt-4
+REACT_APP_OPENAI_MODEL=gpt-4o-mini
 ```
 
 ### 3. Start Development
@@ -116,7 +116,7 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions.
 ```env
 # AI Configuration
 REACT_APP_OPENAI_API_KEY=your_key
-REACT_APP_OPENAI_MODEL=gpt-4
+REACT_APP_OPENAI_MODEL=gpt-4o-mini
 
 # Alternative: Use Claude
 REACT_APP_CLAUDE_API_KEY=your_claude_key
@@ -237,7 +237,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 Acknowledgments
 
 - Election Commission of India for data
-- OpenAI for GPT-4 API
+- OpenAI for GPT-4o-mini API
 - Anthropic for Claude API
 - Vercel for hosting platform
 - React community for framework
