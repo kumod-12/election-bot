@@ -7,22 +7,5 @@
         "distDir": "build"
       }
     }
-  ],
-  "routes": [
-    {
-      "src": "/data/(.*)",
-      "dest": "/data/$1",
-      "headers": {
-        "Content-Type": "application/json"
-      }
-    },
-    {
-      "src": "/static/(.*)",
-      "dest": "/static/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
   ]
 }
