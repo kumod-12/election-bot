@@ -184,10 +184,10 @@ class ElectionDataLoader {
 
 // Hardcoded configuration - no user settings
 const API_CONFIG = {
-  provider: (process.env.REACT_APP_API_PROVIDER as 'openai' | 'anthropic') || 'openai',
-  openaiKey: process.env.REACT_APP_OPENAI_API_KEY || '',
-  anthropicKey: process.env.REACT_APP_CLAUDE_API_KEY || '',
-  model: process.env.REACT_APP_AI_MODEL || 'gpt-4o-mini'
+  provider: 'openai' as const,
+  openaiKey: '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',
+  anthropicKey: '',
+  model: 'gpt-4o-mini'
 };
 
 // Hardcoded blocked keywords - no user modification
