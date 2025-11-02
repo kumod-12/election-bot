@@ -1,0 +1,4892 @@
+{
+  "election_name": "Bihar Legislative Assembly Election 2025",
+  "state": "Bihar",
+  "total_constituencies": 243,
+  "phases": [
+    {
+      "phase_name": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "constituencies_count": 122,
+      "constituencies": [
+        {
+          "constcode": 4001,
+          "ac_number": 1,
+          "constituency_name": "Valmiki Nagar",
+          "official_name": "Valmiki Nagar",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4002,
+          "ac_number": 2,
+          "constituency_name": "Ramnagar",
+          "official_name": "Ramnagar (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4003,
+          "ac_number": 3,
+          "constituency_name": "Narkatiaganj",
+          "official_name": "Narkatiaganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4004,
+          "ac_number": 4,
+          "constituency_name": "Bagaha",
+          "official_name": "Bagaha",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4005,
+          "ac_number": 5,
+          "constituency_name": "Lauriya",
+          "official_name": "Lauriya",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4006,
+          "ac_number": 6,
+          "constituency_name": "Nautan",
+          "official_name": "Nautan",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4007,
+          "ac_number": 7,
+          "constituency_name": "Chanpatia",
+          "official_name": "Chanpatia",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4008,
+          "ac_number": 8,
+          "constituency_name": "Bettiah",
+          "official_name": "Bettiah",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4009,
+          "ac_number": 9,
+          "constituency_name": "Sikta",
+          "official_name": "Sikta",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4010,
+          "ac_number": 10,
+          "constituency_name": "Raxaul",
+          "official_name": "Raxaul",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4011,
+          "ac_number": 11,
+          "constituency_name": "Sugauli",
+          "official_name": "Sugauli",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4012,
+          "ac_number": 12,
+          "constituency_name": "Narkatia",
+          "official_name": "Narkatia",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4013,
+          "ac_number": 13,
+          "constituency_name": "Harsidhi",
+          "official_name": "Harsidhi (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4014,
+          "ac_number": 14,
+          "constituency_name": "Govindganj",
+          "official_name": "Govindganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4015,
+          "ac_number": 15,
+          "constituency_name": "Kesaria",
+          "official_name": "Kesaria",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4016,
+          "ac_number": 16,
+          "constituency_name": "Kalyanpur",
+          "official_name": "Kalyanpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4017,
+          "ac_number": 17,
+          "constituency_name": "Pipra",
+          "official_name": "Pipra",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4018,
+          "ac_number": 18,
+          "constituency_name": "Madhuban",
+          "official_name": "Madhuban",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4019,
+          "ac_number": 19,
+          "constituency_name": "Motihari",
+          "official_name": "Motihari",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4020,
+          "ac_number": 20,
+          "constituency_name": "Chiraia",
+          "official_name": "Chiraia",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4021,
+          "ac_number": 21,
+          "constituency_name": "Dhaka",
+          "official_name": "Dhaka",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4022,
+          "ac_number": 22,
+          "constituency_name": "Sheohar",
+          "official_name": "Sheohar",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4023,
+          "ac_number": 23,
+          "constituency_name": "Riga",
+          "official_name": "Riga",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4024,
+          "ac_number": 24,
+          "constituency_name": "Bathnaha",
+          "official_name": "Bathnaha (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4025,
+          "ac_number": 25,
+          "constituency_name": "Parihar",
+          "official_name": "Parihar",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4026,
+          "ac_number": 26,
+          "constituency_name": "Sursand",
+          "official_name": "Sursand",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4027,
+          "ac_number": 27,
+          "constituency_name": "Bajpatti",
+          "official_name": "Bajpatti",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4028,
+          "ac_number": 28,
+          "constituency_name": "Sitamarhi",
+          "official_name": "Sitamarhi",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4029,
+          "ac_number": 29,
+          "constituency_name": "Runnisaidpur",
+          "official_name": "Runnisaidpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4030,
+          "ac_number": 30,
+          "constituency_name": "Belsand",
+          "official_name": "Belsand",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4031,
+          "ac_number": 31,
+          "constituency_name": "Harlakhi",
+          "official_name": "Harlakhi",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4032,
+          "ac_number": 32,
+          "constituency_name": "Benipatti",
+          "official_name": "Benipatti",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4033,
+          "ac_number": 33,
+          "constituency_name": "Khajauli",
+          "official_name": "Khajauli",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4034,
+          "ac_number": 34,
+          "constituency_name": "Babubarhi",
+          "official_name": "Babubarhi",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4035,
+          "ac_number": 35,
+          "constituency_name": "Bisfi",
+          "official_name": "Bisfi",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4036,
+          "ac_number": 36,
+          "constituency_name": "Madhubani",
+          "official_name": "Madhubani",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4037,
+          "ac_number": 37,
+          "constituency_name": "Rajnagar",
+          "official_name": "Rajnagar (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4038,
+          "ac_number": 38,
+          "constituency_name": "Jhanjharpur",
+          "official_name": "Jhanjharpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4039,
+          "ac_number": 39,
+          "constituency_name": "Phulparas",
+          "official_name": "Phulparas",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4040,
+          "ac_number": 40,
+          "constituency_name": "Laukaha",
+          "official_name": "Laukaha",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4041,
+          "ac_number": 41,
+          "constituency_name": "Nirmali",
+          "official_name": "Nirmali",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4042,
+          "ac_number": 42,
+          "constituency_name": "Pipra",
+          "official_name": "Pipra",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4043,
+          "ac_number": 43,
+          "constituency_name": "Supaul",
+          "official_name": "Supaul",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4044,
+          "ac_number": 44,
+          "constituency_name": "Triveniganj",
+          "official_name": "Triveniganj (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4045,
+          "ac_number": 45,
+          "constituency_name": "Chhatapur",
+          "official_name": "Chhatapur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4046,
+          "ac_number": 46,
+          "constituency_name": "Narpatganj",
+          "official_name": "Narpatganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4047,
+          "ac_number": 47,
+          "constituency_name": "Raniganj",
+          "official_name": "Raniganj (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4048,
+          "ac_number": 48,
+          "constituency_name": "Forbesganj",
+          "official_name": "Forbesganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4049,
+          "ac_number": 49,
+          "constituency_name": "Araria",
+          "official_name": "Araria",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4050,
+          "ac_number": 50,
+          "constituency_name": "Jokihat",
+          "official_name": "Jokihat",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "AIMIM"
+        },
+        {
+          "constcode": 4051,
+          "ac_number": 51,
+          "constituency_name": "Sikti",
+          "official_name": "Sikti",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4052,
+          "ac_number": 52,
+          "constituency_name": "Bahadurganj",
+          "official_name": "Bahadurganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "AIMIM"
+        },
+        {
+          "constcode": 4053,
+          "ac_number": 53,
+          "constituency_name": "Thakurganj",
+          "official_name": "Thakurganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4054,
+          "ac_number": 54,
+          "constituency_name": "Kishanganj",
+          "official_name": "Kishanganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4055,
+          "ac_number": 55,
+          "constituency_name": "Kochadhaman",
+          "official_name": "Kochadhaman",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "AIMIM"
+        },
+        {
+          "constcode": 4056,
+          "ac_number": 56,
+          "constituency_name": "Amour",
+          "official_name": "Amour",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "AIMIM"
+        },
+        {
+          "constcode": 4057,
+          "ac_number": 57,
+          "constituency_name": "Baisi",
+          "official_name": "Baisi",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "AIMIM"
+        },
+        {
+          "constcode": 4058,
+          "ac_number": 58,
+          "constituency_name": "Kasba",
+          "official_name": "Kasba",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4059,
+          "ac_number": 59,
+          "constituency_name": "Banmankhi",
+          "official_name": "Banmankhi (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4060,
+          "ac_number": 60,
+          "constituency_name": "Rupauli",
+          "official_name": "Rupauli",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4061,
+          "ac_number": 61,
+          "constituency_name": "Dhamdaha",
+          "official_name": "Dhamdaha",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4062,
+          "ac_number": 62,
+          "constituency_name": "Purnia",
+          "official_name": "Purnia",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4063,
+          "ac_number": 63,
+          "constituency_name": "Katihar",
+          "official_name": "Katihar",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4064,
+          "ac_number": 64,
+          "constituency_name": "Kadwa",
+          "official_name": "Kadwa",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4065,
+          "ac_number": 65,
+          "constituency_name": "Balrampur",
+          "official_name": "Balrampur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4066,
+          "ac_number": 66,
+          "constituency_name": "Pranpur",
+          "official_name": "Pranpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4067,
+          "ac_number": 67,
+          "constituency_name": "Manihari",
+          "official_name": "Manihari (ST)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4068,
+          "ac_number": 68,
+          "constituency_name": "Barari",
+          "official_name": "Barari",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4069,
+          "ac_number": 69,
+          "constituency_name": "Korha",
+          "official_name": "Korha (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4152,
+          "ac_number": 152,
+          "constituency_name": "Bihpur",
+          "official_name": "Bihpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4153,
+          "ac_number": 153,
+          "constituency_name": "Gopalpur",
+          "official_name": "Gopalpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4154,
+          "ac_number": 154,
+          "constituency_name": "Pirpainti",
+          "official_name": "Pirpainti (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4155,
+          "ac_number": 155,
+          "constituency_name": "Kahalgaon",
+          "official_name": "Kahalgaon",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4156,
+          "ac_number": 156,
+          "constituency_name": "Bhagalpur",
+          "official_name": "Bhagalpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4157,
+          "ac_number": 157,
+          "constituency_name": "Sultanganj",
+          "official_name": "Sultanganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4158,
+          "ac_number": 158,
+          "constituency_name": "Nathnagar",
+          "official_name": "Nathnagar",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4159,
+          "ac_number": 159,
+          "constituency_name": "Amarpur",
+          "official_name": "Amarpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4160,
+          "ac_number": 160,
+          "constituency_name": "Dhauraiya",
+          "official_name": "Dhauraiya (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4161,
+          "ac_number": 161,
+          "constituency_name": "Banka",
+          "official_name": "Banka",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4162,
+          "ac_number": 162,
+          "constituency_name": "Katoria",
+          "official_name": "Katoria (ST)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4163,
+          "ac_number": 163,
+          "constituency_name": "Belhar",
+          "official_name": "Belhar",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4203,
+          "ac_number": 203,
+          "constituency_name": "Ramgarh",
+          "official_name": "Ramgarh",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4204,
+          "ac_number": 204,
+          "constituency_name": "Mohania",
+          "official_name": "Mohania (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4205,
+          "ac_number": 205,
+          "constituency_name": "Bhabua",
+          "official_name": "Bhabua",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4206,
+          "ac_number": 206,
+          "constituency_name": "Chainpur",
+          "official_name": "Chainpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BSP"
+        },
+        {
+          "constcode": 4207,
+          "ac_number": 207,
+          "constituency_name": "Chenari",
+          "official_name": "Chenari (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4208,
+          "ac_number": 208,
+          "constituency_name": "Sasaram",
+          "official_name": "Sasaram",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4209,
+          "ac_number": 209,
+          "constituency_name": "Kargahar",
+          "official_name": "Kargahar",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4210,
+          "ac_number": 210,
+          "constituency_name": "Dinara",
+          "official_name": "Dinara",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4211,
+          "ac_number": 211,
+          "constituency_name": "Nokha",
+          "official_name": "Nokha",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4212,
+          "ac_number": 212,
+          "constituency_name": "Dehri",
+          "official_name": "Dehri",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4213,
+          "ac_number": 213,
+          "constituency_name": "Karakat",
+          "official_name": "Karakat",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4214,
+          "ac_number": 214,
+          "constituency_name": "Arwal",
+          "official_name": "Arwal",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4215,
+          "ac_number": 215,
+          "constituency_name": "Kurtha",
+          "official_name": "Kurtha",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4216,
+          "ac_number": 216,
+          "constituency_name": "Jehanabad",
+          "official_name": "Jehanabad",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4217,
+          "ac_number": 217,
+          "constituency_name": "Ghosi",
+          "official_name": "Ghosi",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4218,
+          "ac_number": 218,
+          "constituency_name": "Makhdumpur",
+          "official_name": "Makhdumpur (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4219,
+          "ac_number": 219,
+          "constituency_name": "Goh",
+          "official_name": "Goh",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4220,
+          "ac_number": 220,
+          "constituency_name": "Obra",
+          "official_name": "Obra",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4221,
+          "ac_number": 221,
+          "constituency_name": "Nabinagar",
+          "official_name": "Nabinagar",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4222,
+          "ac_number": 222,
+          "constituency_name": "Kutumba",
+          "official_name": "Kutumba (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4223,
+          "ac_number": 223,
+          "constituency_name": "Aurangabad",
+          "official_name": "Aurangabad",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4224,
+          "ac_number": 224,
+          "constituency_name": "Rafiganj",
+          "official_name": "Rafiganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4225,
+          "ac_number": 225,
+          "constituency_name": "Gurua",
+          "official_name": "Gurua",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4226,
+          "ac_number": 226,
+          "constituency_name": "Sherghati",
+          "official_name": "Sherghati",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4227,
+          "ac_number": 227,
+          "constituency_name": "Imamganj",
+          "official_name": "Imamganj (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "HAM"
+        },
+        {
+          "constcode": 4228,
+          "ac_number": 228,
+          "constituency_name": "Barachatti",
+          "official_name": "Barachatti (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "HAM"
+        },
+        {
+          "constcode": 4229,
+          "ac_number": 229,
+          "constituency_name": "Bodh Gaya",
+          "official_name": "Bodh Gaya (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4230,
+          "ac_number": 230,
+          "constituency_name": "Gaya Town",
+          "official_name": "Gaya Town",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4231,
+          "ac_number": 231,
+          "constituency_name": "Tikari",
+          "official_name": "Tikari",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "HAM"
+        },
+        {
+          "constcode": 4232,
+          "ac_number": 232,
+          "constituency_name": "Belaganj",
+          "official_name": "Belaganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4233,
+          "ac_number": 233,
+          "constituency_name": "Atri",
+          "official_name": "Atri",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4234,
+          "ac_number": 234,
+          "constituency_name": "Wazirganj",
+          "official_name": "Wazirganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4235,
+          "ac_number": 235,
+          "constituency_name": "Rajauli",
+          "official_name": "Rajauli (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4236,
+          "ac_number": 236,
+          "constituency_name": "Hisua",
+          "official_name": "Hisua",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4237,
+          "ac_number": 237,
+          "constituency_name": "Nawada",
+          "official_name": "Nawada",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4238,
+          "ac_number": 238,
+          "constituency_name": "Gobindpur",
+          "official_name": "Gobindpur",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4239,
+          "ac_number": 239,
+          "constituency_name": "Warsaliganj",
+          "official_name": "Warsaliganj",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4240,
+          "ac_number": 240,
+          "constituency_name": "Sikandra",
+          "official_name": "Sikandra (SC)",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "HAM"
+        },
+        {
+          "constcode": 4241,
+          "ac_number": 241,
+          "constituency_name": "Jamui",
+          "official_name": "Jamui",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4242,
+          "ac_number": 242,
+          "constituency_name": "Jhajha",
+          "official_name": "Jhajha",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4243,
+          "ac_number": 243,
+          "constituency_name": "Chakai",
+          "official_name": "Chakai",
+          "phase": "Phase 2",
+          "polling_date": "Nov 11, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "IND"
+        }
+      ]
+    },
+    {
+      "phase_name": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "constituencies_count": 121,
+      "constituencies": [
+        {
+          "constcode": 4070,
+          "ac_number": 70,
+          "constituency_name": "Alamnagar",
+          "official_name": "Alamnagar",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4071,
+          "ac_number": 71,
+          "constituency_name": "Bihariganj",
+          "official_name": "Bihariganj",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4072,
+          "ac_number": 72,
+          "constituency_name": "Singheshwar",
+          "official_name": "Singheshwar (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4073,
+          "ac_number": 73,
+          "constituency_name": "Madhepura",
+          "official_name": "Madhepura",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4074,
+          "ac_number": 74,
+          "constituency_name": "Sonbarsha",
+          "official_name": "Sonbarsha (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4075,
+          "ac_number": 75,
+          "constituency_name": "Saharsa",
+          "official_name": "Saharsa",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4076,
+          "ac_number": 76,
+          "constituency_name": "Simri Bakhtiarpur",
+          "official_name": "Simri Bakhtiarpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4077,
+          "ac_number": 77,
+          "constituency_name": "Mahishi",
+          "official_name": "Mahishi",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4078,
+          "ac_number": 78,
+          "constituency_name": "Kusheshwar Asthan",
+          "official_name": "Kusheshwar Asthan (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4079,
+          "ac_number": 79,
+          "constituency_name": "Gaura Bauram",
+          "official_name": "Gaura Bauram",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "VIP"
+        },
+        {
+          "constcode": 4080,
+          "ac_number": 80,
+          "constituency_name": "Benipur",
+          "official_name": "Benipur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4081,
+          "ac_number": 81,
+          "constituency_name": "Alinagar",
+          "official_name": "Alinagar",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "VIP"
+        },
+        {
+          "constcode": 4082,
+          "ac_number": 82,
+          "constituency_name": "Darbhanga Rural",
+          "official_name": "Darbhanga Rural",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4083,
+          "ac_number": 83,
+          "constituency_name": "Darbhanga",
+          "official_name": "Darbhanga",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4084,
+          "ac_number": 84,
+          "constituency_name": "Hayaghat",
+          "official_name": "Hayaghat",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4085,
+          "ac_number": 85,
+          "constituency_name": "Bahadurpur",
+          "official_name": "Bahadurpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4086,
+          "ac_number": 86,
+          "constituency_name": "Keoti",
+          "official_name": "Keoti",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4087,
+          "ac_number": 87,
+          "constituency_name": "Jale",
+          "official_name": "Jale",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4088,
+          "ac_number": 88,
+          "constituency_name": "Gaighat",
+          "official_name": "Gaighat",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4089,
+          "ac_number": 89,
+          "constituency_name": "Aurai",
+          "official_name": "Aurai",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4090,
+          "ac_number": 90,
+          "constituency_name": "Minapur",
+          "official_name": "Minapur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4091,
+          "ac_number": 91,
+          "constituency_name": "Bochaha",
+          "official_name": "Bochaha (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "VIP"
+        },
+        {
+          "constcode": 4092,
+          "ac_number": 92,
+          "constituency_name": "Sakra",
+          "official_name": "Sakra (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4093,
+          "ac_number": 93,
+          "constituency_name": "Kurhani",
+          "official_name": "Kurhani",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4094,
+          "ac_number": 94,
+          "constituency_name": "Muzaffarpur",
+          "official_name": "Muzaffarpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4095,
+          "ac_number": 95,
+          "constituency_name": "Kanti",
+          "official_name": "Kanti",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4096,
+          "ac_number": 96,
+          "constituency_name": "Baruraj",
+          "official_name": "Baruraj",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4097,
+          "ac_number": 97,
+          "constituency_name": "Paroo",
+          "official_name": "Paroo",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4098,
+          "ac_number": 98,
+          "constituency_name": "Sahebganj",
+          "official_name": "Sahebganj",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "VIP"
+        },
+        {
+          "constcode": 4099,
+          "ac_number": 99,
+          "constituency_name": "Baikunthpur",
+          "official_name": "Baikunthpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4100,
+          "ac_number": 100,
+          "constituency_name": "Barauli",
+          "official_name": "Barauli",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4101,
+          "ac_number": 101,
+          "constituency_name": "Gopalganj",
+          "official_name": "Gopalganj",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4102,
+          "ac_number": 102,
+          "constituency_name": "Kuchaikote",
+          "official_name": "Kuchaikote",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4103,
+          "ac_number": 103,
+          "constituency_name": "Bhorey",
+          "official_name": "Bhorey (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4104,
+          "ac_number": 104,
+          "constituency_name": "Hathua",
+          "official_name": "Hathua",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4105,
+          "ac_number": 105,
+          "constituency_name": "Siwan",
+          "official_name": "Siwan",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4106,
+          "ac_number": 106,
+          "constituency_name": "Ziradei",
+          "official_name": "Ziradei",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4107,
+          "ac_number": 107,
+          "constituency_name": "Darauli",
+          "official_name": "Darauli (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4108,
+          "ac_number": 108,
+          "constituency_name": "Raghunathpur",
+          "official_name": "Raghunathpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4109,
+          "ac_number": 109,
+          "constituency_name": "Daraundha",
+          "official_name": "Daraundha",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4110,
+          "ac_number": 110,
+          "constituency_name": "Barharia",
+          "official_name": "Barharia",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4111,
+          "ac_number": 111,
+          "constituency_name": "Goriakothi",
+          "official_name": "Goriakothi",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4112,
+          "ac_number": 112,
+          "constituency_name": "Maharajganj",
+          "official_name": "Maharajganj",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4113,
+          "ac_number": 113,
+          "constituency_name": "Ekma",
+          "official_name": "Ekma",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4114,
+          "ac_number": 114,
+          "constituency_name": "Manjhi",
+          "official_name": "Manjhi",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPM"
+        },
+        {
+          "constcode": 4115,
+          "ac_number": 115,
+          "constituency_name": "Baniapur",
+          "official_name": "Baniapur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4116,
+          "ac_number": 116,
+          "constituency_name": "Taraiya",
+          "official_name": "Taraiya",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4117,
+          "ac_number": 117,
+          "constituency_name": "Marhaura",
+          "official_name": "Marhaura",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4118,
+          "ac_number": 118,
+          "constituency_name": "Chapra",
+          "official_name": "Chapra",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4119,
+          "ac_number": 119,
+          "constituency_name": "Garkha",
+          "official_name": "Garkha (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4120,
+          "ac_number": 120,
+          "constituency_name": "Amnour",
+          "official_name": "Amnour",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4121,
+          "ac_number": 121,
+          "constituency_name": "Parsa",
+          "official_name": "Parsa",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4122,
+          "ac_number": 122,
+          "constituency_name": "Sonepur",
+          "official_name": "Sonepur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4123,
+          "ac_number": 123,
+          "constituency_name": "Hajipur",
+          "official_name": "Hajipur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4124,
+          "ac_number": 124,
+          "constituency_name": "Lalganj",
+          "official_name": "Lalganj",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4125,
+          "ac_number": 125,
+          "constituency_name": "Vaishali",
+          "official_name": "Vaishali",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4126,
+          "ac_number": 126,
+          "constituency_name": "Mahua",
+          "official_name": "Mahua",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4127,
+          "ac_number": 127,
+          "constituency_name": "Raja Pakar",
+          "official_name": "Raja Pakar (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4128,
+          "ac_number": 128,
+          "constituency_name": "Raghopur",
+          "official_name": "Raghopur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4129,
+          "ac_number": 129,
+          "constituency_name": "Mahnar",
+          "official_name": "Mahnar",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4130,
+          "ac_number": 130,
+          "constituency_name": "Patepur",
+          "official_name": "Patepur (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4131,
+          "ac_number": 131,
+          "constituency_name": "Kalyanpur",
+          "official_name": "Kalyanpur (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4132,
+          "ac_number": 132,
+          "constituency_name": "Warisnagar",
+          "official_name": "Warisnagar",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4133,
+          "ac_number": 133,
+          "constituency_name": "Samastipur",
+          "official_name": "Samastipur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4134,
+          "ac_number": 134,
+          "constituency_name": "Ujiarpur",
+          "official_name": "Ujiarpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4135,
+          "ac_number": 135,
+          "constituency_name": "Morwa",
+          "official_name": "Morwa",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4136,
+          "ac_number": 136,
+          "constituency_name": "Sarairanjan",
+          "official_name": "Sarairanjan",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4137,
+          "ac_number": 137,
+          "constituency_name": "Mohiuddinnagar",
+          "official_name": "Mohiuddinnagar",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4138,
+          "ac_number": 138,
+          "constituency_name": "Bibhutipur",
+          "official_name": "Bibhutipur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPM"
+        },
+        {
+          "constcode": 4139,
+          "ac_number": 139,
+          "constituency_name": "Rosera",
+          "official_name": "Rosera (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4140,
+          "ac_number": 140,
+          "constituency_name": "Hasanpur",
+          "official_name": "Hasanpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4141,
+          "ac_number": 141,
+          "constituency_name": "Cheria Bariarpur",
+          "official_name": "Cheria Bariarpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4142,
+          "ac_number": 142,
+          "constituency_name": "Bachhwara",
+          "official_name": "Bachhwara",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4143,
+          "ac_number": 143,
+          "constituency_name": "Teghra",
+          "official_name": "Teghra",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPI"
+        },
+        {
+          "constcode": 4144,
+          "ac_number": 144,
+          "constituency_name": "Matihani",
+          "official_name": "Matihani",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "LJP"
+        },
+        {
+          "constcode": 4145,
+          "ac_number": 145,
+          "constituency_name": "Sahebpur Kamal",
+          "official_name": "Sahebpur Kamal",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4146,
+          "ac_number": 146,
+          "constituency_name": "Begusarai",
+          "official_name": "Begusarai",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4147,
+          "ac_number": 147,
+          "constituency_name": "Bakhri",
+          "official_name": "Bakhri (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPI"
+        },
+        {
+          "constcode": 4148,
+          "ac_number": 148,
+          "constituency_name": "Alauli",
+          "official_name": "Alauli (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4149,
+          "ac_number": 149,
+          "constituency_name": "Khagaria",
+          "official_name": "Khagaria",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4150,
+          "ac_number": 150,
+          "constituency_name": "Beldaur",
+          "official_name": "Beldaur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4151,
+          "ac_number": 151,
+          "constituency_name": "Parbatta",
+          "official_name": "Parbatta",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4164,
+          "ac_number": 164,
+          "constituency_name": "Tarapur",
+          "official_name": "Tarapur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4165,
+          "ac_number": 165,
+          "constituency_name": "Munger",
+          "official_name": "Munger",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4166,
+          "ac_number": 166,
+          "constituency_name": "Jamalpur",
+          "official_name": "Jamalpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4167,
+          "ac_number": 167,
+          "constituency_name": "Suryagarha",
+          "official_name": "Suryagarha",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4168,
+          "ac_number": 168,
+          "constituency_name": "Lakhisarai",
+          "official_name": "Lakhisarai",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4169,
+          "ac_number": 169,
+          "constituency_name": "Sheikhpura",
+          "official_name": "Sheikhpura",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4170,
+          "ac_number": 170,
+          "constituency_name": "Barbigha",
+          "official_name": "Barbigha",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4171,
+          "ac_number": 171,
+          "constituency_name": "Asthawan",
+          "official_name": "Asthawan",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4172,
+          "ac_number": 172,
+          "constituency_name": "Biharsharif",
+          "official_name": "Biharsharif",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4173,
+          "ac_number": 173,
+          "constituency_name": "Rajgir",
+          "official_name": "Rajgir (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4174,
+          "ac_number": 174,
+          "constituency_name": "Islampur",
+          "official_name": "Islampur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4175,
+          "ac_number": 175,
+          "constituency_name": "Hilsa",
+          "official_name": "Hilsa",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4176,
+          "ac_number": 176,
+          "constituency_name": "Nalanda",
+          "official_name": "Nalanda",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4177,
+          "ac_number": 177,
+          "constituency_name": "Harnaut",
+          "official_name": "Harnaut",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "JDU"
+        },
+        {
+          "constcode": 4178,
+          "ac_number": 178,
+          "constituency_name": "Mokama",
+          "official_name": "Mokama",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4179,
+          "ac_number": 179,
+          "constituency_name": "Barh",
+          "official_name": "Barh",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4180,
+          "ac_number": 180,
+          "constituency_name": "Bakhtiarpur",
+          "official_name": "Bakhtiarpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4181,
+          "ac_number": 181,
+          "constituency_name": "Digha",
+          "official_name": "Digha",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4182,
+          "ac_number": 182,
+          "constituency_name": "Bankipur",
+          "official_name": "Bankipur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4183,
+          "ac_number": 183,
+          "constituency_name": "Kumhrar",
+          "official_name": "Kumhrar",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4184,
+          "ac_number": 184,
+          "constituency_name": "Patna Sahib",
+          "official_name": "Patna Sahib",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4185,
+          "ac_number": 185,
+          "constituency_name": "Fatuha",
+          "official_name": "Fatuha",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4186,
+          "ac_number": 186,
+          "constituency_name": "Danapur",
+          "official_name": "Danapur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4187,
+          "ac_number": 187,
+          "constituency_name": "Maner",
+          "official_name": "Maner",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4188,
+          "ac_number": 188,
+          "constituency_name": "Phulwari",
+          "official_name": "Phulwari (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4189,
+          "ac_number": 189,
+          "constituency_name": "Masaurhi",
+          "official_name": "Masaurhi (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4190,
+          "ac_number": 190,
+          "constituency_name": "Paliganj",
+          "official_name": "Paliganj",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4191,
+          "ac_number": 191,
+          "constituency_name": "Bikram",
+          "official_name": "Bikram",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4192,
+          "ac_number": 192,
+          "constituency_name": "Sandesh",
+          "official_name": "Sandesh",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4193,
+          "ac_number": 193,
+          "constituency_name": "Barhara",
+          "official_name": "Barhara",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4194,
+          "ac_number": 194,
+          "constituency_name": "Arrah",
+          "official_name": "Arrah",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "BJP"
+        },
+        {
+          "constcode": 4195,
+          "ac_number": 195,
+          "constituency_name": "Agiaon",
+          "official_name": "Agiaon (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4196,
+          "ac_number": 196,
+          "constituency_name": "Tarari",
+          "official_name": "Tarari",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4197,
+          "ac_number": 197,
+          "constituency_name": "Jagdishpur",
+          "official_name": "Jagdishpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4198,
+          "ac_number": 198,
+          "constituency_name": "Shahpur",
+          "official_name": "Shahpur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4199,
+          "ac_number": 199,
+          "constituency_name": "Brahampur",
+          "official_name": "Brahampur",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "RJD"
+        },
+        {
+          "constcode": 4200,
+          "ac_number": 200,
+          "constituency_name": "Buxar",
+          "official_name": "Buxar",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        },
+        {
+          "constcode": 4201,
+          "ac_number": 201,
+          "constituency_name": "Dumraon",
+          "official_name": "Dumraon",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "CPIML"
+        },
+        {
+          "constcode": 4202,
+          "ac_number": 202,
+          "constituency_name": "Rajpur",
+          "official_name": "Rajpur (SC)",
+          "phase": "Phase 1",
+          "polling_date": "Nov 6, 2025",
+          "counting_date": "Nov 14, 2025",
+          "winner_2020": "Cong"
+        }
+      ]
+    }
+  ],
+  "important_dates": {
+    "first_phase_polling": "Nov 6, 2025",
+    "second_phase_polling": "Nov 11, 2025",
+    "counting_date": "Nov 14, 2025"
+  },
+  "constituency_schedule": [
+    {
+      "constcode": 4001,
+      "ac_number": 1,
+      "constituency_name": "Valmiki Nagar",
+      "official_name": "Valmiki Nagar",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4002,
+      "ac_number": 2,
+      "constituency_name": "Ramnagar",
+      "official_name": "Ramnagar (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4003,
+      "ac_number": 3,
+      "constituency_name": "Narkatiaganj",
+      "official_name": "Narkatiaganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4004,
+      "ac_number": 4,
+      "constituency_name": "Bagaha",
+      "official_name": "Bagaha",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4005,
+      "ac_number": 5,
+      "constituency_name": "Lauriya",
+      "official_name": "Lauriya",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4006,
+      "ac_number": 6,
+      "constituency_name": "Nautan",
+      "official_name": "Nautan",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4007,
+      "ac_number": 7,
+      "constituency_name": "Chanpatia",
+      "official_name": "Chanpatia",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4008,
+      "ac_number": 8,
+      "constituency_name": "Bettiah",
+      "official_name": "Bettiah",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4009,
+      "ac_number": 9,
+      "constituency_name": "Sikta",
+      "official_name": "Sikta",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4010,
+      "ac_number": 10,
+      "constituency_name": "Raxaul",
+      "official_name": "Raxaul",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4011,
+      "ac_number": 11,
+      "constituency_name": "Sugauli",
+      "official_name": "Sugauli",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4012,
+      "ac_number": 12,
+      "constituency_name": "Narkatia",
+      "official_name": "Narkatia",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4013,
+      "ac_number": 13,
+      "constituency_name": "Harsidhi",
+      "official_name": "Harsidhi (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4014,
+      "ac_number": 14,
+      "constituency_name": "Govindganj",
+      "official_name": "Govindganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4015,
+      "ac_number": 15,
+      "constituency_name": "Kesaria",
+      "official_name": "Kesaria",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4016,
+      "ac_number": 16,
+      "constituency_name": "Kalyanpur",
+      "official_name": "Kalyanpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4017,
+      "ac_number": 17,
+      "constituency_name": "Pipra",
+      "official_name": "Pipra",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4018,
+      "ac_number": 18,
+      "constituency_name": "Madhuban",
+      "official_name": "Madhuban",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4019,
+      "ac_number": 19,
+      "constituency_name": "Motihari",
+      "official_name": "Motihari",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4020,
+      "ac_number": 20,
+      "constituency_name": "Chiraia",
+      "official_name": "Chiraia",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4021,
+      "ac_number": 21,
+      "constituency_name": "Dhaka",
+      "official_name": "Dhaka",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4022,
+      "ac_number": 22,
+      "constituency_name": "Sheohar",
+      "official_name": "Sheohar",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4023,
+      "ac_number": 23,
+      "constituency_name": "Riga",
+      "official_name": "Riga",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4024,
+      "ac_number": 24,
+      "constituency_name": "Bathnaha",
+      "official_name": "Bathnaha (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4025,
+      "ac_number": 25,
+      "constituency_name": "Parihar",
+      "official_name": "Parihar",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4026,
+      "ac_number": 26,
+      "constituency_name": "Sursand",
+      "official_name": "Sursand",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4027,
+      "ac_number": 27,
+      "constituency_name": "Bajpatti",
+      "official_name": "Bajpatti",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4028,
+      "ac_number": 28,
+      "constituency_name": "Sitamarhi",
+      "official_name": "Sitamarhi",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4029,
+      "ac_number": 29,
+      "constituency_name": "Runnisaidpur",
+      "official_name": "Runnisaidpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4030,
+      "ac_number": 30,
+      "constituency_name": "Belsand",
+      "official_name": "Belsand",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4031,
+      "ac_number": 31,
+      "constituency_name": "Harlakhi",
+      "official_name": "Harlakhi",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4032,
+      "ac_number": 32,
+      "constituency_name": "Benipatti",
+      "official_name": "Benipatti",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4033,
+      "ac_number": 33,
+      "constituency_name": "Khajauli",
+      "official_name": "Khajauli",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4034,
+      "ac_number": 34,
+      "constituency_name": "Babubarhi",
+      "official_name": "Babubarhi",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4035,
+      "ac_number": 35,
+      "constituency_name": "Bisfi",
+      "official_name": "Bisfi",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4036,
+      "ac_number": 36,
+      "constituency_name": "Madhubani",
+      "official_name": "Madhubani",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4037,
+      "ac_number": 37,
+      "constituency_name": "Rajnagar",
+      "official_name": "Rajnagar (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4038,
+      "ac_number": 38,
+      "constituency_name": "Jhanjharpur",
+      "official_name": "Jhanjharpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4039,
+      "ac_number": 39,
+      "constituency_name": "Phulparas",
+      "official_name": "Phulparas",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4040,
+      "ac_number": 40,
+      "constituency_name": "Laukaha",
+      "official_name": "Laukaha",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4041,
+      "ac_number": 41,
+      "constituency_name": "Nirmali",
+      "official_name": "Nirmali",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4042,
+      "ac_number": 42,
+      "constituency_name": "Pipra",
+      "official_name": "Pipra",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4043,
+      "ac_number": 43,
+      "constituency_name": "Supaul",
+      "official_name": "Supaul",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4044,
+      "ac_number": 44,
+      "constituency_name": "Triveniganj",
+      "official_name": "Triveniganj (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4045,
+      "ac_number": 45,
+      "constituency_name": "Chhatapur",
+      "official_name": "Chhatapur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4046,
+      "ac_number": 46,
+      "constituency_name": "Narpatganj",
+      "official_name": "Narpatganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4047,
+      "ac_number": 47,
+      "constituency_name": "Raniganj",
+      "official_name": "Raniganj (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4048,
+      "ac_number": 48,
+      "constituency_name": "Forbesganj",
+      "official_name": "Forbesganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4049,
+      "ac_number": 49,
+      "constituency_name": "Araria",
+      "official_name": "Araria",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4050,
+      "ac_number": 50,
+      "constituency_name": "Jokihat",
+      "official_name": "Jokihat",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "AIMIM"
+    },
+    {
+      "constcode": 4051,
+      "ac_number": 51,
+      "constituency_name": "Sikti",
+      "official_name": "Sikti",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4052,
+      "ac_number": 52,
+      "constituency_name": "Bahadurganj",
+      "official_name": "Bahadurganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "AIMIM"
+    },
+    {
+      "constcode": 4053,
+      "ac_number": 53,
+      "constituency_name": "Thakurganj",
+      "official_name": "Thakurganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4054,
+      "ac_number": 54,
+      "constituency_name": "Kishanganj",
+      "official_name": "Kishanganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4055,
+      "ac_number": 55,
+      "constituency_name": "Kochadhaman",
+      "official_name": "Kochadhaman",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "AIMIM"
+    },
+    {
+      "constcode": 4056,
+      "ac_number": 56,
+      "constituency_name": "Amour",
+      "official_name": "Amour",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "AIMIM"
+    },
+    {
+      "constcode": 4057,
+      "ac_number": 57,
+      "constituency_name": "Baisi",
+      "official_name": "Baisi",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "AIMIM"
+    },
+    {
+      "constcode": 4058,
+      "ac_number": 58,
+      "constituency_name": "Kasba",
+      "official_name": "Kasba",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4059,
+      "ac_number": 59,
+      "constituency_name": "Banmankhi",
+      "official_name": "Banmankhi (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4060,
+      "ac_number": 60,
+      "constituency_name": "Rupauli",
+      "official_name": "Rupauli",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4061,
+      "ac_number": 61,
+      "constituency_name": "Dhamdaha",
+      "official_name": "Dhamdaha",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4062,
+      "ac_number": 62,
+      "constituency_name": "Purnia",
+      "official_name": "Purnia",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4063,
+      "ac_number": 63,
+      "constituency_name": "Katihar",
+      "official_name": "Katihar",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4064,
+      "ac_number": 64,
+      "constituency_name": "Kadwa",
+      "official_name": "Kadwa",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4065,
+      "ac_number": 65,
+      "constituency_name": "Balrampur",
+      "official_name": "Balrampur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4066,
+      "ac_number": 66,
+      "constituency_name": "Pranpur",
+      "official_name": "Pranpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4067,
+      "ac_number": 67,
+      "constituency_name": "Manihari",
+      "official_name": "Manihari (ST)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4068,
+      "ac_number": 68,
+      "constituency_name": "Barari",
+      "official_name": "Barari",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4069,
+      "ac_number": 69,
+      "constituency_name": "Korha",
+      "official_name": "Korha (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4070,
+      "ac_number": 70,
+      "constituency_name": "Alamnagar",
+      "official_name": "Alamnagar",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4071,
+      "ac_number": 71,
+      "constituency_name": "Bihariganj",
+      "official_name": "Bihariganj",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4072,
+      "ac_number": 72,
+      "constituency_name": "Singheshwar",
+      "official_name": "Singheshwar (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4073,
+      "ac_number": 73,
+      "constituency_name": "Madhepura",
+      "official_name": "Madhepura",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4074,
+      "ac_number": 74,
+      "constituency_name": "Sonbarsha",
+      "official_name": "Sonbarsha (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4075,
+      "ac_number": 75,
+      "constituency_name": "Saharsa",
+      "official_name": "Saharsa",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4076,
+      "ac_number": 76,
+      "constituency_name": "Simri Bakhtiarpur",
+      "official_name": "Simri Bakhtiarpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4077,
+      "ac_number": 77,
+      "constituency_name": "Mahishi",
+      "official_name": "Mahishi",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4078,
+      "ac_number": 78,
+      "constituency_name": "Kusheshwar Asthan",
+      "official_name": "Kusheshwar Asthan (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4079,
+      "ac_number": 79,
+      "constituency_name": "Gaura Bauram",
+      "official_name": "Gaura Bauram",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "VIP"
+    },
+    {
+      "constcode": 4080,
+      "ac_number": 80,
+      "constituency_name": "Benipur",
+      "official_name": "Benipur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4081,
+      "ac_number": 81,
+      "constituency_name": "Alinagar",
+      "official_name": "Alinagar",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "VIP"
+    },
+    {
+      "constcode": 4082,
+      "ac_number": 82,
+      "constituency_name": "Darbhanga Rural",
+      "official_name": "Darbhanga Rural",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4083,
+      "ac_number": 83,
+      "constituency_name": "Darbhanga",
+      "official_name": "Darbhanga",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4084,
+      "ac_number": 84,
+      "constituency_name": "Hayaghat",
+      "official_name": "Hayaghat",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4085,
+      "ac_number": 85,
+      "constituency_name": "Bahadurpur",
+      "official_name": "Bahadurpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4086,
+      "ac_number": 86,
+      "constituency_name": "Keoti",
+      "official_name": "Keoti",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4087,
+      "ac_number": 87,
+      "constituency_name": "Jale",
+      "official_name": "Jale",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4088,
+      "ac_number": 88,
+      "constituency_name": "Gaighat",
+      "official_name": "Gaighat",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4089,
+      "ac_number": 89,
+      "constituency_name": "Aurai",
+      "official_name": "Aurai",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4090,
+      "ac_number": 90,
+      "constituency_name": "Minapur",
+      "official_name": "Minapur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4091,
+      "ac_number": 91,
+      "constituency_name": "Bochaha",
+      "official_name": "Bochaha (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "VIP"
+    },
+    {
+      "constcode": 4092,
+      "ac_number": 92,
+      "constituency_name": "Sakra",
+      "official_name": "Sakra (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4093,
+      "ac_number": 93,
+      "constituency_name": "Kurhani",
+      "official_name": "Kurhani",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4094,
+      "ac_number": 94,
+      "constituency_name": "Muzaffarpur",
+      "official_name": "Muzaffarpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4095,
+      "ac_number": 95,
+      "constituency_name": "Kanti",
+      "official_name": "Kanti",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4096,
+      "ac_number": 96,
+      "constituency_name": "Baruraj",
+      "official_name": "Baruraj",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4097,
+      "ac_number": 97,
+      "constituency_name": "Paroo",
+      "official_name": "Paroo",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4098,
+      "ac_number": 98,
+      "constituency_name": "Sahebganj",
+      "official_name": "Sahebganj",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "VIP"
+    },
+    {
+      "constcode": 4099,
+      "ac_number": 99,
+      "constituency_name": "Baikunthpur",
+      "official_name": "Baikunthpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4100,
+      "ac_number": 100,
+      "constituency_name": "Barauli",
+      "official_name": "Barauli",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4101,
+      "ac_number": 101,
+      "constituency_name": "Gopalganj",
+      "official_name": "Gopalganj",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4102,
+      "ac_number": 102,
+      "constituency_name": "Kuchaikote",
+      "official_name": "Kuchaikote",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4103,
+      "ac_number": 103,
+      "constituency_name": "Bhorey",
+      "official_name": "Bhorey (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4104,
+      "ac_number": 104,
+      "constituency_name": "Hathua",
+      "official_name": "Hathua",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4105,
+      "ac_number": 105,
+      "constituency_name": "Siwan",
+      "official_name": "Siwan",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4106,
+      "ac_number": 106,
+      "constituency_name": "Ziradei",
+      "official_name": "Ziradei",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4107,
+      "ac_number": 107,
+      "constituency_name": "Darauli",
+      "official_name": "Darauli (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4108,
+      "ac_number": 108,
+      "constituency_name": "Raghunathpur",
+      "official_name": "Raghunathpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4109,
+      "ac_number": 109,
+      "constituency_name": "Daraundha",
+      "official_name": "Daraundha",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4110,
+      "ac_number": 110,
+      "constituency_name": "Barharia",
+      "official_name": "Barharia",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4111,
+      "ac_number": 111,
+      "constituency_name": "Goriakothi",
+      "official_name": "Goriakothi",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4112,
+      "ac_number": 112,
+      "constituency_name": "Maharajganj",
+      "official_name": "Maharajganj",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4113,
+      "ac_number": 113,
+      "constituency_name": "Ekma",
+      "official_name": "Ekma",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4114,
+      "ac_number": 114,
+      "constituency_name": "Manjhi",
+      "official_name": "Manjhi",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPM"
+    },
+    {
+      "constcode": 4115,
+      "ac_number": 115,
+      "constituency_name": "Baniapur",
+      "official_name": "Baniapur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4116,
+      "ac_number": 116,
+      "constituency_name": "Taraiya",
+      "official_name": "Taraiya",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4117,
+      "ac_number": 117,
+      "constituency_name": "Marhaura",
+      "official_name": "Marhaura",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4118,
+      "ac_number": 118,
+      "constituency_name": "Chapra",
+      "official_name": "Chapra",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4119,
+      "ac_number": 119,
+      "constituency_name": "Garkha",
+      "official_name": "Garkha (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4120,
+      "ac_number": 120,
+      "constituency_name": "Amnour",
+      "official_name": "Amnour",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4121,
+      "ac_number": 121,
+      "constituency_name": "Parsa",
+      "official_name": "Parsa",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4122,
+      "ac_number": 122,
+      "constituency_name": "Sonepur",
+      "official_name": "Sonepur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4123,
+      "ac_number": 123,
+      "constituency_name": "Hajipur",
+      "official_name": "Hajipur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4124,
+      "ac_number": 124,
+      "constituency_name": "Lalganj",
+      "official_name": "Lalganj",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4125,
+      "ac_number": 125,
+      "constituency_name": "Vaishali",
+      "official_name": "Vaishali",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4126,
+      "ac_number": 126,
+      "constituency_name": "Mahua",
+      "official_name": "Mahua",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4127,
+      "ac_number": 127,
+      "constituency_name": "Raja Pakar",
+      "official_name": "Raja Pakar (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4128,
+      "ac_number": 128,
+      "constituency_name": "Raghopur",
+      "official_name": "Raghopur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4129,
+      "ac_number": 129,
+      "constituency_name": "Mahnar",
+      "official_name": "Mahnar",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4130,
+      "ac_number": 130,
+      "constituency_name": "Patepur",
+      "official_name": "Patepur (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4131,
+      "ac_number": 131,
+      "constituency_name": "Kalyanpur",
+      "official_name": "Kalyanpur (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4132,
+      "ac_number": 132,
+      "constituency_name": "Warisnagar",
+      "official_name": "Warisnagar",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4133,
+      "ac_number": 133,
+      "constituency_name": "Samastipur",
+      "official_name": "Samastipur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4134,
+      "ac_number": 134,
+      "constituency_name": "Ujiarpur",
+      "official_name": "Ujiarpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4135,
+      "ac_number": 135,
+      "constituency_name": "Morwa",
+      "official_name": "Morwa",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4136,
+      "ac_number": 136,
+      "constituency_name": "Sarairanjan",
+      "official_name": "Sarairanjan",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4137,
+      "ac_number": 137,
+      "constituency_name": "Mohiuddinnagar",
+      "official_name": "Mohiuddinnagar",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4138,
+      "ac_number": 138,
+      "constituency_name": "Bibhutipur",
+      "official_name": "Bibhutipur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPM"
+    },
+    {
+      "constcode": 4139,
+      "ac_number": 139,
+      "constituency_name": "Rosera",
+      "official_name": "Rosera (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4140,
+      "ac_number": 140,
+      "constituency_name": "Hasanpur",
+      "official_name": "Hasanpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4141,
+      "ac_number": 141,
+      "constituency_name": "Cheria Bariarpur",
+      "official_name": "Cheria Bariarpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4142,
+      "ac_number": 142,
+      "constituency_name": "Bachhwara",
+      "official_name": "Bachhwara",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4143,
+      "ac_number": 143,
+      "constituency_name": "Teghra",
+      "official_name": "Teghra",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPI"
+    },
+    {
+      "constcode": 4144,
+      "ac_number": 144,
+      "constituency_name": "Matihani",
+      "official_name": "Matihani",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "LJP"
+    },
+    {
+      "constcode": 4145,
+      "ac_number": 145,
+      "constituency_name": "Sahebpur Kamal",
+      "official_name": "Sahebpur Kamal",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4146,
+      "ac_number": 146,
+      "constituency_name": "Begusarai",
+      "official_name": "Begusarai",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4147,
+      "ac_number": 147,
+      "constituency_name": "Bakhri",
+      "official_name": "Bakhri (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPI"
+    },
+    {
+      "constcode": 4148,
+      "ac_number": 148,
+      "constituency_name": "Alauli",
+      "official_name": "Alauli (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4149,
+      "ac_number": 149,
+      "constituency_name": "Khagaria",
+      "official_name": "Khagaria",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4150,
+      "ac_number": 150,
+      "constituency_name": "Beldaur",
+      "official_name": "Beldaur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4151,
+      "ac_number": 151,
+      "constituency_name": "Parbatta",
+      "official_name": "Parbatta",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4152,
+      "ac_number": 152,
+      "constituency_name": "Bihpur",
+      "official_name": "Bihpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4153,
+      "ac_number": 153,
+      "constituency_name": "Gopalpur",
+      "official_name": "Gopalpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4154,
+      "ac_number": 154,
+      "constituency_name": "Pirpainti",
+      "official_name": "Pirpainti (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4155,
+      "ac_number": 155,
+      "constituency_name": "Kahalgaon",
+      "official_name": "Kahalgaon",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4156,
+      "ac_number": 156,
+      "constituency_name": "Bhagalpur",
+      "official_name": "Bhagalpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4157,
+      "ac_number": 157,
+      "constituency_name": "Sultanganj",
+      "official_name": "Sultanganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4158,
+      "ac_number": 158,
+      "constituency_name": "Nathnagar",
+      "official_name": "Nathnagar",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4159,
+      "ac_number": 159,
+      "constituency_name": "Amarpur",
+      "official_name": "Amarpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4160,
+      "ac_number": 160,
+      "constituency_name": "Dhauraiya",
+      "official_name": "Dhauraiya (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4161,
+      "ac_number": 161,
+      "constituency_name": "Banka",
+      "official_name": "Banka",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4162,
+      "ac_number": 162,
+      "constituency_name": "Katoria",
+      "official_name": "Katoria (ST)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4163,
+      "ac_number": 163,
+      "constituency_name": "Belhar",
+      "official_name": "Belhar",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4164,
+      "ac_number": 164,
+      "constituency_name": "Tarapur",
+      "official_name": "Tarapur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4165,
+      "ac_number": 165,
+      "constituency_name": "Munger",
+      "official_name": "Munger",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4166,
+      "ac_number": 166,
+      "constituency_name": "Jamalpur",
+      "official_name": "Jamalpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4167,
+      "ac_number": 167,
+      "constituency_name": "Suryagarha",
+      "official_name": "Suryagarha",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4168,
+      "ac_number": 168,
+      "constituency_name": "Lakhisarai",
+      "official_name": "Lakhisarai",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4169,
+      "ac_number": 169,
+      "constituency_name": "Sheikhpura",
+      "official_name": "Sheikhpura",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4170,
+      "ac_number": 170,
+      "constituency_name": "Barbigha",
+      "official_name": "Barbigha",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4171,
+      "ac_number": 171,
+      "constituency_name": "Asthawan",
+      "official_name": "Asthawan",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4172,
+      "ac_number": 172,
+      "constituency_name": "Biharsharif",
+      "official_name": "Biharsharif",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4173,
+      "ac_number": 173,
+      "constituency_name": "Rajgir",
+      "official_name": "Rajgir (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4174,
+      "ac_number": 174,
+      "constituency_name": "Islampur",
+      "official_name": "Islampur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4175,
+      "ac_number": 175,
+      "constituency_name": "Hilsa",
+      "official_name": "Hilsa",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4176,
+      "ac_number": 176,
+      "constituency_name": "Nalanda",
+      "official_name": "Nalanda",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4177,
+      "ac_number": 177,
+      "constituency_name": "Harnaut",
+      "official_name": "Harnaut",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4178,
+      "ac_number": 178,
+      "constituency_name": "Mokama",
+      "official_name": "Mokama",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4179,
+      "ac_number": 179,
+      "constituency_name": "Barh",
+      "official_name": "Barh",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4180,
+      "ac_number": 180,
+      "constituency_name": "Bakhtiarpur",
+      "official_name": "Bakhtiarpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4181,
+      "ac_number": 181,
+      "constituency_name": "Digha",
+      "official_name": "Digha",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4182,
+      "ac_number": 182,
+      "constituency_name": "Bankipur",
+      "official_name": "Bankipur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4183,
+      "ac_number": 183,
+      "constituency_name": "Kumhrar",
+      "official_name": "Kumhrar",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4184,
+      "ac_number": 184,
+      "constituency_name": "Patna Sahib",
+      "official_name": "Patna Sahib",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4185,
+      "ac_number": 185,
+      "constituency_name": "Fatuha",
+      "official_name": "Fatuha",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4186,
+      "ac_number": 186,
+      "constituency_name": "Danapur",
+      "official_name": "Danapur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4187,
+      "ac_number": 187,
+      "constituency_name": "Maner",
+      "official_name": "Maner",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4188,
+      "ac_number": 188,
+      "constituency_name": "Phulwari",
+      "official_name": "Phulwari (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4189,
+      "ac_number": 189,
+      "constituency_name": "Masaurhi",
+      "official_name": "Masaurhi (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4190,
+      "ac_number": 190,
+      "constituency_name": "Paliganj",
+      "official_name": "Paliganj",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4191,
+      "ac_number": 191,
+      "constituency_name": "Bikram",
+      "official_name": "Bikram",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4192,
+      "ac_number": 192,
+      "constituency_name": "Sandesh",
+      "official_name": "Sandesh",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4193,
+      "ac_number": 193,
+      "constituency_name": "Barhara",
+      "official_name": "Barhara",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4194,
+      "ac_number": 194,
+      "constituency_name": "Arrah",
+      "official_name": "Arrah",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4195,
+      "ac_number": 195,
+      "constituency_name": "Agiaon",
+      "official_name": "Agiaon (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4196,
+      "ac_number": 196,
+      "constituency_name": "Tarari",
+      "official_name": "Tarari",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4197,
+      "ac_number": 197,
+      "constituency_name": "Jagdishpur",
+      "official_name": "Jagdishpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4198,
+      "ac_number": 198,
+      "constituency_name": "Shahpur",
+      "official_name": "Shahpur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4199,
+      "ac_number": 199,
+      "constituency_name": "Brahampur",
+      "official_name": "Brahampur",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4200,
+      "ac_number": 200,
+      "constituency_name": "Buxar",
+      "official_name": "Buxar",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4201,
+      "ac_number": 201,
+      "constituency_name": "Dumraon",
+      "official_name": "Dumraon",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4202,
+      "ac_number": 202,
+      "constituency_name": "Rajpur",
+      "official_name": "Rajpur (SC)",
+      "phase": "Phase 1",
+      "polling_date": "Nov 6, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4203,
+      "ac_number": 203,
+      "constituency_name": "Ramgarh",
+      "official_name": "Ramgarh",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4204,
+      "ac_number": 204,
+      "constituency_name": "Mohania",
+      "official_name": "Mohania (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4205,
+      "ac_number": 205,
+      "constituency_name": "Bhabua",
+      "official_name": "Bhabua",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4206,
+      "ac_number": 206,
+      "constituency_name": "Chainpur",
+      "official_name": "Chainpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BSP"
+    },
+    {
+      "constcode": 4207,
+      "ac_number": 207,
+      "constituency_name": "Chenari",
+      "official_name": "Chenari (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4208,
+      "ac_number": 208,
+      "constituency_name": "Sasaram",
+      "official_name": "Sasaram",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4209,
+      "ac_number": 209,
+      "constituency_name": "Kargahar",
+      "official_name": "Kargahar",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4210,
+      "ac_number": 210,
+      "constituency_name": "Dinara",
+      "official_name": "Dinara",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4211,
+      "ac_number": 211,
+      "constituency_name": "Nokha",
+      "official_name": "Nokha",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4212,
+      "ac_number": 212,
+      "constituency_name": "Dehri",
+      "official_name": "Dehri",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4213,
+      "ac_number": 213,
+      "constituency_name": "Karakat",
+      "official_name": "Karakat",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4214,
+      "ac_number": 214,
+      "constituency_name": "Arwal",
+      "official_name": "Arwal",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4215,
+      "ac_number": 215,
+      "constituency_name": "Kurtha",
+      "official_name": "Kurtha",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4216,
+      "ac_number": 216,
+      "constituency_name": "Jehanabad",
+      "official_name": "Jehanabad",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4217,
+      "ac_number": 217,
+      "constituency_name": "Ghosi",
+      "official_name": "Ghosi",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "CPIML"
+    },
+    {
+      "constcode": 4218,
+      "ac_number": 218,
+      "constituency_name": "Makhdumpur",
+      "official_name": "Makhdumpur (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4219,
+      "ac_number": 219,
+      "constituency_name": "Goh",
+      "official_name": "Goh",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4220,
+      "ac_number": 220,
+      "constituency_name": "Obra",
+      "official_name": "Obra",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4221,
+      "ac_number": 221,
+      "constituency_name": "Nabinagar",
+      "official_name": "Nabinagar",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4222,
+      "ac_number": 222,
+      "constituency_name": "Kutumba",
+      "official_name": "Kutumba (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4223,
+      "ac_number": 223,
+      "constituency_name": "Aurangabad",
+      "official_name": "Aurangabad",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4224,
+      "ac_number": 224,
+      "constituency_name": "Rafiganj",
+      "official_name": "Rafiganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4225,
+      "ac_number": 225,
+      "constituency_name": "Gurua",
+      "official_name": "Gurua",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4226,
+      "ac_number": 226,
+      "constituency_name": "Sherghati",
+      "official_name": "Sherghati",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4227,
+      "ac_number": 227,
+      "constituency_name": "Imamganj",
+      "official_name": "Imamganj (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "HAM"
+    },
+    {
+      "constcode": 4228,
+      "ac_number": 228,
+      "constituency_name": "Barachatti",
+      "official_name": "Barachatti (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "HAM"
+    },
+    {
+      "constcode": 4229,
+      "ac_number": 229,
+      "constituency_name": "Bodh Gaya",
+      "official_name": "Bodh Gaya (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4230,
+      "ac_number": 230,
+      "constituency_name": "Gaya Town",
+      "official_name": "Gaya Town",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4231,
+      "ac_number": 231,
+      "constituency_name": "Tikari",
+      "official_name": "Tikari",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "HAM"
+    },
+    {
+      "constcode": 4232,
+      "ac_number": 232,
+      "constituency_name": "Belaganj",
+      "official_name": "Belaganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4233,
+      "ac_number": 233,
+      "constituency_name": "Atri",
+      "official_name": "Atri",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4234,
+      "ac_number": 234,
+      "constituency_name": "Wazirganj",
+      "official_name": "Wazirganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4235,
+      "ac_number": 235,
+      "constituency_name": "Rajauli",
+      "official_name": "Rajauli (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4236,
+      "ac_number": 236,
+      "constituency_name": "Hisua",
+      "official_name": "Hisua",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "Cong"
+    },
+    {
+      "constcode": 4237,
+      "ac_number": 237,
+      "constituency_name": "Nawada",
+      "official_name": "Nawada",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4238,
+      "ac_number": 238,
+      "constituency_name": "Gobindpur",
+      "official_name": "Gobindpur",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "RJD"
+    },
+    {
+      "constcode": 4239,
+      "ac_number": 239,
+      "constituency_name": "Warsaliganj",
+      "official_name": "Warsaliganj",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4240,
+      "ac_number": 240,
+      "constituency_name": "Sikandra",
+      "official_name": "Sikandra (SC)",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "HAM"
+    },
+    {
+      "constcode": 4241,
+      "ac_number": 241,
+      "constituency_name": "Jamui",
+      "official_name": "Jamui",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "BJP"
+    },
+    {
+      "constcode": 4242,
+      "ac_number": 242,
+      "constituency_name": "Jhajha",
+      "official_name": "Jhajha",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "JDU"
+    },
+    {
+      "constcode": 4243,
+      "ac_number": 243,
+      "constituency_name": "Chakai",
+      "official_name": "Chakai",
+      "phase": "Phase 2",
+      "polling_date": "Nov 11, 2025",
+      "counting_date": "Nov 14, 2025",
+      "winner_2020": "IND"
+    }
+  ],
+  "data_source": "Election Commission of India",
+  "last_updated": "2025-11-02T13:36:34.842Z"
+}

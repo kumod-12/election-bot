@@ -1,0 +1,244 @@
+﻿AC_Number,AC_Name,Region,Held_Party,District_Number,Total_Electors
+1,Valmiki Nagar,Tirhut,IND,1,3000000
+2,Ramnagar,Tirhut,BJP,1,3000000
+3,Narkatiaganj,Tirhut,Cong,1,3000000
+4,Bagaha,Tirhut,BJP,1,3000000
+5,Lauriya,Tirhut,BJP,1,3000000
+6,Nautan,Tirhut,BJP,1,3000000
+7,Chanpatia,Tirhut,BJP,1,3000000
+8,Bettiah,Tirhut,Cong,1,3000000
+9,Sikta,Tirhut,JDU,1,3000000
+10,Raxaul,Tirhut,BJP,1,3000000
+11,Sugauli,Tirhut,BJP,1,3000000
+12,Narkatia,Tirhut,RJD,1,3000000
+13,Harsidhi,Tirhut,RJD,1,3000000
+14,Govindganj,Tirhut,LJP,1,3000000
+15,Kesaria,Tirhut,RJD,1,3000000
+16,Kalyanpur,Tirhut,BJP,1,3000000
+17,Pipra,Tirhut,BJP,1,3000000
+18,Madhuban,Tirhut,BJP,1,3000000
+19,Motihari,Tirhut,BJP,1,3000000
+20,Chiraia,Tirhut,BJP,1,3000000
+21,Dhaka,Tirhut,RJD,1,3000000
+22,Sheohar,Tirhut,JDU,1,3000000
+23,Riga,Tirhut,Cong,1,3000000
+24,Bathnaha,Tirhut,BJP,1,3000000
+25,Parihar,Tirhut,BJP,1,3000000
+26,Sursand,Tirhut,RJD,1,3000000
+27,Bajpatti,Tirhut,JDU,1,3000000
+28,Sitamarhi,Tirhut,RJD,1,3000000
+29,Runnisaidpur,Tirhut,RJD,1,3000000
+30,Belsand,Tirhut,JDU,1,3000000
+31,Harlakhi,Mithilanchal,RLSP,1,3000000
+32,Benipatti,Mithilanchal,Cong,1,3000000
+33,Khajauli,Mithilanchal,RJD,1,3000000
+34,Babubarhi,Mithilanchal,JDU,1,3000000
+35,Bisfi,Mithilanchal,RJD,1,3000000
+36,Madhubani,Mithilanchal,RJD,1,3000000
+37,Rajnagar,Mithilanchal,BJP,1,3000000
+38,Jhanjharpur,Mithilanchal,RJD,1,3000000
+39,Phulparas,Mithilanchal,JDU,1,3000000
+40,Laukaha,Mithilanchal,JDU,1,3000000
+41,Nirmali,Mithilanchal,JDU,1,3000000
+42,Pipra,Mithilanchal,RJD,1,3000000
+43,Supaul,Mithilanchal,JDU,1,3000000
+44,Triveniganj,Mithilanchal,JDU,1,3000000
+45,Chhatapur,Mithilanchal,BJP,1,3000000
+46,Narpatganj,Seemanchal,RJD,1,3000000
+47,Raniganj,Seemanchal,JDU,1,3000000
+48,Forbesganj,Seemanchal,BJP,1,3000000
+49,Araria,Seemanchal,Cong,1,3000000
+50,Jokihat,Seemanchal,JDU,1,3000000
+51,Sikti,Seemanchal,BJP,1,3000000
+52,Bahadurganj,Seemanchal,Cong,1,3000000
+53,Thakurganj,Seemanchal,JDU,1,3000000
+54,Kishanganj,Seemanchal,Cong,1,3000000
+55,Kochadhaman,Seemanchal,JDU,1,3000000
+56,Amour,Seemanchal,Cong,1,3000000
+57,Baisi,Seemanchal,RJD,1,3000000
+58,Kasba,Seemanchal,Cong,1,3000000
+59,Banmankhi,Seemanchal,BJP,1,3000000
+60,Rupauli,Seemanchal,JDU,1,3000000
+61,Dhamdaha,Seemanchal,JDU,1,3000000
+62,Purnia,Seemanchal,BJP,1,3000000
+63,Katihar,Seemanchal,BJP,1,3000000
+64,Kadwa,Seemanchal,Cong,1,3000000
+65,Balrampur,Seemanchal,CPIML,1,3000000
+66,Pranpur,Seemanchal,BJP,1,3000000
+67,Manihari,Seemanchal,Cong,1,3000000
+68,Barari,Seemanchal,RJD,1,3000000
+69,Korha,Seemanchal,Cong,1,3000000
+70,Alamnagar,Mithilanchal,JDU,1,3000000
+71,Bihariganj,Mithilanchal,JDU,1,3000000
+72,Singheshwar,Mithilanchal,JDU,1,3000000
+73,Madhepura,Mithilanchal,RJD,1,3000000
+74,Sonbarsha,Mithilanchal,JDU,1,3000000
+75,Saharsa,Mithilanchal,RJD,1,3000000
+76,Simri Bakhtiarpur,Mithilanchal,JDU,1,3000000
+77,Mahishi,Mithilanchal,RJD,1,3000000
+78,Kusheshwar Asthan,Mithilanchal,JDU,1,3000000
+79,Gaura Bauram,Mithilanchal,JDU,1,3000000
+80,Benipur,Mithilanchal,JDU,1,3000000
+81,Alinagar,Mithilanchal,RJD,1,3000000
+82,Darbhanga Rural,Mithilanchal,RJD,1,3000000
+83,Darbhanga,Mithilanchal,BJP,1,3000000
+84,Hayaghat,Mithilanchal,JDU,1,3000000
+85,Bahadurpur,Mithilanchal,RJD,1,3000000
+86,Keoti,Mithilanchal,RJD,1,3000000
+87,Jale,Mithilanchal,BJP,1,3000000
+88,Gaighat,Tirhut,RJD,1,3000000
+89,Aurai,Tirhut,RJD,1,3000000
+90,Minapur,Tirhut,RJD,1,3000000
+91,Bochaha,Tirhut,IND,1,3000000
+92,Sakra,Tirhut,RJD,1,3000000
+93,Kurhani,Tirhut,BJP,1,3000000
+94,Muzaffarpur,Tirhut,BJP,1,3000000
+95,Kanti,Tirhut,IND,1,3000000
+96,Baruraj,Tirhut,RJD,1,3000000
+97,Paroo,Tirhut,BJP,1,3000000
+98,Sahebganj,Tirhut,RJD,1,3000000
+99,Baikunthpur,Bhojpur,BJP,1,3000000
+100,Barauli,Bhojpur,RJD,1,3000000
+101,Gopalganj,Bhojpur,BJP,1,3000000
+102,Kuchaikote,Bhojpur,JDU,1,3000000
+103,Bhorey,Bhojpur,Cong,1,3000000
+104,Hathua,Bhojpur,JDU,1,3000000
+105,Siwan,Bhojpur,BJP,1,3000000
+106,Ziradei,Bhojpur,JDU,1,3000000
+107,Darauli,Bhojpur,CPIML,1,3000000
+108,Raghunathpur,Bhojpur,RJD,1,3000000
+109,Daraundha,Bhojpur,JDU,1,3000000
+110,Barharia,Bhojpur,JDU,1,3000000
+111,Goriakothi,Bhojpur,RJD,1,3000000
+112,Maharajganj,Bhojpur,JDU,1,3000000
+113,Ekma,Bhojpur,JDU,1,3000000
+114,Manjhi,Bhojpur,Cong,1,3000000
+115,Baniapur,Bhojpur,RJD,1,3000000
+116,Taraiya,Bhojpur,RJD,1,3000000
+117,Marhaura,Bhojpur,RJD,1,3000000
+118,Chapra,Bhojpur,BJP,1,3000000
+119,Garkha,Bhojpur,RJD,1,3000000
+120,Amnour,Bhojpur,BJP,1,3000000
+121,Parsa,Bhojpur,RJD,1,3000000
+122,Sonepur,Bhojpur,RJD,1,3000000
+123,Hajipur,Tirhut,BJP,1,3000000
+124,Lalganj,Tirhut,LJP,1,3000000
+125,Vaishali,Tirhut,JDU,1,3000000
+126,Mahua,Tirhut,RJD,1,3000000
+127,Raja Pakar,Tirhut,RJD,1,3000000
+128,Raghopur,Tirhut,RJD,1,3000000
+129,Mahnar,Tirhut,JDU,1,3000000
+130,Patepur,Tirhut,RJD,1,3000000
+131,Kalyanpur,Mithilanchal,JDU,1,3000000
+132,Warisnagar,Mithilanchal,JDU,1,3000000
+133,Samastipur,Mithilanchal,RJD,1,3000000
+134,Ujiarpur,Mithilanchal,RJD,1,3000000
+135,Morwa,Mithilanchal,JDU,1,3000000
+136,Sarairanjan,Mithilanchal,JDU,1,3000000
+137,Mohiuddinnagar,Mithilanchal,RJD,1,3000000
+138,Bibhutipur,Mithilanchal,JDU,1,3000000
+139,Rosera,Mithilanchal,Cong,1,3000000
+140,Hasanpur,Mithilanchal,JDU,1,3000000
+141,Cheria Bariarpur,Mithilanchal,JDU,1,3000000
+142,Bachhwara,Mithilanchal,Cong,1,3000000
+143,Teghra,Mithilanchal,RJD,1,3000000
+144,Matihani,Mithilanchal,JDU,1,3000000
+145,Sahebpur Kamal,Mithilanchal,RJD,1,3000000
+146,Begusarai,Mithilanchal,Cong,1,3000000
+147,Bakhri,Mithilanchal,RJD,1,3000000
+148,Alauli,Anga Pradesh,RJD,1,3000000
+149,Khagaria,Anga Pradesh,JDU,1,3000000
+150,Beldaur,Anga Pradesh,JDU,1,3000000
+151,Parbatta,Anga Pradesh,JDU,1,3000000
+152,Bihpur,Anga Pradesh,RJD,1,3000000
+153,Gopalpur,Anga Pradesh,JDU,1,3000000
+154,Pirpainti,Anga Pradesh,RJD,1,3000000
+155,Kahalgaon,Anga Pradesh,Cong,1,3000000
+156,Bhagalpur,Anga Pradesh,Cong,1,3000000
+157,Sultanganj,Anga Pradesh,JDU,1,3000000
+158,Nathnagar,Anga Pradesh,JDU,1,3000000
+159,Amarpur,Anga Pradesh,JDU,1,3000000
+160,Dhauraiya,Anga Pradesh,JDU,1,3000000
+161,Banka,Anga Pradesh,BJP,1,3000000
+162,Katoria,Anga Pradesh,RJD,1,3000000
+163,Belhar,Anga Pradesh,JDU,1,3000000
+164,Tarapur,Anga Pradesh,JDU,1,3000000
+165,Munger,Anga Pradesh,RJD,1,3000000
+166,Jamalpur,Anga Pradesh,JDU,1,3000000
+167,Suryagarha,Anga Pradesh,RJD,1,3000000
+168,Lakhisarai,Anga Pradesh,BJP,1,3000000
+169,Sheikhpura,Anga Pradesh,JDU,1,3000000
+170,Barbigha,Anga Pradesh,Cong,1,3000000
+171,Asthawan,Magadh,JDU,1,3000000
+172,Biharsharif,Magadh,BJP,1,3000000
+173,Rajgir,Magadh,JDU,1,3000000
+174,Islampur,Magadh,JDU,1,3000000
+175,Hilsa,Magadh,RJD,1,3000000
+176,Nalanda,Magadh,JDU,1,3000000
+177,Harnaut,Magadh,JDU,1,3000000
+178,Mokama,Magadh,IND,1,3000000
+179,Barh,Magadh,BJP,1,3000000
+180,Bakhtiarpur,Magadh,BJP,1,3000000
+181,Digha,Magadh,BJP,1,3000000
+182,Bankipur,Magadh,BJP,1,3000000
+183,Kumhrar,Magadh,BJP,1,3000000
+184,Patna Sahib,Magadh,BJP,1,3000000
+185,Fatuha,Magadh,RJD,1,3000000
+186,Danapur,Magadh,BJP,1,3000000
+187,Maner,Magadh,RJD,1,3000000
+188,Phulwari,Magadh,JDU,1,3000000
+189,Masaurhi,Magadh,RJD,1,3000000
+190,Paliganj,Magadh,RJD,1,3000000
+191,Bikram,Magadh,Cong,1,3000000
+192,Sandesh,Bhojpur,RJD,1,3000000
+193,Barhara,Bhojpur,RJD,1,3000000
+194,Arrah,Bhojpur,RJD,1,3000000
+195,Agiaon,Bhojpur,JDU,1,3000000
+196,Tarari,Bhojpur,CPIML,1,3000000
+197,Jagdishpur,Bhojpur,RJD,1,3000000
+198,Shahpur,Bhojpur,RJD,1,3000000
+199,Brahampur,Bhojpur,RJD,1,3000000
+200,Buxar,Bhojpur,Cong,1,3000000
+201,Dumraon,Bhojpur,JDU,1,3000000
+202,Rajpur,Bhojpur,JDU,1,3000000
+203,Ramgarh,Bhojpur,BJP,1,3000000
+204,Mohania,Bhojpur,BJP,1,3000000
+205,Bhabua,Bhojpur,BJP,1,3000000
+206,Chainpur,Bhojpur,BJP,1,3000000
+207,Chenari,Bhojpur,RLSP,1,3000000
+208,Sasaram,Bhojpur,RJD,1,3000000
+209,Kargahar,Bhojpur,JDU,1,3000000
+210,Dinara,Bhojpur,JDU,1,3000000
+211,Nokha,Bhojpur,RJD,1,3000000
+212,Dehri,Bhojpur,RJD,1,3000000
+213,Karakat,Bhojpur,RJD,1,3000000
+214,Arwal,Magadh,RJD,1,3000000
+215,Kurtha,Magadh,JDU,1,3000000
+216,Jehanabad,Magadh,RJD,1,3000000
+217,Ghosi,Magadh,JDU,1,3000000
+218,Makhdumpur,Magadh,RJD,1,3000000
+219,Goh,Magadh,BJP,1,3000000
+220,Obra,Magadh,RJD,1,3000000
+221,Nabinagar,Magadh,JDU,1,3000000
+222,Kutumba,Magadh,Cong,1,3000000
+223,Aurangabad,Magadh,Cong,1,3000000
+224,Rafiganj,Magadh,JDU,1,3000000
+225,Gurua,Magadh,BJP,1,3000000
+226,Sherghati,Magadh,JDU,1,3000000
+227,Imamganj,Magadh,HAM,1,3000000
+228,Barachatti,Magadh,RJD,1,3000000
+229,Bodh Gaya,Magadh,RJD,1,3000000
+230,Gaya Town,Magadh,BJP,1,3000000
+231,Tikari,Magadh,JDU,1,3000000
+232,Belaganj,Magadh,RJD,1,3000000
+233,Atri,Magadh,RJD,1,3000000
+234,Wazirganj,Magadh,Cong,1,3000000
+235,Rajauli,Magadh,RJD,1,3000000
+236,Hisua,Magadh,BJP,1,3000000
+237,Nawada,Magadh,RJD,1,3000000
+238,Gobindpur,Magadh,Cong,1,3000000
+239,Warsaliganj,Magadh,BJP,1,3000000
+240,Sikandra,Anga Pradesh,Cong,1,3000000
+241,Jamui,Anga Pradesh,RJD,1,3000000
+242,Jhajha,Anga Pradesh,BJP,1,3000000
+243,Chakai,Anga Pradesh,RJD,1,3000000

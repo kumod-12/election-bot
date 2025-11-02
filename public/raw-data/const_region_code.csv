@@ -1,0 +1,244 @@
+constcode,constname,State Code,noc,distno,Region number,heldpty,electors,uncon,marg const,Region code,Regiona Name
+4001,Valmiki Nagar,4,13,1,5,IND,3000000,n,4001,6,Tirhut
+4002,Ramnagar,4,9,1,5,BJP,3000000,n,4002,6,Tirhut
+4003,Narkatiaganj,4,16,1,5,Cong,3000000,n,4003,6,Tirhut
+4004,Bagaha,4,15,1,5,BJP,3000000,n,4004,6,Tirhut
+4005,Lauriya,4,11,1,5,BJP,3000000,n,4005,6,Tirhut
+4006,Nautan,4,15,1,5,BJP,3000000,n,4006,6,Tirhut
+4007,Chanpatia,4,10,1,5,BJP,3000000,n,4007,6,Tirhut
+4008,Bettiah,4,16,1,5,Cong,3000000,n,4008,6,Tirhut
+4009,Sikta,4,12,1,5,JDU,3000000,n,4009,6,Tirhut
+4010,Raxaul,4,10,1,5,BJP,3000000,n,4010,6,Tirhut
+4011,Sugauli,4,14,1,5,BJP,3000000,n,4011,6,Tirhut
+4012,Narkatia,4,12,1,5,RJD,3000000,n,4012,6,Tirhut
+4013,Harsidhi,4,8,1,5,RJD,3000000,n,4013,6,Tirhut
+4014,Govindganj,4,8,1,5,LJP,3000000,n,4014,6,Tirhut
+4015,Kesaria,4,7,1,5,RJD,3000000,n,4015,6,Tirhut
+4016,Kalyanpur,4,10,1,5,BJP,3000000,n,4016,6,Tirhut
+4017,Pipra,4,17,1,5,BJP,3000000,n,4017,6,Tirhut
+4018,Madhuban,4,12,1,5,BJP,3000000,n,4018,6,Tirhut
+4019,Motihari,4,10,1,5,BJP,3000000,n,4019,6,Tirhut
+4020,Chiraia,4,12,1,5,BJP,3000000,n,4020,6,Tirhut
+4021,Dhaka,4,10,1,5,RJD,3000000,n,4021,6,Tirhut
+4022,Sheohar,4,11,1,5,JDU,3000000,n,4022,6,Tirhut
+4023,Riga,4,18,1,5,Cong,3000000,n,4023,6,Tirhut
+4024,Bathnaha,4,12,1,5,BJP,3000000,n,4024,6,Tirhut
+4025,Parihar,4,14,1,5,BJP,3000000,n,4025,6,Tirhut
+4026,Sursand,4,18,1,5,RJD,3000000,n,4026,6,Tirhut
+4027,Bajpatti,4,22,1,5,JDU,3000000,n,4027,6,Tirhut
+4028,Sitamarhi,4,15,1,5,RJD,3000000,n,4028,6,Tirhut
+4029,Runnisaidpur,4,14,1,5,RJD,3000000,n,4029,6,Tirhut
+4030,Belsand,4,18,1,5,JDU,3000000,n,4030,6,Tirhut
+4031,Harlakhi,4,17,1,4,RLSP,3000000,n,4031,4,Mithilanchal
+4032,Benipatti,4,16,1,4,Cong,3000000,n,4032,4,Mithilanchal
+4033,Khajauli,4,15,1,4,RJD,3000000,n,4033,4,Mithilanchal
+4034,Babubarhi,4,13,1,4,JDU,3000000,n,4034,4,Mithilanchal
+4035,Bisfi,4,16,1,4,RJD,3000000,n,4035,4,Mithilanchal
+4036,Madhubani,4,12,1,4,RJD,3000000,n,4036,4,Mithilanchal
+4037,Rajnagar,4,11,1,4,BJP,3000000,n,4037,4,Mithilanchal
+4038,Jhanjharpur,4,18,1,4,RJD,3000000,n,4038,4,Mithilanchal
+4039,Phulparas,4,12,1,4,JDU,3000000,n,4039,4,Mithilanchal
+4040,Laukaha,4,14,1,4,JDU,3000000,n,4040,4,Mithilanchal
+4041,Nirmali,4,14,1,4,JDU,3000000,n,4041,4,Mithilanchal
+4042,Pipra,4,9,1,4,RJD,3000000,n,4042,4,Mithilanchal
+4043,Supaul,4,9,1,4,JDU,3000000,n,4043,4,Mithilanchal
+4044,Triveniganj,4,9,1,4,JDU,3000000,n,4044,4,Mithilanchal
+4045,Chhatapur,4,11,1,4,BJP,3000000,n,4045,4,Mithilanchal
+4046,Narpatganj,4,12,1,2,RJD,3000000,n,4046,5,Seemanchal
+4047,Raniganj,4,13,1,2,JDU,3000000,n,4047,5,Seemanchal
+4048,Forbesganj,4,12,1,2,BJP,3000000,n,4048,5,Seemanchal
+4049,Araria,4,15,1,2,Cong,3000000,n,4049,5,Seemanchal
+4050,Jokihat,4,13,1,2,JDU,3000000,n,4050,5,Seemanchal
+4051,Sikti,4,11,1,2,BJP,3000000,n,4051,5,Seemanchal
+4052,Bahadurganj,4,18,1,2,Cong,3000000,n,4052,5,Seemanchal
+4053,Thakurganj,4,11,1,2,JDU,3000000,n,4053,5,Seemanchal
+4054,Kishanganj,4,19,1,2,Cong,3000000,n,4054,5,Seemanchal
+4055,Kochadhaman,4,12,1,2,JDU,3000000,n,4055,5,Seemanchal
+4056,Amour,4,13,1,2,Cong,3000000,n,4056,5,Seemanchal
+4057,Baisi,4,12,1,2,RJD,3000000,n,4057,5,Seemanchal
+4058,Kasba,4,15,1,2,Cong,3000000,n,4058,5,Seemanchal
+4059,Banmankhi,4,18,1,2,BJP,3000000,n,4059,5,Seemanchal
+4060,Rupauli,4,20,1,2,JDU,3000000,n,4060,5,Seemanchal
+4061,Dhamdaha,4,25,1,2,JDU,3000000,n,4061,5,Seemanchal
+4062,Purnia,4,25,1,2,BJP,3000000,n,4062,5,Seemanchal
+4063,Katihar,4,22,1,2,BJP,3000000,n,4063,5,Seemanchal
+4064,Kadwa,4,18,1,2,Cong,3000000,n,4064,5,Seemanchal
+4065,Balrampur,4,17,1,2,CPIML,3000000,n,4065,5,Seemanchal
+4066,Pranpur,4,23,1,2,BJP,3000000,n,4066,5,Seemanchal
+4067,Manihari,4,18,1,2,Cong,3000000,n,4067,5,Seemanchal
+4068,Barari,4,15,1,2,RJD,3000000,n,4068,5,Seemanchal
+4069,Korha,4,13,1,2,Cong,3000000,n,4069,5,Seemanchal
+4070,Alamnagar,4,15,1,4,JDU,3000000,n,4070,4,Mithilanchal
+4071,Bihariganj,4,15,1,4,JDU,3000000,n,4071,4,Mithilanchal
+4072,Singheshwar,4,12,1,4,JDU,3000000,n,4072,4,Mithilanchal
+4073,Madhepura,4,18,1,4,RJD,3000000,n,4073,4,Mithilanchal
+4074,Sonbarsha,4,8,1,4,JDU,3000000,n,4074,4,Mithilanchal
+4075,Saharsa,4,14,1,4,RJD,3000000,n,4075,4,Mithilanchal
+4076,Simri Bakhtiarpur,4,14,1,3,JDU,3000000,n,4076,4,Mithilanchal
+4077,Mahishi,4,14,1,4,RJD,3000000,n,4077,4,Mithilanchal
+4078,Kusheshwar Asthan,4,11,1,4,JDU,3000000,n,4078,4,Mithilanchal
+4079,Gaura Bauram,4,13,1,4,JDU,3000000,n,4079,4,Mithilanchal
+4080,Benipur,4,14,1,4,JDU,3000000,n,4080,4,Mithilanchal
+4081,Alinagar,4,11,1,4,RJD,3000000,n,4081,4,Mithilanchal
+4082,Darbhanga Rural,4,12,1,4,RJD,3000000,n,4082,4,Mithilanchal
+4083,Darbhanga,4,15,1,4,BJP,3000000,n,4083,4,Mithilanchal
+4084,Hayaghat,4,14,1,4,JDU,3000000,n,4084,4,Mithilanchal
+4085,Bahadurpur,4,15,1,4,RJD,3000000,n,4085,4,Mithilanchal
+4086,Keoti,4,13,1,4,RJD,3000000,n,4086,4,Mithilanchal
+4087,Jale,4,13,1,4,BJP,3000000,n,4087,4,Mithilanchal
+4088,Gaighat,4,21,1,5,RJD,3000000,n,4088,6,Tirhut
+4089,Aurai,4,15,1,5,RJD,3000000,n,4089,6,Tirhut
+4090,Minapur,4,16,1,5,RJD,3000000,n,4090,6,Tirhut
+4091,Bochaha,4,15,1,5,IND,3000000,n,4091,6,Tirhut
+4092,Sakra,4,14,1,5,RJD,3000000,n,4092,6,Tirhut
+4093,Kurhani,4,30,1,5,BJP,3000000,n,4093,6,Tirhut
+4094,Muzaffarpur,4,20,1,5,BJP,3000000,n,4094,6,Tirhut
+4095,Kanti,4,21,1,5,IND,3000000,n,4095,6,Tirhut
+4096,Baruraj,4,12,1,5,RJD,3000000,n,4096,6,Tirhut
+4097,Paroo,4,13,1,5,BJP,3000000,n,4097,6,Tirhut
+4098,Sahebganj,4,15,1,5,RJD,3000000,n,4098,6,Tirhut
+4099,Baikunthpur,4,13,1,5,BJP,3000000,n,4099,2,Bhojpur
+4100,Barauli,4,17,1,5,RJD,3000000,n,4100,2,Bhojpur
+4101,Gopalganj,4,15,1,5,BJP,3000000,n,4101,2,Bhojpur
+4102,Kuchaikote,4,10,1,5,JDU,3000000,n,4102,2,Bhojpur
+4103,Bhorey,4,12,1,5,Cong,3000000,n,4103,2,Bhojpur
+4104,Hathua,4,15,1,5,JDU,3000000,n,4104,2,Bhojpur
+4105,Siwan,4,14,1,5,BJP,3000000,n,4105,2,Bhojpur
+4106,Ziradei,4,16,1,5,JDU,3000000,n,4106,2,Bhojpur
+4107,Darauli,4,8,1,5,CPIML,3000000,n,4107,2,Bhojpur
+4108,Raghunathpur,4,12,1,5,RJD,3000000,n,4108,2,Bhojpur
+4109,Daraundha,4,14,1,5,JDU,3000000,n,4109,2,Bhojpur
+4110,Barharia,4,15,1,5,JDU,3000000,n,4110,2,Bhojpur
+4111,Goriakothi,4,17,1,5,RJD,3000000,n,4111,2,Bhojpur
+4112,Maharajganj,4,17,1,5,JDU,3000000,n,4112,2,Bhojpur
+4113,Ekma,4,10,1,5,JDU,3000000,n,4113,2,Bhojpur
+4114,Manjhi,4,15,1,5,Cong,3000000,n,4114,2,Bhojpur
+4115,Baniapur,4,11,1,5,RJD,3000000,n,4115,2,Bhojpur
+4116,Taraiya,4,13,1,5,RJD,3000000,n,4116,2,Bhojpur
+4117,Marhaura,4,10,1,5,RJD,3000000,n,4117,2,Bhojpur
+4118,Chapra,4,14,1,5,BJP,3000000,n,4118,2,Bhojpur
+4119,Garkha,4,11,1,5,RJD,3000000,n,4119,2,Bhojpur
+4120,Amnour,4,14,1,5,BJP,3000000,n,4120,2,Bhojpur
+4121,Parsa,4,14,1,5,RJD,3000000,n,4121,2,Bhojpur
+4122,Sonepur,4,13,1,5,RJD,3000000,n,4122,2,Bhojpur
+4123,Hajipur,4,16,1,5,BJP,3000000,n,4123,6,Tirhut
+4124,Lalganj,4,17,1,5,LJP,3000000,n,4124,6,Tirhut
+4125,Vaishali,4,16,1,5,JDU,3000000,n,4125,6,Tirhut
+4126,Mahua,4,28,1,5,RJD,3000000,n,4126,6,Tirhut
+4127,Raja Pakar,4,17,1,5,RJD,3000000,n,4127,6,Tirhut
+4128,Raghopur,4,20,1,5,RJD,3000000,n,4128,6,Tirhut
+4129,Mahnar,4,24,1,5,JDU,3000000,n,4129,6,Tirhut
+4130,Patepur,4,21,1,4,RJD,3000000,n,4130,6,Tirhut
+4131,Kalyanpur,4,14,1,4,JDU,3000000,n,4131,4,Mithilanchal
+4132,Warisnagar,4,11,1,4,JDU,3000000,n,4132,4,Mithilanchal
+4133,Samastipur,4,17,1,4,RJD,3000000,n,4133,4,Mithilanchal
+4134,Ujiarpur,4,13,1,4,RJD,3000000,n,4134,4,Mithilanchal
+4135,Morwa,4,18,1,4,JDU,3000000,n,4135,4,Mithilanchal
+4136,Sarairanjan,4,12,1,4,JDU,3000000,n,4136,4,Mithilanchal
+4137,Mohiuddinnagar,4,18,1,4,RJD,3000000,n,4137,4,Mithilanchal
+4138,Bibhutipur,4,8,1,4,JDU,3000000,n,4138,4,Mithilanchal
+4139,Rosera,4,10,1,4,Cong,3000000,n,4139,4,Mithilanchal
+4140,Hasanpur,4,11,1,3,JDU,3000000,n,4140,4,Mithilanchal
+4141,Cheria Bariarpur,4,10,1,3,JDU,3000000,n,4141,4,Mithilanchal
+4142,Bachhwara,4,10,1,3,Cong,3000000,n,4142,4,Mithilanchal
+4143,Teghra,4,7,1,3,RJD,3000000,n,4143,4,Mithilanchal
+4144,Matihani,4,9,1,3,JDU,3000000,n,4144,4,Mithilanchal
+4145,Sahebpur Kamal,4,11,1,3,RJD,3000000,n,4145,4,Mithilanchal
+4146,Begusarai,4,12,1,3,Cong,3000000,n,4146,4,Mithilanchal
+4147,Bakhri,4,9,1,3,RJD,3000000,n,4147,4,Mithilanchal
+4148,Alauli,4,9,1,3,RJD,3000000,n,4148,1,Anga Pradesh
+4149,Khagaria,4,13,1,3,JDU,3000000,n,4149,1,Anga Pradesh
+4150,Beldaur,4,11,1,3,JDU,3000000,n,4150,1,Anga Pradesh
+4151,Parbatta,4,15,1,3,JDU,3000000,n,4151,1,Anga Pradesh
+4152,Bihpur,4,14,1,2,RJD,3000000,n,4152,1,Anga Pradesh
+4153,Gopalpur,4,13,1,2,JDU,3000000,n,4153,1,Anga Pradesh
+4154,Pirpainti,4,11,1,2,RJD,3000000,n,4154,1,Anga Pradesh
+4155,Kahalgaon,4,13,1,2,Cong,3000000,n,4155,1,Anga Pradesh
+4156,Bhagalpur,4,11,1,2,Cong,3000000,n,4156,1,Anga Pradesh
+4157,Sultanganj,4,12,1,2,JDU,3000000,n,4157,1,Anga Pradesh
+4158,Nathnagar,4,13,1,2,JDU,3000000,n,4158,1,Anga Pradesh
+4159,Amarpur,4,14,1,2,JDU,3000000,n,4159,1,Anga Pradesh
+4160,Dhauraiya,4,8,1,2,JDU,3000000,n,4160,1,Anga Pradesh
+4161,Banka,4,11,1,2,BJP,3000000,n,4161,1,Anga Pradesh
+4162,Katoria,4,9,1,2,RJD,3000000,n,4162,1,Anga Pradesh
+4163,Belhar,4,11,1,2,JDU,3000000,n,4163,1,Anga Pradesh
+4164,Tarapur,4,13,1,3,JDU,3000000,n,4164,1,Anga Pradesh
+4165,Munger,4,14,1,3,RJD,3000000,n,4165,1,Anga Pradesh
+4166,Jamalpur,4,12,1,3,JDU,3000000,n,4166,1,Anga Pradesh
+4167,Suryagarha,4,15,1,3,RJD,3000000,n,4167,1,Anga Pradesh
+4168,Lakhisarai,4,11,1,3,BJP,3000000,n,4168,1,Anga Pradesh
+4169,Sheikhpura,4,16,1,3,JDU,3000000,n,4169,1,Anga Pradesh
+4170,Barbigha,4,11,1,3,Cong,3000000,n,4170,1,Anga Pradesh
+4171,Asthawan,4,12,1,3,JDU,3000000,n,4171,3,Magadh
+4172,Biharsharif,4,13,1,3,BJP,3000000,n,4172,3,Magadh
+4173,Rajgir,4,17,1,3,JDU,3000000,n,4173,3,Magadh
+4174,Islampur,4,22,1,3,JDU,3000000,n,4174,3,Magadh
+4175,Hilsa,4,16,1,3,RJD,3000000,n,4175,3,Magadh
+4176,Nalanda,4,13,1,3,JDU,3000000,n,4176,3,Magadh
+4177,Harnaut,4,14,1,3,JDU,3000000,n,4177,3,Magadh
+4178,Mokama,4,15,1,3,IND,3000000,n,4178,3,Magadh
+4179,Barh,4,14,1,3,BJP,3000000,n,4179,3,Magadh
+4180,Bakhtiarpur,4,13,1,3,BJP,3000000,n,4180,3,Magadh
+4181,Digha,4,31,1,3,BJP,3000000,n,4181,3,Magadh
+4182,Bankipur,4,21,1,3,BJP,3000000,n,4182,3,Magadh
+4183,Kumhrar,4,34,1,3,BJP,3000000,n,4183,3,Magadh
+4184,Patna Sahib,4,16,1,3,BJP,3000000,n,4184,3,Magadh
+4185,Fatuha,4,13,1,3,RJD,3000000,n,4185,3,Magadh
+4186,Danapur,4,13,1,3,BJP,3000000,n,4186,3,Magadh
+4187,Maner,4,13,1,3,RJD,3000000,n,4187,3,Magadh
+4188,Phulwari,4,19,1,3,JDU,3000000,n,4188,3,Magadh
+4189,Masaurhi,4,18,1,3,RJD,3000000,n,4189,3,Magadh
+4190,Paliganj,4,14,1,3,RJD,3000000,n,4190,3,Magadh
+4191,Bikram,4,19,1,3,Cong,3000000,n,4191,3,Magadh
+4192,Sandesh,4,11,1,1,RJD,3000000,n,4192,2,Bhojpur
+4193,Barhara,4,12,1,1,RJD,3000000,n,4193,2,Bhojpur
+4194,Arrah,4,11,1,1,RJD,3000000,n,4194,2,Bhojpur
+4195,Agiaon,4,7,1,1,JDU,3000000,n,4195,2,Bhojpur
+4196,Tarari,4,14,1,1,CPIML,3000000,n,4196,2,Bhojpur
+4197,Jagdishpur,4,22,1,1,RJD,3000000,n,4197,2,Bhojpur
+4198,Shahpur,4,14,1,1,RJD,3000000,n,4198,2,Bhojpur
+4199,Brahampur,4,13,1,1,RJD,3000000,n,4199,2,Bhojpur
+4200,Buxar,4,29,1,1,Cong,3000000,n,4200,2,Bhojpur
+4201,Dumraon,4,16,1,1,JDU,3000000,n,4201,2,Bhojpur
+4202,Rajpur,4,15,1,1,JDU,3000000,n,4202,2,Bhojpur
+4203,Ramgarh,4,13,1,1,BJP,3000000,n,4203,2,Bhojpur
+4204,Mohania,4,14,1,1,BJP,3000000,n,4204,2,Bhojpur
+4205,Bhabua,4,20,1,1,BJP,3000000,n,4205,2,Bhojpur
+4206,Chainpur,4,14,1,1,BJP,3000000,n,4206,2,Bhojpur
+4207,Chenari,4,12,1,1,RLSP,3000000,n,4207,2,Bhojpur
+4208,Sasaram,4,14,1,1,RJD,3000000,n,4208,2,Bhojpur
+4209,Kargahar,4,18,1,1,JDU,3000000,n,4209,2,Bhojpur
+4210,Dinara,4,17,1,1,JDU,3000000,n,4210,2,Bhojpur
+4211,Nokha,4,15,1,1,RJD,3000000,n,4211,2,Bhojpur
+4212,Dehri,4,15,1,1,RJD,3000000,n,4212,2,Bhojpur
+4213,Karakat,4,12,1,1,RJD,3000000,n,4213,2,Bhojpur
+4214,Arwal,4,11,1,3,RJD,3000000,n,4214,3,Magadh
+4215,Kurtha,4,22,1,3,JDU,3000000,n,4215,3,Magadh
+4216,Jehanabad,4,12,1,3,RJD,3000000,n,4216,3,Magadh
+4217,Ghosi,4,8,1,3,JDU,3000000,n,4217,3,Magadh
+4218,Makhdumpur,4,13,1,3,RJD,3000000,n,4218,3,Magadh
+4219,Goh,4,21,1,1,BJP,3000000,n,4219,3,Magadh
+4220,Obra,4,18,1,1,RJD,3000000,n,4220,3,Magadh
+4221,Nabinagar,4,16,1,1,JDU,3000000,n,4221,3,Magadh
+4222,Kutumba,4,11,1,3,Cong,3000000,n,4222,3,Magadh
+4223,Aurangabad,4,20,1,3,Cong,3000000,n,4223,3,Magadh
+4224,Rafiganj,4,16,1,3,JDU,3000000,n,4224,3,Magadh
+4225,Gurua,4,12,1,3,BJP,3000000,n,4225,3,Magadh
+4226,Sherghati,4,12,1,3,JDU,3000000,n,4226,3,Magadh
+4227,Imamganj,4,7,1,3,HAM,3000000,n,4227,3,Magadh
+4228,Barachatti,4,11,1,3,RJD,3000000,n,4228,3,Magadh
+4229,Bodh Gaya,4,15,1,3,RJD,3000000,n,4229,3,Magadh
+4230,Gaya Town,4,16,1,3,BJP,3000000,n,4230,3,Magadh
+4231,Tikari,4,12,1,3,JDU,3000000,n,4231,3,Magadh
+4232,Belaganj,4,12,1,3,RJD,3000000,n,4232,3,Magadh
+4233,Atri,4,15,1,3,RJD,3000000,n,4233,3,Magadh
+4234,Wazirganj,4,12,1,3,Cong,3000000,n,4234,3,Magadh
+4235,Rajauli,4,12,1,3,RJD,3000000,n,4235,3,Magadh
+4236,Hisua,4,9,1,3,BJP,3000000,n,4236,3,Magadh
+4237,Nawada,4,12,1,3,RJD,3000000,n,4237,3,Magadh
+4238,Gobindpur,4,10,1,3,Cong,3000000,n,4238,3,Magadh
+4239,Warsaliganj,4,6,1,3,BJP,3000000,n,4239,3,Magadh
+4240,Sikandra,4,8,1,3,Cong,3000000,n,4240,1,Anga Pradesh
+4241,Jamui,4,16,1,3,RJD,3000000,n,4241,1,Anga Pradesh
+4242,Jhajha,4,14,1,3,BJP,3000000,n,4242,1,Anga Pradesh
+4243,Chakai,4,12,1,3,RJD,3000000,n,4243,1,Anga Pradesh

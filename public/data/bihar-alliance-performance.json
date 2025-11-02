@@ -1,0 +1,258 @@
+{
+  "title": "Bihar Alliance-wise Electoral Performance",
+  "elections": [
+    "2010",
+    "2015",
+    "2020"
+  ],
+  "data_source": "Election Commission of India",
+  "last_updated": "2025-11-02T13:36:34.861Z",
+  "regional_analysis": {
+    "2010": [
+      {
+        "region": "Tirhut",
+        "nda_vote_share": 44.32721856383415,
+        "upa_vote_share": 28.701563076853702,
+        "others_vote_share": 26.971218359312143,
+        "nda_seats": 58,
+        "upa_seats": 3,
+        "others_seats": 3,
+        "total_seats": 64
+      },
+      {
+        "region": "Mithilanchal",
+        "nda_vote_share": 43.00280947438783,
+        "upa_vote_share": 36.84028643987018,
+        "others_vote_share": 20.156904085741996,
+        "nda_seats": 38,
+        "upa_seats": 8,
+        "others_seats": 0,
+        "total_seats": 46
+      },
+      {
+        "region": "Koshi",
+        "nda_vote_share": 52.48091150057365,
+        "upa_vote_share": 31.28756238025534,
+        "others_vote_share": 16.231526119171015,
+        "nda_seats": 11,
+        "upa_seats": 2,
+        "others_seats": 0,
+        "total_seats": 13
+      },
+      {
+        "region": "Seemanchal",
+        "nda_vote_share": 44.525639176678595,
+        "upa_vote_share": 29.086651997466095,
+        "others_vote_share": 26.387708825855317,
+        "nda_seats": 19,
+        "upa_seats": 4,
+        "others_seats": 1,
+        "total_seats": 24
+      },
+      {
+        "region": "Anga Pradesh ",
+        "nda_vote_share": 44.132945426129965,
+        "upa_vote_share": 33.297852994560486,
+        "others_vote_share": 22.56920157930955,
+        "nda_seats": 23,
+        "upa_seats": 3,
+        "others_seats": 1,
+        "total_seats": 27
+      },
+      {
+        "region": "Magadh",
+        "nda_vote_share": 52.96138841716406,
+        "upa_vote_share": 28.775677362483464,
+        "others_vote_share": 18.26293422035248,
+        "nda_seats": 42,
+        "upa_seats": 4,
+        "others_seats": 1,
+        "total_seats": 47
+      },
+      {
+        "region": "Shahabad",
+        "nda_vote_share": 39.98998209934185,
+        "upa_vote_share": 33.98115267596648,
+        "others_vote_share": 26.02886522469166,
+        "nda_seats": 18,
+        "upa_seats": 3,
+        "others_seats": 1,
+        "total_seats": 22
+      },
+      {
+        "region": "Overall",
+        "nda_vote_share": 45.80252375509849,
+        "upa_vote_share": 31.40452308032416,
+        "others_vote_share": 22.792953164577348,
+        "nda_seats": 209,
+        "upa_seats": 27,
+        "others_seats": 7,
+        "total_seats": 243
+      }
+    ],
+    "2015": [
+      {
+        "region": "Tirhut",
+        "nda_vote_share": 49.54491103350264,
+        "mgb_vote_share": 29.40502858271781,
+        "others_vote_share": 21.050060383779545,
+        "nda_seats": 33,
+        "mgb_seats": 28,
+        "others_seats": 3,
+        "total_seats": 64
+      },
+      {
+        "region": "Mithilanchal",
+        "nda_vote_share": 49.30808063206618,
+        "mgb_vote_share": 31.562663991035716,
+        "others_vote_share": 19.1292553768981,
+        "nda_seats": 24,
+        "mgb_seats": 22,
+        "others_seats": 0,
+        "total_seats": 46
+      },
+      {
+        "region": "Koshi",
+        "nda_vote_share": 58.830184051446764,
+        "mgb_vote_share": 20.28153151601419,
+        "others_vote_share": 20.88828443253904,
+        "nda_seats": 9,
+        "mgb_seats": 4,
+        "others_seats": 0,
+        "total_seats": 13
+      },
+      {
+        "region": "Seemanchal",
+        "nda_vote_share": 46.217066757415694,
+        "mgb_vote_share": 28.221905783273066,
+        "others_vote_share": 25.56102745931124,
+        "nda_seats": 12,
+        "mgb_seats": 12,
+        "others_seats": 0,
+        "total_seats": 24
+      },
+      {
+        "region": "Anga Pradesh ",
+        "nda_vote_share": 55.653210131457044,
+        "mgb_vote_share": 23.078480644751103,
+        "others_vote_share": 21.26830922379185,
+        "nda_seats": 15,
+        "mgb_seats": 12,
+        "others_seats": 0,
+        "total_seats": 27
+      },
+      {
+        "region": "Magadh",
+        "nda_vote_share": 54.05992247344178,
+        "mgb_vote_share": 27.91982400861272,
+        "others_vote_share": 18.020253517945502,
+        "nda_seats": 26,
+        "mgb_seats": 20,
+        "others_seats": 1,
+        "total_seats": 47
+      },
+      {
+        "region": "Shahabad",
+        "nda_vote_share": 46.36067475249867,
+        "mgb_vote_share": 33.1559216055479,
+        "others_vote_share": 20.483403641953426,
+        "nda_seats": 10,
+        "mgb_seats": 12,
+        "others_seats": 0,
+        "total_seats": 22
+      },
+      {
+        "region": "Overall",
+        "nda_vote_share": 50.91191728547367,
+        "mgb_vote_share": 28.51962915965331,
+        "others_vote_share": 20.568453554873013,
+        "nda_seats": 129,
+        "mgb_seats": 110,
+        "others_seats": 4,
+        "total_seats": 243
+      }
+    ],
+    "2020": [
+      {
+        "region": "Tirhut",
+        "nda_vote_share": 42.930921807778226,
+        "mgb_vote_share": 36.28357043731376,
+        "others_vote_share": 20.785507754908014,
+        "nda_seats": 34,
+        "mgb_seats": 28,
+        "others_seats": 2,
+        "total_seats": 64
+      },
+      {
+        "region": "Mithilanchal",
+        "nda_vote_share": 45.44725246462472,
+        "mgb_vote_share": 37.40192824942132,
+        "others_vote_share": 17.15081928595396,
+        "nda_seats": 29,
+        "mgb_seats": 15,
+        "others_seats": 2,
+        "total_seats": 46
+      },
+      {
+        "region": "Koshi",
+        "nda_vote_share": 45.1547453591302,
+        "mgb_vote_share": 36.28314554401145,
+        "others_vote_share": 18.562109096858347,
+        "nda_seats": 10,
+        "mgb_seats": 3,
+        "others_seats": 0,
+        "total_seats": 13
+      },
+      {
+        "region": "Seemanchal",
+        "nda_vote_share": 38.825095031392394,
+        "mgb_vote_share": 35.83986170712573,
+        "others_vote_share": 25.335043261481882,
+        "nda_seats": 12,
+        "mgb_seats": 7,
+        "others_seats": 5,
+        "total_seats": 24
+      },
+      {
+        "region": "Anga Pradesh ",
+        "nda_vote_share": 48.15760040163475,
+        "mgb_vote_share": 35.178985108215,
+        "others_vote_share": 16.663414490150245,
+        "nda_seats": 18,
+        "mgb_seats": 8,
+        "others_seats": 1,
+        "total_seats": 27
+      },
+      {
+        "region": "Magadh",
+        "nda_vote_share": 42.34814560738914,
+        "mgb_vote_share": 39.67933375403249,
+        "others_vote_share": 17.972520638578366,
+        "nda_seats": 17,
+        "mgb_seats": 30,
+        "others_seats": 0,
+        "total_seats": 47
+      },
+      {
+        "region": "Shahabad",
+        "nda_vote_share": 38.48751859506289,
+        "mgb_vote_share": 39.31692730752053,
+        "others_vote_share": 22.195554097416586,
+        "nda_seats": 2,
+        "mgb_seats": 19,
+        "others_seats": 1,
+        "total_seats": 22
+      },
+      {
+        "region": "Overall",
+        "nda_vote_share": 43.16585614388891,
+        "mgb_vote_share": 37.23147717482566,
+        "others_vote_share": 19.602666681285434,
+        "nda_seats": 122,
+        "mgb_seats": 110,
+        "others_seats": 11,
+        "total_seats": 243
+      }
+    ]
+  }
+}

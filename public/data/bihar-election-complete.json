@@ -1,0 +1,55 @@
+{
+  "election": {
+    "name": "General Election to the Legislative Assembly of Bihar, 2025",
+    "state": "Bihar",
+    "country": "India",
+    "election_commission": "Election Commission of India",
+    "total_constituencies": 243,
+    "type": "Legislative Assembly Election"
+  },
+  "schedule": {
+    "announcement_date": "2025-10-06",
+    "phases": [
+      {
+        "phase_number": 1,
+        "constituencies_count": 121,
+        "polling_date": "2025-11-06",
+        "polling_day": "Thursday"
+      },
+      {
+        "phase_number": 2,
+        "constituencies_count": 122,
+        "polling_date": "2025-11-11",
+        "polling_day": "Tuesday"
+      }
+    ],
+    "counting_date": "2025-11-14",
+    "counting_day": "Friday"
+  },
+  "key_dates": {
+    "announcement": "2025-10-06",
+    "first_polling": "2025-11-06",
+    "second_polling": "2025-11-11",
+    "vote_counting": "2025-11-14"
+  },
+  "voter_information": {
+    "total_seats": 243,
+    "reserved_seats": {
+      "scheduled_caste": "36 seats (SC category)",
+      "scheduled_tribe": "2 seats (ST category)",
+      "general": "205 seats"
+    },
+    "polling_hours": "7:00 AM to 6:00 PM",
+    "identification_required": true
+  },
+  "data_sources": [
+    "bihar-constituencies-master.json",
+    "bihar-party-performance.json",
+    "bihar-alliance-performance.json",
+    "bihar-turnout-analysis.json",
+    "bihar-winner-analysis.json",
+    "bihar-seat-analysis.json",
+    "bihar-elector-details.json"
+  ],
+  "last_updated": "2025-11-02T13:36:34.972Z"
+}

@@ -1,0 +1,285 @@
+{
+  "title": "Bihar Party-wise Electoral Performance",
+  "elections": [
+    "2010",
+    "2015",
+    "2020"
+  ],
+  "data_source": "Election Commission of India",
+  "last_updated": "2025-11-02T13:36:34.853Z",
+  "parties": [
+    {
+      "party_name": "BJP",
+      "performance_2020": {
+        "seats_contested": 110,
+        "seats_won": 74,
+        "votes": 8201408,
+        "vote_share": 19.463387335672667
+      },
+      "performance_2015": {
+        "seats_contested": 157,
+        "seats_won": 53,
+        "votes": 9308015,
+        "vote_share": 24.417588463248443
+      },
+      "performance_2010": {
+        "seats_contested": 102,
+        "seats_won": 91,
+        "votes": 4790436,
+        "vote_share": 16.485430614629664
+      }
+    },
+    {
+      "party_name": "JD(U)",
+      "performance_2020": {
+        "seats_contested": 115,
+        "seats_won": 43,
+        "votes": 6484414,
+        "vote_share": 15.38865781666496
+      },
+      "performance_2015": {
+        "seats_contested": 101,
+        "seats_won": 71,
+        "votes": 6417041,
+        "vote_share": 16.83373590285278
+      },
+      "performance_2010": {
+        "seats_contested": 141,
+        "seats_won": 115,
+        "votes": 6561906,
+        "vote_share": 22.581628491169088
+      }
+    },
+    {
+      "party_name": "LJP",
+      "performance_2020": {
+        "seats_contested": 135,
+        "seats_won": 1,
+        "votes": 2383457,
+        "vote_share": 5.656363735217218
+      },
+      "performance_2015": {
+        "seats_contested": 42,
+        "seats_won": 2,
+        "votes": 1840834,
+        "vote_share": 4.829034658963859
+      },
+      "performance_2010": {
+        "seats_contested": 75,
+        "seats_won": 3,
+        "votes": 1957232,
+        "vote_share": 6.73546464929974
+      }
+    },
+    {
+      "party_name": "HAMS",
+      "performance_2020": {
+        "seats_contested": 7,
+        "seats_won": 4,
+        "votes": 375564,
+        "vote_share": 0.8912795950810605
+      },
+      "performance_2015": {
+        "seats_contested": 21,
+        "seats_won": 1,
+        "votes": 864856,
+        "vote_share": 2.268764917973509
+      },
+      "performance_2010": {
+        "seats_contested": "NA",
+        "seats_won": "NA",
+        "votes": "NA",
+        "vote_share": "NA"
+      }
+    },
+    {
+      "party_name": "RLSP",
+      "performance_2020": {
+        "seats_contested": 99,
+        "seats_won": 0,
+        "votes": 744221,
+        "vote_share": 1.7661676612530006
+      },
+      "performance_2015": {
+        "seats_contested": 23,
+        "seats_won": 2,
+        "votes": 976940,
+        "vote_share": 2.5627933424350875
+      },
+      "performance_2010": {
+        "seats_contested": "NA",
+        "seats_won": "NA",
+        "votes": "NA",
+        "vote_share": "NA"
+      }
+    },
+    {
+      "party_name": "RJD",
+      "performance_2020": {
+        "seats_contested": 144,
+        "seats_won": 75,
+        "votes": 9736242,
+        "vote_share": 23.105819054465325
+      },
+      "performance_2015": {
+        "seats_contested": 101,
+        "seats_won": 80,
+        "votes": 6995509,
+        "vote_share": 18.351223096755927
+      },
+      "performance_2010": {
+        "seats_contested": 168,
+        "seats_won": 22,
+        "votes": 5475656,
+        "vote_share": 18.843492963392187
+      }
+    },
+    {
+      "party_name": "INC",
+      "performance_2020": {
+        "seats_contested": 70,
+        "seats_won": 19,
+        "votes": 3995003,
+        "vote_share": 9.480846556612512
+      },
+      "performance_2015": {
+        "seats_contested": 41,
+        "seats_won": 27,
+        "votes": 2539638,
+        "vote_share": 6.66219763608324
+      },
+      "performance_2010": {
+        "seats_contested": 243,
+        "seats_won": 4,
+        "votes": 2431477,
+        "vote_share": 8.367494185198986
+      }
+    },
+    {
+      "party_name": "CPI",
+      "performance_2020": {
+        "seats_contested": 6,
+        "seats_won": 2,
+        "votes": 349489,
+        "vote_share": 0.8293990222845767
+      },
+      "performance_2015": {
+        "seats_contested": 98,
+        "seats_won": 0,
+        "votes": 516699,
+        "vote_share": 1.3554494208885575
+      },
+      "performance_2010": {
+        "seats_contested": 56,
+        "seats_won": 1,
+        "votes": 491630,
+        "vote_share": 1.6918569109514
+      }
+    },
+    {
+      "party_name": "CPM",
+      "performance_2020": {
+        "seats_contested": 4,
+        "seats_won": 2,
+        "votes": 274155,
+        "vote_share": 0.6506181566642386
+      },
+      "performance_2015": {
+        "seats_contested": 43,
+        "seats_won": 0,
+        "votes": 232168,
+        "vote_share": 0.6090431395238903
+      },
+      "performance_2010": {
+        "seats_contested": 30,
+        "seats_won": 0,
+        "votes": 206601,
+        "vote_share": 0.7109804724273747
+      }
+    },
+    {
+      "party_name": "CPI(ML)(L)",
+      "performance_2020": {
+        "seats_contested": 19,
+        "seats_won": 12,
+        "votes": 1333569,
+        "vote_share": 3.164794384799008
+      },
+      "performance_2015": {
+        "seats_contested": 98,
+        "seats_won": 3,
+        "votes": 587704,
+        "vote_share": 1.5417158664016937
+      },
+      "performance_2010": {
+        "seats_contested": 104,
+        "seats_won": 0,
+        "votes": 520352,
+        "vote_share": 1.7906985483542155
+      }
+    },
+    {
+      "party_name": "VIP",
+      "performance_2020": {
+        "seats_contested": 13,
+        "seats_won": 4,
+        "votes": 639840,
+        "vote_share": 1.5184531427843608
+      },
+      "performance_2015": {
+        "seats_contested": "-NA-",
+        "seats_won": "NA",
+        "votes": "NA",
+        "vote_share": "NA"
+      },
+      "performance_2010": {
+        "seats_contested": "-NA-",
+        "seats_won": "NA",
+        "votes": "NA",
+        "vote_share": "NA"
+      }
+    },
+    {
+      "party_name": "OTH",
+      "performance_2020": {
+        "seats_contested": 3254,
+        "seats_won": 7,
+        "votes": 7620257,
+        "vote_share": 18.084213538501075
+      },
+      "performance_2015": {
+        "seats_contested": 2968,
+        "seats_won": 4,
+        "votes": 7840720,
+        "vote_share": 20.568453554873013
+      },
+      "performance_2010": {
+        "seats_contested": 2604,
+        "seats_won": 7,
+        "votes": 6623314,
+        "vote_share": 22.792953164577348
+      }
+    },
+    {
+      "party_name": "Total",
+      "performance_2020": {
+        "seats_contested": 3976,
+        "seats_won": 243,
+        "votes": 42137619,
+        "vote_share": 100.00000000000001
+      },
+      "performance_2015": {
+        "seats_contested": 3693,
+        "seats_won": 243,
+        "votes": 38120124,
+        "vote_share": 99.99999999999999
+      },
+      "performance_2010": {
+        "seats_contested": 3523,
+        "seats_won": 243,
+        "votes": 29058604,
+        "vote_share": 100
+      }
+    }
+  ]
+}

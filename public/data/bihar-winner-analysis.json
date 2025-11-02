@@ -1,0 +1,5601 @@
+{
+  "title": "Bihar Constituency-wise Winner and Margin Analysis",
+  "elections": [
+    "2010",
+    "2015",
+    "2020"
+  ],
+  "data_source": "Election Commission of India",
+  "last_updated": "2025-11-02T13:36:34.932Z",
+  "constituencies": [
+    {
+      "ac_number": 1,
+      "ac_name": "Valmiki Nagar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Rajesh Singh",
+        "margin": 14671,
+        "margin_percentage": 10.21
+      },
+      "winner_2015": {
+        "party": "IND",
+        "candidate": "Dhirendra Pratap Singh Alias Rinku Singh",
+        "margin": 33580,
+        "margin_percentage": 18.17
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Dhirendra Pratap Singh Alias Rinku Singh",
+        "margin": 21585,
+        "margin_percentage": 11.04
+      }
+    },
+    {
+      "ac_number": 2,
+      "ac_name": "Ramnagar (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Bhagirathi Devi",
+        "margin": 29782,
+        "margin_percentage": 23.78
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Bhagirathi Devi",
+        "margin": 17988,
+        "margin_percentage": 10.52
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Bhagirathi Devi",
+        "margin": 15796,
+        "margin_percentage": 8.29
+      }
+    },
+    {
+      "ac_number": 3,
+      "ac_name": "Narkatiaganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Satish Chandra Dubey",
+        "margin": 20228,
+        "margin_percentage": 17.1
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Vinay Varma",
+        "margin": 16061,
+        "margin_percentage": 10.46
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Rashmi Varma",
+        "margin": 21134,
+        "margin_percentage": 12.84
+      }
+    },
+    {
+      "ac_number": 4,
+      "ac_name": "Bagaha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Prabhat Ranjan Singh",
+        "margin": 49055,
+        "margin_percentage": 36.62
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Raghaw Sharan Pandey",
+        "margin": 8183,
+        "margin_percentage": 4.88
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Ram Singh",
+        "margin": 30020,
+        "margin_percentage": 16.51
+      }
+    },
+    {
+      "ac_number": 5,
+      "ac_name": "Lauriya",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "IND",
+        "candidate": "Vinay Bihari",
+        "margin": 10881,
+        "margin_percentage": 9.48
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Vinay Bihari",
+        "margin": 17573,
+        "margin_percentage": 12.4
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Vinay Bihari",
+        "margin": 29004,
+        "margin_percentage": 18.42
+      }
+    },
+    {
+      "ac_number": 6,
+      "ac_name": "Nautan",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Manorma Prasad",
+        "margin": 22764,
+        "margin_percentage": 20.31
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Narayan Prasad",
+        "margin": 14335,
+        "margin_percentage": 9.53
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Narayan Prasad",
+        "margin": 25896,
+        "margin_percentage": 15.46
+      }
+    },
+    {
+      "ac_number": 7,
+      "ac_name": "Chanpatia",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Chandra Mohan Rai",
+        "margin": 23412,
+        "margin_percentage": 21.1
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Prakash Rai",
+        "margin": 464,
+        "margin_percentage": 0.3
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Umakant Singh",
+        "margin": 13469,
+        "margin_percentage": 7.66
+      }
+    },
+    {
+      "ac_number": 8,
+      "ac_name": "Bettiah",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Renu Devi",
+        "margin": 28789,
+        "margin_percentage": 27.12
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Madan Mohan Tiwari",
+        "margin": 2320,
+        "margin_percentage": 1.57
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Renu Devi",
+        "margin": 18079,
+        "margin_percentage": 11.3
+      }
+    },
+    {
+      "ac_number": 9,
+      "ac_name": "Sikta",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "IND",
+        "candidate": "Dilip Varma",
+        "margin": 8779,
+        "margin_percentage": 7.03
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Khurshid Urf Firoj Ahmad",
+        "margin": 2835,
+        "margin_percentage": 1.76
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Birendra Prasad Gupta",
+        "margin": 2302,
+        "margin_percentage": 1.35
+      }
+    },
+    {
+      "ac_number": 10,
+      "ac_name": "Raxaul",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Dr. Ajay Kumar Singh",
+        "margin": 10117,
+        "margin_percentage": 8.92
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Ajay Kumar Singh",
+        "margin": 3169,
+        "margin_percentage": 1.95
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Pramod Kumar Sinha",
+        "margin": 36923,
+        "margin_percentage": 20.79
+      }
+    },
+    {
+      "ac_number": 11,
+      "ac_name": "Sugauli",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ramchandra Sahani",
+        "margin": 12379,
+        "margin_percentage": 10.92
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Ramchandra Sahni",
+        "margin": 7756,
+        "margin_percentage": 4.99
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Er. Shashi Bhushan Singh",
+        "margin": 3447,
+        "margin_percentage": 2.02
+      }
+    },
+    {
+      "ac_number": 12,
+      "ac_name": "Narkatia",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shyam Bihari Prasad",
+        "margin": 7688,
+        "margin_percentage": 6.46
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Shamim Ahmad",
+        "margin": 19982,
+        "margin_percentage": 12.23
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Shamim Ahmad",
+        "margin": 27791,
+        "margin_percentage": 15.17
+      }
+    },
+    {
+      "ac_number": 13,
+      "ac_name": "Harsidhi (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Krishana Nandan Paswan",
+        "margin": 18064,
+        "margin_percentage": 17.59
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Rajendra Kumar",
+        "margin": 10267,
+        "margin_percentage": 6.81
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Krishnanandan Paswan",
+        "margin": 15685,
+        "margin_percentage": 9.22
+      }
+    },
+    {
+      "ac_number": 14,
+      "ac_name": "Govindganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Meena Dwivedi",
+        "margin": 8405,
+        "margin_percentage": 8.63
+      },
+      "winner_2015": {
+        "party": "LJP",
+        "candidate": "Raju Tiwari",
+        "margin": 27920,
+        "margin_percentage": 20.39
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Sunil Mani Tiwari",
+        "margin": 27924,
+        "margin_percentage": 18.41
+      }
+    },
+    {
+      "ac_number": 15,
+      "ac_name": "Kesaria",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Sachindra Pd. Singh",
+        "margin": 11683,
+        "margin_percentage": 12.37
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Dr. Rajesh Kumar",
+        "margin": 15947,
+        "margin_percentage": 12.05
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Shalini Mishra",
+        "margin": 9227,
+        "margin_percentage": 6.1
+      }
+    },
+    {
+      "ac_number": 16,
+      "ac_name": "Kalyanpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Razia Khatoon",
+        "margin": 15402,
+        "margin_percentage": 15.9
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Sachindra Prasad Singh",
+        "margin": 11488,
+        "margin_percentage": 8.48
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Manoj Kumar Yadav",
+        "margin": 1193,
+        "margin_percentage": 0.74
+      }
+    },
+    {
+      "ac_number": 17,
+      "ac_name": "Pipra",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Awadhesh Prasad Kushwaha",
+        "margin": 11887,
+        "margin_percentage": 9.71
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Shyambabu Prasad Yadav",
+        "margin": 3930,
+        "margin_percentage": 2.28
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Shyambabu Prasad Yadav",
+        "margin": 8177,
+        "margin_percentage": 4.08
+      }
+    },
+    {
+      "ac_number": 18,
+      "ac_name": "Madhuban",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shivjee Rai",
+        "margin": 10122,
+        "margin_percentage": 9.86
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Rana Randhir",
+        "margin": 16222,
+        "margin_percentage": 11.68
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Rana Randhir",
+        "margin": 5878,
+        "margin_percentage": 3.83
+      }
+    },
+    {
+      "ac_number": 19,
+      "ac_name": "Motihari",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Pramod Kumar",
+        "margin": 24530,
+        "margin_percentage": 20.09
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Pramod Kumar",
+        "margin": 18517,
+        "margin_percentage": 10.99
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Pramod Kumar",
+        "margin": 14645,
+        "margin_percentage": 7.81
+      }
+    },
+    {
+      "ac_number": 20,
+      "ac_name": "Chiraia",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Avaneesh Kumar Singh",
+        "margin": 14828,
+        "margin_percentage": 13.25
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Lal Babu Prasad Gupta",
+        "margin": 4374,
+        "margin_percentage": 2.95
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Lal Babu Prasad Gupta",
+        "margin": 16874,
+        "margin_percentage": 10.09
+      }
+    },
+    {
+      "ac_number": 21,
+      "ac_name": "Dhaka",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "IND",
+        "candidate": "Pawan Kumar Jaiswal",
+        "margin": 1649,
+        "margin_percentage": 1.3
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Faisal Rahman",
+        "margin": 19197,
+        "margin_percentage": 10.31
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Pawan Kumar Jaiswal",
+        "margin": 10114,
+        "margin_percentage": 4.87
+      }
+    },
+    {
+      "ac_number": 22,
+      "ac_name": "Sheohar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Sharfuddin",
+        "margin": 1631,
+        "margin_percentage": 1.36
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Sharfuddin",
+        "margin": 461,
+        "margin_percentage": 0.31
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Chetan Anand",
+        "margin": 36686,
+        "margin_percentage": 21.41
+      }
+    },
+    {
+      "ac_number": 23,
+      "ac_name": "Riga",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Motilal Prasad",
+        "margin": 22327,
+        "margin_percentage": 18.3
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Amit Kumar",
+        "margin": 22856,
+        "margin_percentage": 14.13
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Moti Lal Prasad",
+        "margin": 32495,
+        "margin_percentage": 18.11
+      }
+    },
+    {
+      "ac_number": 24,
+      "ac_name": "Bathnaha (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Dinkar Ram",
+        "margin": 13292,
+        "margin_percentage": 11.9
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Dinkar Ram",
+        "margin": 20166,
+        "margin_percentage": 13.25
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Anil Kumar",
+        "margin": 46818,
+        "margin_percentage": 27.36
+      }
+    },
+    {
+      "ac_number": 25,
+      "ac_name": "Parihar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ram Naresh Pr. Yadav.",
+        "margin": 4218,
+        "margin_percentage": 3.65
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Gaytri Devi",
+        "margin": 4017,
+        "margin_percentage": 2.46
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Gaytri Devi",
+        "margin": 1569,
+        "margin_percentage": 0.91
+      }
+    },
+    {
+      "ac_number": 26,
+      "ac_name": "Sursand",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shahid Ali Khan",
+        "margin": 1186,
+        "margin_percentage": 1.02
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Syed Abu Dojana",
+        "margin": 23234,
+        "margin_percentage": 14.83
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Dilip Ray",
+        "margin": 8876,
+        "margin_percentage": 5.1
+      }
+    },
+    {
+      "ac_number": 27,
+      "ac_name": "Bajpatti",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ranju Geeta",
+        "margin": 3420,
+        "margin_percentage": 2.95
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Dr. Ranju Geeta",
+        "margin": 16946,
+        "margin_percentage": 10.92
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Mukesh Kumar Yadav",
+        "margin": 2704,
+        "margin_percentage": 1.52
+      }
+    },
+    {
+      "ac_number": 28,
+      "ac_name": "Sitamarhi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Sunil Kumar Alias Pintu",
+        "margin": 5221,
+        "margin_percentage": 4.4
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Sunil Kumar",
+        "margin": 14722,
+        "margin_percentage": 8.96
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Mithilesh Kumar",
+        "margin": 11475,
+        "margin_percentage": 6.35
+      }
+    },
+    {
+      "ac_number": 29,
+      "ac_name": "Runnisaidpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Guddi Devi",
+        "margin": 10759,
+        "margin_percentage": 9.87
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Mangita Devi",
+        "margin": 14110,
+        "margin_percentage": 10.26
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Pankaj Kumar Mishra",
+        "margin": 24629,
+        "margin_percentage": 16.14
+      }
+    },
+    {
+      "ac_number": 30,
+      "ac_name": "Belsand",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Sunita Singh",
+        "margin": 19580,
+        "margin_percentage": 19.92
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Sunita Singh Chauhan",
+        "margin": 5575,
+        "margin_percentage": 4.55
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Sanjay Kumar Gupta",
+        "margin": 13685,
+        "margin_percentage": 9.84
+      }
+    },
+    {
+      "ac_number": 31,
+      "ac_name": "Harlakhi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shaligram Yadav",
+        "margin": 6659,
+        "margin_percentage": 5.93
+      },
+      "winner_2015": {
+        "party": "RLSP",
+        "candidate": "Basant Kumar",
+        "margin": 3892,
+        "margin_percentage": 2.69
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Sudhanshu Shekhar",
+        "margin": 17593,
+        "margin_percentage": 10.52
+      }
+    },
+    {
+      "ac_number": 32,
+      "ac_name": "Benipatti",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Vinod Narain Jha",
+        "margin": 12642,
+        "margin_percentage": 12.94
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Bhawana Jha",
+        "margin": 4734,
+        "margin_percentage": 3.51
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Vinod Narayan Jha",
+        "margin": 32652,
+        "margin_percentage": 20.96
+      }
+    },
+    {
+      "ac_number": 33,
+      "ac_name": "Khajauli",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Arun Shankar Prasad",
+        "margin": 10713,
+        "margin_percentage": 8.63
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Sitaram Yadav",
+        "margin": 10703,
+        "margin_percentage": 6.52
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Arun Shankar Prasad",
+        "margin": 22689,
+        "margin_percentage": 12.14
+      }
+    },
+    {
+      "ac_number": 34,
+      "ac_name": "Babubarhi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Uma Kant Yadav",
+        "margin": 4913,
+        "margin_percentage": 3.85
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Kapil Deo Kamat",
+        "margin": 20267,
+        "margin_percentage": 12.42
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Mina Kumari",
+        "margin": 11488,
+        "margin_percentage": 6
+      }
+    },
+    {
+      "ac_number": 35,
+      "ac_name": "Bisfi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Dr. Faiyaj Ahmad",
+        "margin": 9501,
+        "margin_percentage": 8.25
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Faiyaz Ahmad",
+        "margin": 35325,
+        "margin_percentage": 22.08
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Haribhushan Thakur 'Bachol'",
+        "margin": 10241,
+        "margin_percentage": 5.73
+      }
+    },
+    {
+      "ac_number": 36,
+      "ac_name": "Madhubani",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ram Deo Mahto",
+        "margin": 588,
+        "margin_percentage": 0.49
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Samir Kumar Mahaseth",
+        "margin": 7307,
+        "margin_percentage": 4.31
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Samir Kumar Mahaseth",
+        "margin": 6814,
+        "margin_percentage": 3.63
+      }
+    },
+    {
+      "ac_number": 37,
+      "ac_name": "Rajnagar (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Ram Lakhan Ram Raman",
+        "margin": 2459,
+        "margin_percentage": 2.3
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Ram Prit Paswan",
+        "margin": 6242,
+        "margin_percentage": 4.03
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Dr. Ramprit Paswan",
+        "margin": 19121,
+        "margin_percentage": 10.99
+      }
+    },
+    {
+      "ac_number": 38,
+      "ac_name": "Jhanjharpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Nitish Mishra",
+        "margin": 20681,
+        "margin_percentage": 17.63
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Gulab Yadav",
+        "margin": 834,
+        "margin_percentage": 0.53
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Nitish Mishra",
+        "margin": 41788,
+        "margin_percentage": 23.12
+      }
+    },
+    {
+      "ac_number": 39,
+      "ac_name": "Phulparas",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Guljar Devi",
+        "margin": 12344,
+        "margin_percentage": 9.74
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Guljar Devi",
+        "margin": 13415,
+        "margin_percentage": 8.46
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Sheela Kumari",
+        "margin": 10966,
+        "margin_percentage": 6.02
+      }
+    },
+    {
+      "ac_number": 40,
+      "ac_name": "Laukaha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Hari Prasad Sah",
+        "margin": 17566,
+        "margin_percentage": 12.79
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Lakshmeshwar Roy",
+        "margin": 23833,
+        "margin_percentage": 13.01
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Bharat Bhushan Mandal",
+        "margin": 10077,
+        "margin_percentage": 4.82
+      }
+    },
+    {
+      "ac_number": 41,
+      "ac_name": "Nirmali",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Aniruddha Prasad Yadav",
+        "margin": 46010,
+        "margin_percentage": 35.27
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Anirudh Prasad Yadav",
+        "margin": 23951,
+        "margin_percentage": 14.3
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Aniruddha Prasad Yadav",
+        "margin": 43922,
+        "margin_percentage": 23.44
+      }
+    },
+    {
+      "ac_number": 42,
+      "ac_name": "Pipra",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Sujata Devi",
+        "margin": 14686,
+        "margin_percentage": 11.73
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Yadubansh Kumar Yadav",
+        "margin": 36369,
+        "margin_percentage": 22.85
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Rambilash Kamat",
+        "margin": 19245,
+        "margin_percentage": 10.59
+      }
+    },
+    {
+      "ac_number": 43,
+      "ac_name": "Supaul",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Bijendra Prasad Yadav",
+        "margin": 15400,
+        "margin_percentage": 12.69
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Bijendra Prasad Yadav",
+        "margin": 37397,
+        "margin_percentage": 24.85
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Bijendra Prasad Yadav",
+        "margin": 28099,
+        "margin_percentage": 16.37
+      }
+    },
+    {
+      "ac_number": 44,
+      "ac_name": "Triveniganj (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Amla Devi",
+        "margin": 19023,
+        "margin_percentage": 14.61
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Veena Bharti",
+        "margin": 52400,
+        "margin_percentage": 33.54
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Veena Bharti",
+        "margin": 3031,
+        "margin_percentage": 1.71
+      }
+    },
+    {
+      "ac_number": 45,
+      "ac_name": "Chhatapur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Neeraj Kumar Singh",
+        "margin": 23730,
+        "margin_percentage": 17.36
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Niraj Kumar Singh",
+        "margin": 9292,
+        "margin_percentage": 5.37
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Neeraj Kumar Singh",
+        "margin": 20635,
+        "margin_percentage": 10.21
+      }
+    },
+    {
+      "ac_number": 46,
+      "ac_name": "Narpatganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Devanti Yadav",
+        "margin": 6937,
+        "margin_percentage": 4.65
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Anil Kumar Yadav",
+        "margin": 25951,
+        "margin_percentage": 14.76
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Jai Prakash Yadav",
+        "margin": 28610,
+        "margin_percentage": 14.26
+      }
+    },
+    {
+      "ac_number": 47,
+      "ac_name": "Raniganj (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Parmanand Rishideo",
+        "margin": 23653,
+        "margin_percentage": 18.03
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Achmit Rishidev",
+        "margin": 14930,
+        "margin_percentage": 9.25
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Achmit Rishidev",
+        "margin": 2304,
+        "margin_percentage": 1.24
+      }
+    },
+    {
+      "ac_number": 48,
+      "ac_name": "Forbesganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Padam Parag Roy 'Venu'",
+        "margin": 26827,
+        "margin_percentage": 18.63
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Vidya Sagar Keshri",
+        "margin": 25238,
+        "margin_percentage": 13.57
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Vidya Sagar Keshari",
+        "margin": 19702,
+        "margin_percentage": 9.55
+      }
+    },
+    {
+      "ac_number": 49,
+      "ac_name": "Araria",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "LJP",
+        "candidate": "Zakir Hussain Khan",
+        "margin": 18061,
+        "margin_percentage": 14.05
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Avidur Rahman",
+        "margin": 40044,
+        "margin_percentage": 22.8
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Abidur Rahman",
+        "margin": 47936,
+        "margin_percentage": 25.51
+      }
+    },
+    {
+      "ac_number": 50,
+      "ac_name": "Jokihat",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Sarfraz Alam",
+        "margin": 25330,
+        "margin_percentage": 20.33
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Sarfraz Alam",
+        "margin": 53980,
+        "margin_percentage": 34.06
+      },
+      "winner_2020": {
+        "party": "AIMIM",
+        "candidate": "Shahnawaz",
+        "margin": 7383,
+        "margin_percentage": 4.24
+      }
+    },
+    {
+      "ac_number": 51,
+      "ac_name": "Sikti",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Anandi Prasad Yadav",
+        "margin": 9874,
+        "margin_percentage": 7.32
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Vijay Kumar Mandal",
+        "margin": 8106,
+        "margin_percentage": 4.89
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Vijay Kumar Mandal",
+        "margin": 13610,
+        "margin_percentage": 7.59
+      }
+    },
+    {
+      "ac_number": 52,
+      "ac_name": "Bahadurganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "INC",
+        "candidate": "Mohammad Tousif Alam",
+        "margin": 3799,
+        "margin_percentage": 3.38
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "M.D. Tauseef Alam",
+        "margin": 13942,
+        "margin_percentage": 8.74
+      },
+      "winner_2020": {
+        "party": "AIMIM",
+        "candidate": "Mohammad Anzar Nayeemi",
+        "margin": 45215,
+        "margin_percentage": 26.21
+      }
+    },
+    {
+      "ac_number": 53,
+      "ac_name": "Thakurganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "LJP",
+        "candidate": "Naushad Alam",
+        "margin": 6963,
+        "margin_percentage": 5.42
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Naushad Alam (Tatpauwa)",
+        "margin": 8087,
+        "margin_percentage": 4.49
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Saud Alam",
+        "margin": 23887,
+        "margin_percentage": 12.4
+      }
+    },
+    {
+      "ac_number": 54,
+      "ac_name": "Kishanganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "INC",
+        "candidate": "Dr Mohammad Jawaid",
+        "margin": 264,
+        "margin_percentage": 0.21
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Dr Mohammad Jawaid",
+        "margin": 8609,
+        "margin_percentage": 5.02
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Ijaharul Husain",
+        "margin": 1381,
+        "margin_percentage": 0.77
+      }
+    },
+    {
+      "ac_number": 55,
+      "ac_name": "Kochadhaman",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Akhatarul Iman",
+        "margin": 9025,
+        "margin_percentage": 8.76
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Mujahid Alam",
+        "margin": 18843,
+        "margin_percentage": 13.28
+      },
+      "winner_2020": {
+        "party": "AIMIM",
+        "candidate": "Muhammed Izhar Asfi",
+        "margin": 36143,
+        "margin_percentage": 22.37
+      }
+    },
+    {
+      "ac_number": 56,
+      "ac_name": "Amour",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Saba Zafar",
+        "margin": 18828,
+        "margin_percentage": 15.1
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Abdul Jalil Mastan",
+        "margin": 51997,
+        "margin_percentage": 30.72
+      },
+      "winner_2020": {
+        "party": "AIMIM",
+        "candidate": "Akhtarul Iman",
+        "margin": 52515,
+        "margin_percentage": 28.45
+      }
+    },
+    {
+      "ac_number": 57,
+      "ac_name": "Baisi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Santosh Kumar",
+        "margin": 9250,
+        "margin_percentage": 7.54
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Abdus Subhan",
+        "margin": 38740,
+        "margin_percentage": 24.01
+      },
+      "winner_2020": {
+        "party": "AIMIM",
+        "candidate": "Syed Ruknuddin Ahmad",
+        "margin": 16373,
+        "margin_percentage": 9.16
+      }
+    },
+    {
+      "ac_number": 58,
+      "ac_name": "Kasba",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "INC",
+        "candidate": "Md. Afaque Alam",
+        "margin": 4455,
+        "margin_percentage": 3.33
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Md. Afaque Alam",
+        "margin": 1794,
+        "margin_percentage": 0.98
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Md. Afaque Alam",
+        "margin": 17278,
+        "margin_percentage": 9.18
+      }
+    },
+    {
+      "ac_number": 59,
+      "ac_name": "Banmankhi (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Krishna Kumar Rishi",
+        "margin": 44890,
+        "margin_percentage": 35.48
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Krishna Kumar Rishi",
+        "margin": 708,
+        "margin_percentage": 0.43
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Krishna Kumar Rishi",
+        "margin": 27743,
+        "margin_percentage": 15.34
+      }
+    },
+    {
+      "ac_number": 60,
+      "ac_name": "Rupauli",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Bima Bharti",
+        "margin": 37716,
+        "margin_percentage": 27.1
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Bima Bharti",
+        "margin": 9672,
+        "margin_percentage": 5.34
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Bima Bharti",
+        "margin": 19330,
+        "margin_percentage": 10.37
+      }
+    },
+    {
+      "ac_number": 61,
+      "ac_name": "Dhamdaha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Leshi Singh",
+        "margin": 44697,
+        "margin_percentage": 30.59
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Leshi Singh",
+        "margin": 30291,
+        "margin_percentage": 16
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Leshi Singh",
+        "margin": 33594,
+        "margin_percentage": 16.79
+      }
+    },
+    {
+      "ac_number": 62,
+      "ac_name": "Purnia",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Raj Kishore Keshari",
+        "margin": 15599,
+        "margin_percentage": 11.83
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Vijay Kumar Khemka",
+        "margin": 32815,
+        "margin_percentage": 17.57
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Vijay Kumar Khemka",
+        "margin": 32154,
+        "margin_percentage": 17.36
+      }
+    },
+    {
+      "ac_number": 63,
+      "ac_name": "Katihar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Tar Kishore Prasad",
+        "margin": 20607,
+        "margin_percentage": 16.45
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Tarkishore Prasad",
+        "margin": 14894,
+        "margin_percentage": 9.69
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Tarkishore Prasad",
+        "margin": 10519,
+        "margin_percentage": 6.17
+      }
+    },
+    {
+      "ac_number": 64,
+      "ac_name": "Kadwa",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Bhola Ray",
+        "margin": 18367,
+        "margin_percentage": 15.31
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Shakeel Ahmad Khan",
+        "margin": 5799,
+        "margin_percentage": 3.66
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Shakeel Ahmad Khan",
+        "margin": 32402,
+        "margin_percentage": 19.1
+      }
+    },
+    {
+      "ac_number": 65,
+      "ac_name": "Balrampur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "IND",
+        "candidate": "Dulal Chandra Goshwami",
+        "margin": 2704,
+        "margin_percentage": 1.84
+      },
+      "winner_2015": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Mahboob Alam",
+        "margin": 20419,
+        "margin_percentage": 10.35
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Mahboob Alam",
+        "margin": 53597,
+        "margin_percentage": 26.22
+      }
+    },
+    {
+      "ac_number": 66,
+      "ac_name": "Pranpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Binod Kumar Singh",
+        "margin": 716,
+        "margin_percentage": 0.52
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Binod Kumar Singh",
+        "margin": 8101,
+        "margin_percentage": 4.51
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Nisha Singh",
+        "margin": 2972,
+        "margin_percentage": 1.49
+      }
+    },
+    {
+      "ac_number": 67,
+      "ac_name": "Manihari (ST)",
+      "ac_type": "ST",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Manohar Prasad Singh",
+        "margin": 4165,
+        "margin_percentage": 3.3
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Manohar Prasad Singh",
+        "margin": 13680,
+        "margin_percentage": 8.58
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Manohar Prasad Singh",
+        "margin": 21209,
+        "margin_percentage": 11.7
+      }
+    },
+    {
+      "ac_number": 68,
+      "ac_name": "Barari",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Bibhasha Chandra Choudhary",
+        "margin": 27168,
+        "margin_percentage": 19.86
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Neeraj Kumar",
+        "margin": 14336,
+        "margin_percentage": 8.69
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Bijay Singh",
+        "margin": 10438,
+        "margin_percentage": 5.71
+      }
+    },
+    {
+      "ac_number": 69,
+      "ac_name": "Korha (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Mahesh Paswan",
+        "margin": 52444,
+        "margin_percentage": 40.83
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Punam Kumari Alias Punam Paswan",
+        "margin": 5426,
+        "margin_percentage": 3.15
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Kavita Devi",
+        "margin": 28943,
+        "margin_percentage": 14.75
+      }
+    },
+    {
+      "ac_number": 70,
+      "ac_name": "Alamnagar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Narendra N. Yadav",
+        "margin": 42345,
+        "margin_percentage": 27.48
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Narendra Narayan Yadav",
+        "margin": 43876,
+        "margin_percentage": 22.82
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Narendra Narayan Yadav",
+        "margin": 28680,
+        "margin_percentage": 13.48
+      }
+    },
+    {
+      "ac_number": 71,
+      "ac_name": "Bihariganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Renu Kumari",
+        "margin": 49997,
+        "margin_percentage": 32.76
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Niranjan Kumar Mehta",
+        "margin": 29253,
+        "margin_percentage": 16.9
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Niranjan Kumar Mehta",
+        "margin": 18711,
+        "margin_percentage": 10.01
+      }
+    },
+    {
+      "ac_number": 72,
+      "ac_name": "Singheshwar (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ramesh Rishidev",
+        "margin": 15196,
+        "margin_percentage": 10.46
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ramesh Rishidev",
+        "margin": 50200,
+        "margin_percentage": 29.88
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Chandrahas Chaupal",
+        "margin": 5573,
+        "margin_percentage": 2.92
+      }
+    },
+    {
+      "ac_number": 73,
+      "ac_name": "Madhepura",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Chandrashekhar",
+        "margin": 11944,
+        "margin_percentage": 7.79
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Chandra Shekhar",
+        "margin": 37642,
+        "margin_percentage": 20.49
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Chandra Shekhar",
+        "margin": 15072,
+        "margin_percentage": 7.41
+      }
+    },
+    {
+      "ac_number": 74,
+      "ac_name": "Sonbarsha (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ratnesh Sada",
+        "margin": 31445,
+        "margin_percentage": 26.3
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ratnesh Sada",
+        "margin": 53763,
+        "margin_percentage": 36.12
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Ratnesh Sada",
+        "margin": 13466,
+        "margin_percentage": 8
+      }
+    },
+    {
+      "ac_number": 75,
+      "ac_name": "Saharsa",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Alok Ranjan",
+        "margin": 7979,
+        "margin_percentage": 5.26
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Arun Kumar",
+        "margin": 39206,
+        "margin_percentage": 20.21
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Alok Ranjan",
+        "margin": 19679,
+        "margin_percentage": 8.67
+      }
+    },
+    {
+      "ac_number": 76,
+      "ac_name": "Simri Bakhtiarpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Dr Arun Kumar",
+        "margin": 18842,
+        "margin_percentage": 14.32
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Dinesh Chandra Yadav",
+        "margin": 37806,
+        "margin_percentage": 22.88
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Yusuf Salahuddin",
+        "margin": 1759,
+        "margin_percentage": 0.89
+      }
+    },
+    {
+      "ac_number": 77,
+      "ac_name": "Mahishi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Dr Abdul Gafoor",
+        "margin": 1717,
+        "margin_percentage": 1.46
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Dr. Abdul Ghafoor",
+        "margin": 26135,
+        "margin_percentage": 17.95
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Gunjeshwar Sah",
+        "margin": 1630,
+        "margin_percentage": 0.93
+      }
+    },
+    {
+      "ac_number": 78,
+      "ac_name": "Kusheshwar Asthan (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Shashi Bhushan Hajari",
+        "margin": 5512,
+        "margin_percentage": 6.09
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Shashi Bhusan Hazari",
+        "margin": 19850,
+        "margin_percentage": 17.08
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Shashibhushan Hajari",
+        "margin": 7222,
+        "margin_percentage": 5.29
+      }
+    },
+    {
+      "ac_number": 79,
+      "ac_name": "Gaura Bauram",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Dr. Izhar Ahmad",
+        "margin": 10602,
+        "margin_percentage": 11.72
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Madan Sahni",
+        "margin": 14062,
+        "margin_percentage": 11.68
+      },
+      "winner_2020": {
+        "party": "VSIP",
+        "candidate": "Swarna Singh",
+        "margin": 7280,
+        "margin_percentage": 5.05
+      }
+    },
+    {
+      "ac_number": 80,
+      "ac_name": "Benipur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Gopal Jee Thakur",
+        "margin": 13957,
+        "margin_percentage": 13.02
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Sunil Choudhary",
+        "margin": 26443,
+        "margin_percentage": 17.83
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Binay Kumar Choudhary",
+        "margin": 6590,
+        "margin_percentage": 4.03
+      }
+    },
+    {
+      "ac_number": 81,
+      "ac_name": "Alinagar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Abdul Bari Siddiqui",
+        "margin": 4989,
+        "margin_percentage": 4.9
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Abdul Bari Siddiqui",
+        "margin": 13460,
+        "margin_percentage": 9.64
+      },
+      "winner_2020": {
+        "party": "VSIP",
+        "candidate": "Mishri Lal Yadav",
+        "margin": 3101,
+        "margin_percentage": 1.96
+      }
+    },
+    {
+      "ac_number": 82,
+      "ac_name": "Darbhanga Rural",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Lalit Kumar Yadav",
+        "margin": 3676,
+        "margin_percentage": 3.61
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Lalit Kumar Yadav",
+        "margin": 34491,
+        "margin_percentage": 25.12
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Lalit Kumar Yadav",
+        "margin": 2141,
+        "margin_percentage": 1.36
+      }
+    },
+    {
+      "ac_number": 83,
+      "ac_name": "Darbhanga",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Sanjay Saraogi",
+        "margin": 27554,
+        "margin_percentage": 23.23
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Sanjay Saraogi",
+        "margin": 7460,
+        "margin_percentage": 4.57
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Sanjay Saraogi",
+        "margin": 10639,
+        "margin_percentage": 6.24
+      }
+    },
+    {
+      "ac_number": 84,
+      "ac_name": "Hayaghat",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Amar Nath Gami",
+        "margin": 6025,
+        "margin_percentage": 6.63
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Amar Nath Gami",
+        "margin": 33231,
+        "margin_percentage": 26.98
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Ram Chandra Prasad",
+        "margin": 10252,
+        "margin_percentage": 7.17
+      }
+    },
+    {
+      "ac_number": 85,
+      "ac_name": "Bahadurpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Madan Sahni",
+        "margin": 643,
+        "margin_percentage": 0.56
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Bhola Yadav",
+        "margin": 16989,
+        "margin_percentage": 10.91
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Madan Sahni",
+        "margin": 2629,
+        "margin_percentage": 1.48
+      }
+    },
+    {
+      "ac_number": 86,
+      "ac_name": "Keoti",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ashok Kumar Yadav",
+        "margin": 29,
+        "margin_percentage": 0.03
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Faraz Fatmi",
+        "margin": 7830,
+        "margin_percentage": 5.38
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Murari Mohan Jha",
+        "margin": 5126,
+        "margin_percentage": 3.14
+      }
+    },
+    {
+      "ac_number": 87,
+      "ac_name": "Jale",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Vijay Kumar Mishra",
+        "margin": 16942,
+        "margin_percentage": 15.69
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Jibesh Kumar",
+        "margin": 4620,
+        "margin_percentage": 3.1
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Jibesh Kumar",
+        "margin": 21796,
+        "margin_percentage": 12.89
+      }
+    },
+    {
+      "ac_number": 88,
+      "ac_name": "Gaighat",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Veena Devi",
+        "margin": 15987,
+        "margin_percentage": 12.32
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Maheshwar Prasad Yadav",
+        "margin": 3501,
+        "margin_percentage": 2.12
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Niranjan Roy",
+        "margin": 7566,
+        "margin_percentage": 4.17
+      }
+    },
+    {
+      "ac_number": 89,
+      "ac_name": "Aurai",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ram Surat Rai",
+        "margin": 11741,
+        "margin_percentage": 10.06
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Surendra Kumar",
+        "margin": 10825,
+        "margin_percentage": 7.02
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Ram Surat Kumar",
+        "margin": 47866,
+        "margin_percentage": 27.69
+      }
+    },
+    {
+      "ac_number": 90,
+      "ac_name": "Minapur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Dinesh Prasad",
+        "margin": 5402,
+        "margin_percentage": 4.35
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Rajeev Kumar Urf Munna Yadav",
+        "margin": 23940,
+        "margin_percentage": 14.7
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Rajeev Kumar",
+        "margin": 15512,
+        "margin_percentage": 8.66
+      }
+    },
+    {
+      "ac_number": 91,
+      "ac_name": "Bochaha (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ramai Ram",
+        "margin": 24127,
+        "margin_percentage": 19.72
+      },
+      "winner_2015": {
+        "party": "IND",
+        "candidate": "Beby Kumari",
+        "margin": 24130,
+        "margin_percentage": 14.49
+      },
+      "winner_2020": {
+        "party": "VSIP",
+        "candidate": "Musafir Paswan",
+        "margin": 11268,
+        "margin_percentage": 6.17
+      }
+    },
+    {
+      "ac_number": 92,
+      "ac_name": "Sakra (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Suresh Chanchal",
+        "margin": 13045,
+        "margin_percentage": 11.29
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Lal Babu Ram",
+        "margin": 13012,
+        "margin_percentage": 8.31
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Ashok Kumar Chodhary",
+        "margin": 1537,
+        "margin_percentage": 0.92
+      }
+    },
+    {
+      "ac_number": 93,
+      "ac_name": "Kurhani",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Manoj Kumar Singh",
+        "margin": 1570,
+        "margin_percentage": 1.21
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Kedar Prasad Gupta",
+        "margin": 11570,
+        "margin_percentage": 6.69
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Anil Kumar Sahni",
+        "margin": 712,
+        "margin_percentage": 0.36
+      }
+    },
+    {
+      "ac_number": 94,
+      "ac_name": "Muzaffarpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Suresh Kumar Sharma",
+        "margin": 46439,
+        "margin_percentage": 38.13
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Suresh Kumar Sharma",
+        "margin": 29739,
+        "margin_percentage": 17.15
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Bijendra Chaudhary",
+        "margin": 6326,
+        "margin_percentage": 3.72
+      }
+    },
+    {
+      "ac_number": 95,
+      "ac_name": "Kanti",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ajit Kumar",
+        "margin": 8415,
+        "margin_percentage": 6.75
+      },
+      "winner_2015": {
+        "party": "IND",
+        "candidate": "Ashok Kumar Choudhary (Sadatpur)",
+        "margin": 9275,
+        "margin_percentage": 5.17
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Mohammad Israil Mansuri",
+        "margin": 10314,
+        "margin_percentage": 5.26
+      }
+    },
+    {
+      "ac_number": 96,
+      "ac_name": "Baruraj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Brij Kishor Singh",
+        "margin": 14317,
+        "margin_percentage": 12.71
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Nand Kumar Rai",
+        "margin": 4909,
+        "margin_percentage": 3.15
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Arun Kumar Singh",
+        "margin": 43654,
+        "margin_percentage": 24.71
+      }
+    },
+    {
+      "ac_number": 97,
+      "ac_name": "Paroo",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ashok Kumar Singh",
+        "margin": 19027,
+        "margin_percentage": 15.33
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Ashok Kumar Singh",
+        "margin": 13539,
+        "margin_percentage": 8.11
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Ashok Kumar Singh",
+        "margin": 14698,
+        "margin_percentage": 7.77
+      }
+    },
+    {
+      "ac_number": 98,
+      "ac_name": "Sahebganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Raju Kumar Singh",
+        "margin": 4916,
+        "margin_percentage": 4.06
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Ramvichar Rai",
+        "margin": 10660,
+        "margin_percentage": 6.59
+      },
+      "winner_2020": {
+        "party": "VSIP",
+        "candidate": "Raju Kumar Singh",
+        "margin": 15333,
+        "margin_percentage": 8.36
+      }
+    },
+    {
+      "ac_number": 99,
+      "ac_name": "Baikunthpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Manjeet Kumar Singh",
+        "margin": 36524,
+        "margin_percentage": 29.14
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Mithilesh Tiwari",
+        "margin": 14115,
+        "margin_percentage": 8.82
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Prem Shankar Prasad",
+        "margin": 11113,
+        "margin_percentage": 6.07
+      }
+    },
+    {
+      "ac_number": 100,
+      "ac_name": "Barauli",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ram Pravesh Rai",
+        "margin": 10414,
+        "margin_percentage": 9.07
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Md Nematullah",
+        "margin": 504,
+        "margin_percentage": 0.33
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Rampravesh Rai",
+        "margin": 14155,
+        "margin_percentage": 8.04
+      }
+    },
+    {
+      "ac_number": 101,
+      "ac_name": "Gopalganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Subas Singh",
+        "margin": 15893,
+        "margin_percentage": 12.48
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Subash Singh",
+        "margin": 5074,
+        "margin_percentage": 2.94
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Subash Singh",
+        "margin": 36752,
+        "margin_percentage": 20.55
+      }
+    },
+    {
+      "ac_number": 102,
+      "ac_name": "Kuchaikote",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Amrendra Kumar Pandey",
+        "margin": 19518,
+        "margin_percentage": 15.41
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Amrendra Kumar Pandey",
+        "margin": 3562,
+        "margin_percentage": 2.13
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Amrendra Kumar Pandey",
+        "margin": 20630,
+        "margin_percentage": 11.43
+      }
+    },
+    {
+      "ac_number": 103,
+      "ac_name": "Bhorey (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Idradeo Majhi",
+        "margin": 43570,
+        "margin_percentage": 36.37
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Anil Kumar",
+        "margin": 14871,
+        "margin_percentage": 8.86
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Sunil Kumar",
+        "margin": 462,
+        "margin_percentage": 0.25
+      }
+    },
+    {
+      "ac_number": 104,
+      "ac_name": "Hathua",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ram Sewak Singh",
+        "margin": 22847,
+        "margin_percentage": 19.1
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ramsewak Singh",
+        "margin": 22984,
+        "margin_percentage": 14.49
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Rajesh Kumar Singh",
+        "margin": 30527,
+        "margin_percentage": 17.54
+      }
+    },
+    {
+      "ac_number": 105,
+      "ac_name": "Siwan",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Vyasdeo Prasad",
+        "margin": 12541,
+        "margin_percentage": 10.74
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Vyas Deo Prasad",
+        "margin": 3534,
+        "margin_percentage": 2.24
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Awadh Bihari Chaudhary",
+        "margin": 1973,
+        "margin_percentage": 1.16
+      }
+    },
+    {
+      "ac_number": 106,
+      "ac_name": "Ziradei",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Asha Devi",
+        "margin": 8920,
+        "margin_percentage": 8.26
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ramesh Singh Kushwaha",
+        "margin": 6091,
+        "margin_percentage": 4.48
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Amarjeet Kushwaha",
+        "margin": 25510,
+        "margin_percentage": 17.67
+      }
+    },
+    {
+      "ac_number": 107,
+      "ac_name": "Darauli (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ramayan Manjhi",
+        "margin": 7006,
+        "margin_percentage": 5.99
+      },
+      "winner_2015": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Satyadeo Ram",
+        "margin": 9584,
+        "margin_percentage": 6.49
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Satyadeo Ram",
+        "margin": 12119,
+        "margin_percentage": 7.55
+      }
+    },
+    {
+      "ac_number": 108,
+      "ac_name": "Raghunathpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Vikram Kunwar",
+        "margin": 15112,
+        "margin_percentage": 14.6
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Harishankar Yadav",
+        "margin": 10622,
+        "margin_percentage": 7.3
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Harishankar Yadav",
+        "margin": 17965,
+        "margin_percentage": 11.31
+      }
+    },
+    {
+      "ac_number": 109,
+      "ac_name": "Daraundha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Jagmato Devi",
+        "margin": 31135,
+        "margin_percentage": 28.08
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Kavita Singh",
+        "margin": 13222,
+        "margin_percentage": 8.71
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Karnjeet Singh Alias Vyas Singh",
+        "margin": 11320,
+        "margin_percentage": 6.94
+      }
+    },
+    {
+      "ac_number": 110,
+      "ac_name": "Barharia",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shyam Bahadur Singh",
+        "margin": 25121,
+        "margin_percentage": 21.82
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Shyam Bahadur Singh",
+        "margin": 14583,
+        "margin_percentage": 9.38
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Bachcha Pandey",
+        "margin": 3559,
+        "margin_percentage": 2.06
+      }
+    },
+    {
+      "ac_number": 111,
+      "ac_name": "Goriakothi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Bhumendra Narayan Singh",
+        "margin": 14021,
+        "margin_percentage": 11.23
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Satyadeo Prasad Singh",
+        "margin": 7651,
+        "margin_percentage": 4.61
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Devesh Kant Singh",
+        "margin": 11891,
+        "margin_percentage": 6.21
+      }
+    },
+    {
+      "ac_number": 112,
+      "ac_name": "Maharajganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Damodar Singh",
+        "margin": 20000,
+        "margin_percentage": 18.01
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Hem Narayan Sah",
+        "margin": 20292,
+        "margin_percentage": 13.49
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Vijay Shanker Dubey",
+        "margin": 1976,
+        "margin_percentage": 1.22
+      }
+    },
+    {
+      "ac_number": 113,
+      "ac_name": "Ekma",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Manoranjan Singh",
+        "margin": 29201,
+        "margin_percentage": 28.36
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Manoranjan Singh",
+        "margin": 8126,
+        "margin_percentage": 5.8
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Srikant Yadav",
+        "margin": 13927,
+        "margin_percentage": 9.06
+      }
+    },
+    {
+      "ac_number": 114,
+      "ac_name": "Manjhi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Gautam Singh",
+        "margin": 7904,
+        "margin_percentage": 7.41
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Vijay Shanker Dubey",
+        "margin": 8866,
+        "margin_percentage": 6.17
+      },
+      "winner_2020": {
+        "party": "CPM",
+        "candidate": "Dr. Satyendra Yadav",
+        "margin": 25386,
+        "margin_percentage": 16.07
+      }
+    },
+    {
+      "ac_number": 115,
+      "ac_name": "Baniapur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Kedar Nath Singh",
+        "margin": 3575,
+        "margin_percentage": 3.19
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Kedar Nath Singh",
+        "margin": 15951,
+        "margin_percentage": 10.48
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Kedar Nath Singh",
+        "margin": 27789,
+        "margin_percentage": 16.51
+      }
+    },
+    {
+      "ac_number": 116,
+      "ac_name": "Taraiya",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Janak Singh",
+        "margin": 6970,
+        "margin_percentage": 6.96
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Mudrika Prasad Roy",
+        "margin": 20440,
+        "margin_percentage": 14.18
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Janak Singh",
+        "margin": 11307,
+        "margin_percentage": 6.8
+      }
+    },
+    {
+      "ac_number": 117,
+      "ac_name": "Marhaura",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Jitendra Kumar Rai",
+        "margin": 5624,
+        "margin_percentage": 5.66
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Jeetendra Kumar Rai",
+        "margin": 16718,
+        "margin_percentage": 11.93
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Jitendra Kumar Ray",
+        "margin": 11385,
+        "margin_percentage": 7.51
+      }
+    },
+    {
+      "ac_number": 118,
+      "ac_name": "Chapra",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Janardan Singh Sigriwal",
+        "margin": 35871,
+        "margin_percentage": 31.35
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Dr. C.N. Gupta",
+        "margin": 11379,
+        "margin_percentage": 7.19
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Dr. C. N. Gupta",
+        "margin": 6771,
+        "margin_percentage": 4.02
+      }
+    },
+    {
+      "ac_number": 119,
+      "ac_name": "Garkha (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Gyan Chand Manjhi",
+        "margin": 1787,
+        "margin_percentage": 1.72
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Muneshwar Chaudhary",
+        "margin": 39883,
+        "margin_percentage": 25.29
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Surendra Ram",
+        "margin": 9937,
+        "margin_percentage": 5.62
+      }
+    },
+    {
+      "ac_number": 120,
+      "ac_name": "Amnour",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Krishana Kumar",
+        "margin": 10517,
+        "margin_percentage": 10.88
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Shatrudhan Tiwary",
+        "margin": 5251,
+        "margin_percentage": 4.01
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Krishan Kumar Mantoo",
+        "margin": 3681,
+        "margin_percentage": 2.46
+      }
+    },
+    {
+      "ac_number": 121,
+      "ac_name": "Parsa",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Chhotelal Rai",
+        "margin": 4689,
+        "margin_percentage": 4.64
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Chandrika Rai",
+        "margin": 42335,
+        "margin_percentage": 30.66
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Chhote Lal Ray",
+        "margin": 17293,
+        "margin_percentage": 11.23
+      }
+    },
+    {
+      "ac_number": 122,
+      "ac_name": "Sonepur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Vinay Kumar Singh",
+        "margin": 20685,
+        "margin_percentage": 17.19
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Dr. Ramanuj Prasad",
+        "margin": 36396,
+        "margin_percentage": 23.2
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Dr. Ramanuj Prasad",
+        "margin": 6686,
+        "margin_percentage": 3.94
+      }
+    },
+    {
+      "ac_number": 123,
+      "ac_name": "Hajipur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Nityanand Roy",
+        "margin": 16609,
+        "margin_percentage": 12.45
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Awadhesh Singh",
+        "margin": 12195,
+        "margin_percentage": 6.83
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Awadhesh Singh",
+        "margin": 2990,
+        "margin_percentage": 1.56
+      }
+    },
+    {
+      "ac_number": 124,
+      "ac_name": "Lalganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Annu Shukla",
+        "margin": 24145,
+        "margin_percentage": 16.92
+      },
+      "winner_2015": {
+        "party": "LJP",
+        "candidate": "Raj Kumar Sah",
+        "margin": 20293,
+        "margin_percentage": 11.52
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Sanjay Kumar Singh",
+        "margin": 26299,
+        "margin_percentage": 13.71
+      }
+    },
+    {
+      "ac_number": 125,
+      "ac_name": "Vaishali",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Brishin Patel",
+        "margin": 12828,
+        "margin_percentage": 9.5
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Raj Kishore Singh",
+        "margin": 31061,
+        "margin_percentage": 18.66
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Siddharth Patel",
+        "margin": 7413,
+        "margin_percentage": 3.82
+      }
+    },
+    {
+      "ac_number": 126,
+      "ac_name": "Mahua",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ravindra Ray",
+        "margin": 21925,
+        "margin_percentage": 18.95
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Tej Pratap Yadav",
+        "margin": 28155,
+        "margin_percentage": 18.23
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Mukesh Kumar Raushan",
+        "margin": 13687,
+        "margin_percentage": 7.97
+      }
+    },
+    {
+      "ac_number": 127,
+      "ac_name": "Raja Pakar (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Sanjay Kumar",
+        "margin": 10215,
+        "margin_percentage": 9.92
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Shivchandra Ram",
+        "margin": 15155,
+        "margin_percentage": 11.24
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Pratima Kumari",
+        "margin": 1796,
+        "margin_percentage": 1.18
+      }
+    },
+    {
+      "ac_number": 128,
+      "ac_name": "Raghopur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Satish Kumar",
+        "margin": 13006,
+        "margin_percentage": 9.73
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Tejashwi Prasad Yadav",
+        "margin": 22733,
+        "margin_percentage": 12.25
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Tejashwi Prasad Yadav",
+        "margin": 38174,
+        "margin_percentage": 19.1
+      }
+    },
+    {
+      "ac_number": 129,
+      "ac_name": "Mahnar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Dr. Achyuatanand",
+        "margin": 2489,
+        "margin_percentage": 2.09
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Umesh Singh Kushwaha",
+        "margin": 26455,
+        "margin_percentage": 17.85
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Bina Singh",
+        "margin": 7947,
+        "margin_percentage": 4.81
+      }
+    },
+    {
+      "ac_number": 130,
+      "ac_name": "Patepur (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Mahendra Baitha",
+        "margin": 16667,
+        "margin_percentage": 14.5
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Prema Chaudhary",
+        "margin": 12461,
+        "margin_percentage": 8.5
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Lakhendra Kumar Raushan",
+        "margin": 25839,
+        "margin_percentage": 15.58
+      }
+    },
+    {
+      "ac_number": 131,
+      "ac_name": "Kalyanpur (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ramsewak Hazari",
+        "margin": 30197,
+        "margin_percentage": 23.42
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Maheshwar Hazari",
+        "margin": 37686,
+        "margin_percentage": 22.37
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Maheshwar Hazari",
+        "margin": 10251,
+        "margin_percentage": 5.45
+      }
+    },
+    {
+      "ac_number": 132,
+      "ac_name": "Warisnagar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ashok Kumar",
+        "margin": 19500,
+        "margin_percentage": 14.32
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ashok Kumar",
+        "margin": 58573,
+        "margin_percentage": 34.54
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Ashok Kumar",
+        "margin": 13801,
+        "margin_percentage": 7.26
+      }
+    },
+    {
+      "ac_number": 133,
+      "ac_name": "Samastipur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Akhtarul Islam Sahin",
+        "margin": 1827,
+        "margin_percentage": 1.56
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Akhtarul Islam Shaheen",
+        "margin": 31080,
+        "margin_percentage": 20.55
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Akhtarul Islam Shahin",
+        "margin": 4714,
+        "margin_percentage": 2.84
+      }
+    },
+    {
+      "ac_number": 134,
+      "ac_name": "Ujiarpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Durga Prasad Singh",
+        "margin": 13031,
+        "margin_percentage": 9.96
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Alok Kumar Mehta",
+        "margin": 47460,
+        "margin_percentage": 29.01
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Alok Kumar Mehta",
+        "margin": 23268,
+        "margin_percentage": 12.53
+      }
+    },
+    {
+      "ac_number": 135,
+      "ac_name": "Morwa",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Baidhnath Sahani",
+        "margin": 6850,
+        "margin_percentage": 6.53
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Vidya Sagar Singh Nishad",
+        "margin": 18816,
+        "margin_percentage": 13.58
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Ranvijay Sahu",
+        "margin": 10671,
+        "margin_percentage": 6.64
+      }
+    },
+    {
+      "ac_number": 136,
+      "ac_name": "Sarairanjan",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Vijay Kumar Chaudhary",
+        "margin": 17557,
+        "margin_percentage": 14.79
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Vijay Kumar Choudhary",
+        "margin": 34044,
+        "margin_percentage": 22.36
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Vijay Kumar Choudhary",
+        "margin": 3624,
+        "margin_percentage": 2.12
+      }
+    },
+    {
+      "ac_number": 137,
+      "ac_name": "Mohiuddinnagar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Rana Gangeshwar Singh",
+        "margin": 14351,
+        "margin_percentage": 13.65
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Ejya Yadav",
+        "margin": 23431,
+        "margin_percentage": 18.81
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Rajesh Kumar Singh",
+        "margin": 15114,
+        "margin_percentage": 10.2
+      }
+    },
+    {
+      "ac_number": 138,
+      "ac_name": "Bibhutipur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ram Balak Singh",
+        "margin": 12301,
+        "margin_percentage": 10.14
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ram Balak Singh",
+        "margin": 17235,
+        "margin_percentage": 11.84
+      },
+      "winner_2020": {
+        "party": "CPM",
+        "candidate": "Ajay Kumar",
+        "margin": 40496,
+        "margin_percentage": 24.69
+      }
+    },
+    {
+      "ac_number": 139,
+      "ac_name": "Rosera (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Manju Hajari",
+        "margin": 12119,
+        "margin_percentage": 9.47
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Dr. Ashok Kumar",
+        "margin": 34361,
+        "margin_percentage": 21.14
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Birendra Kumar",
+        "margin": 35744,
+        "margin_percentage": 19.65
+      }
+    },
+    {
+      "ac_number": 140,
+      "ac_name": "Hasanpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Raj Kumar Ray",
+        "margin": 3291,
+        "margin_percentage": 2.82
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Raj Kumar Ray",
+        "margin": 29600,
+        "margin_percentage": 20.17
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Tej Pratap Yadav",
+        "margin": 21139,
+        "margin_percentage": 12.34
+      }
+    },
+    {
+      "ac_number": 141,
+      "ac_name": "Cheria Bariarpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Kumari Manju Verma",
+        "margin": 1061,
+        "margin_percentage": 0.93
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Kumari Manju Verma",
+        "margin": 29736,
+        "margin_percentage": 21.46
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Raj Vanshi Mahto",
+        "margin": 40897,
+        "margin_percentage": 26.94
+      }
+    },
+    {
+      "ac_number": 142,
+      "ac_name": "Bachhwara",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "CPI",
+        "candidate": "Abdhesh Kumar Rai",
+        "margin": 12087,
+        "margin_percentage": 9.3
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Ramdeo Rai",
+        "margin": 36931,
+        "margin_percentage": 22.88
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Surendra Mehata",
+        "margin": 484,
+        "margin_percentage": 0.27
+      }
+    },
+    {
+      "ac_number": 143,
+      "ac_name": "Teghra",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Lalan Ku.",
+        "margin": 5846,
+        "margin_percentage": 4.74
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Birendra Kumar",
+        "margin": 15611,
+        "margin_percentage": 9.77
+      },
+      "winner_2020": {
+        "party": "CPI",
+        "candidate": "Ram Ratan Singh",
+        "margin": 47979,
+        "margin_percentage": 28.04
+      }
+    },
+    {
+      "ac_number": 144,
+      "ac_name": "Matihani",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Narendra Kumar Singh Urf Bogo Singh",
+        "margin": 23828,
+        "margin_percentage": 15.95
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Narendra Kumar Singh Alias Bogo Singh",
+        "margin": 22688,
+        "margin_percentage": 12.44
+      },
+      "winner_2020": {
+        "party": "LJP",
+        "candidate": "Raj Kumar Singh",
+        "margin": 333,
+        "margin_percentage": 0.16
+      }
+    },
+    {
+      "ac_number": 145,
+      "ac_name": "Sahebpur Kamal",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Parveen Amanullah",
+        "margin": 11111,
+        "margin_percentage": 10.29
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Shreenarayan Yadav",
+        "margin": 45474,
+        "margin_percentage": 33.21
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Satanand Sambuddha @Lalan",
+        "margin": 14225,
+        "margin_percentage": 9.09
+      }
+    },
+    {
+      "ac_number": 146,
+      "ac_name": "Begusarai",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Surendra Mehta",
+        "margin": 19618,
+        "margin_percentage": 15.2
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Amita Bhushan",
+        "margin": 16531,
+        "margin_percentage": 9.74
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Kundan Kumar",
+        "margin": 4554,
+        "margin_percentage": 2.43
+      }
+    },
+    {
+      "ac_number": 147,
+      "ac_name": "Bakhri (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ramanand Ram",
+        "margin": 18412,
+        "margin_percentage": 15.52
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Upendra Paswan",
+        "margin": 40256,
+        "margin_percentage": 27.3
+      },
+      "winner_2020": {
+        "party": "CPI",
+        "candidate": "Suryakant Paswan",
+        "margin": 777,
+        "margin_percentage": 0.48
+      }
+    },
+    {
+      "ac_number": 148,
+      "ac_name": "Alauli (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ram Chandra Sada",
+        "margin": 17523,
+        "margin_percentage": 16.17
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Chandan Kumar",
+        "margin": 24470,
+        "margin_percentage": 17.89
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Ramvriksh Sada",
+        "margin": 2773,
+        "margin_percentage": 1.92
+      }
+    },
+    {
+      "ac_number": 149,
+      "ac_name": "Khagaria",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Poonam Devi Yadav",
+        "margin": 26853,
+        "margin_percentage": 23.59
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Poonam Devi Yadav",
+        "margin": 25565,
+        "margin_percentage": 18.33
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Chhatrapati Yadav",
+        "margin": 3000,
+        "margin_percentage": 1.99
+      }
+    },
+    {
+      "ac_number": 150,
+      "ac_name": "Beldaur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Pannalal Singh Patel",
+        "margin": 15738,
+        "margin_percentage": 11.84
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Panna Lal Singh Patel",
+        "margin": 13525,
+        "margin_percentage": 8.09
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Panna Lal Singh Patel",
+        "margin": 5108,
+        "margin_percentage": 2.89
+      }
+    },
+    {
+      "ac_number": 151,
+      "ac_name": "Parbatta",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Samrat Choudhary Alias Rakesh Kumar",
+        "margin": 808,
+        "margin_percentage": 0.57
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ramanad Prasad Singh",
+        "margin": 28924,
+        "margin_percentage": 17.09
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Doctor Sanjeev Kumar",
+        "margin": 951,
+        "margin_percentage": 0.51
+      }
+    },
+    {
+      "ac_number": 152,
+      "ac_name": "Bihpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Kumar Shailendra",
+        "margin": 465,
+        "margin_percentage": 0.4
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Varsha Rani",
+        "margin": 12716,
+        "margin_percentage": 8.92
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Kumar Shailendra",
+        "margin": 6129,
+        "margin_percentage": 4.08
+      }
+    },
+    {
+      "ac_number": 153,
+      "ac_name": "Gopalpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Narendra Kumar Niraj",
+        "margin": 25060,
+        "margin_percentage": 21.86
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Narendra Kumar Niraj",
+        "margin": 5169,
+        "margin_percentage": 3.72
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Narendra Kumar Niraj",
+        "margin": 24461,
+        "margin_percentage": 15.02
+      }
+    },
+    {
+      "ac_number": 154,
+      "ac_name": "Pirpainti (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Aman Kumar",
+        "margin": 5752,
+        "margin_percentage": 4.46
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Ram Vilash Paswan",
+        "margin": 5144,
+        "margin_percentage": 2.9
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Lalan Kumar",
+        "margin": 27019,
+        "margin_percentage": 13.63
+      }
+    },
+    {
+      "ac_number": 155,
+      "ac_name": "Kahalgaon",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "INC",
+        "candidate": "Sadanand Singh",
+        "margin": 8935,
+        "margin_percentage": 6.75
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Sadanand Singh",
+        "margin": 21229,
+        "margin_percentage": 11.98
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Pawan Kumar Yadav",
+        "margin": 42893,
+        "margin_percentage": 20.88
+      }
+    },
+    {
+      "ac_number": 156,
+      "ac_name": "Bhagalpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ashwini Kumar Choubey",
+        "margin": 11060,
+        "margin_percentage": 9.45
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Ajeet Sharma",
+        "margin": 10658,
+        "margin_percentage": 6.99
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Ajit Sharma",
+        "margin": 1113,
+        "margin_percentage": 0.69
+      }
+    },
+    {
+      "ac_number": 157,
+      "ac_name": "Sultanganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Subodh Rai",
+        "margin": 4845,
+        "margin_percentage": 3.92
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Subodh Roy",
+        "margin": 14033,
+        "margin_percentage": 9.07
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Lalit Narayan Mandal",
+        "margin": 11565,
+        "margin_percentage": 6.76
+      }
+    },
+    {
+      "ac_number": 158,
+      "ac_name": "Nathnagar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ajai Kumar Mandal",
+        "margin": 4727,
+        "margin_percentage": 3.87
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ajay Kumar Mandal",
+        "margin": 7825,
+        "margin_percentage": 4.61
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Ali Ashraf Siddiqui",
+        "margin": 7756,
+        "margin_percentage": 3.98
+      }
+    },
+    {
+      "ac_number": 159,
+      "ac_name": "Amarpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Janardan Manjhi",
+        "margin": 18007,
+        "margin_percentage": 15.52
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Janardan Manjhi",
+        "margin": 11773,
+        "margin_percentage": 7.65
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Jayant Raj",
+        "margin": 3114,
+        "margin_percentage": 1.9
+      }
+    },
+    {
+      "ac_number": 160,
+      "ac_name": "Dhauraiya (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Manish Kumar",
+        "margin": 8342,
+        "margin_percentage": 7.4
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Manish Kumar",
+        "margin": 24154,
+        "margin_percentage": 15.58
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Bhudeo Choudhary",
+        "margin": 2687,
+        "margin_percentage": 1.49
+      }
+    },
+    {
+      "ac_number": 161,
+      "ac_name": "Banka",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Javed Iqbal Ansari",
+        "margin": 2410,
+        "margin_percentage": 2.26
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Ram Narayan Mandal",
+        "margin": 3730,
+        "margin_percentage": 2.73
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Ram Narayan Mandal",
+        "margin": 16828,
+        "margin_percentage": 10.57
+      }
+    },
+    {
+      "ac_number": 162,
+      "ac_name": "Katoria (ST)",
+      "ac_type": "ST",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Sonelal Hembram",
+        "margin": 8763,
+        "margin_percentage": 10.29
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Sweety Sima Hembram",
+        "margin": 10337,
+        "margin_percentage": 7.81
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Dr. Nikki Hembrom",
+        "margin": 6421,
+        "margin_percentage": 4.04
+      }
+    },
+    {
+      "ac_number": 163,
+      "ac_name": "Belhar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Giridhari Yadav",
+        "margin": 7616,
+        "margin_percentage": 6.33
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Giridhari Yadav",
+        "margin": 16191,
+        "margin_percentage": 10.26
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Manoj Yadav",
+        "margin": 2473,
+        "margin_percentage": 1.35
+      }
+    },
+    {
+      "ac_number": 164,
+      "ac_name": "Tarapur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Neeta Choudhary",
+        "margin": 13878,
+        "margin_percentage": 11.65
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "M L Choudhary",
+        "margin": 11947,
+        "margin_percentage": 7.85
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Mewa Lal Choudhary",
+        "margin": 7225,
+        "margin_percentage": 4.14
+      }
+    },
+    {
+      "ac_number": 165,
+      "ac_name": "Munger",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Anant Kumar Satyarthy",
+        "margin": 17613,
+        "margin_percentage": 13.59
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Vijay Kumar ''Vijay''",
+        "margin": 4365,
+        "margin_percentage": 2.58
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Pranav Kumar",
+        "margin": 1244,
+        "margin_percentage": 0.75
+      }
+    },
+    {
+      "ac_number": 166,
+      "ac_name": "Jamalpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shailesh Kumar",
+        "margin": 21142,
+        "margin_percentage": 18.42
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Shailesh Kumar",
+        "margin": 15476,
+        "margin_percentage": 10.51
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Ajay Kumar Singh",
+        "margin": 4432,
+        "margin_percentage": 2.92
+      }
+    },
+    {
+      "ac_number": 167,
+      "ac_name": "Suryagarha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Prem Ranjan Patel",
+        "margin": 2928,
+        "margin_percentage": 2.28
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Prahlad Yadav",
+        "margin": 30030,
+        "margin_percentage": 18.27
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Prahlad Yadav",
+        "margin": 9589,
+        "margin_percentage": 5.05
+      }
+    },
+    {
+      "ac_number": 168,
+      "ac_name": "Lakhisarai",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Vijay Kumar Sinha",
+        "margin": 59620,
+        "margin_percentage": 41.03
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Vijay Kumar Sinha",
+        "margin": 6556,
+        "margin_percentage": 3.52
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Vijay Kumar Sinha",
+        "margin": 10483,
+        "margin_percentage": 5.4
+      }
+    },
+    {
+      "ac_number": 169,
+      "ac_name": "Sheikhpura",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Randhir Kumar Soni",
+        "margin": 7342,
+        "margin_percentage": 7.12
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Randhir Kumar Soni",
+        "margin": 13101,
+        "margin_percentage": 10.31
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Vijay Kumar",
+        "margin": 6116,
+        "margin_percentage": 4.23
+      }
+    },
+    {
+      "ac_number": 170,
+      "ac_name": "Barbigha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Gajanand Shahi",
+        "margin": 3047,
+        "margin_percentage": 3.3
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Sudarshan Kumar",
+        "margin": 15717,
+        "margin_percentage": 14.11
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Sudarshan Kumar",
+        "margin": 113,
+        "margin_percentage": 0.09
+      }
+    },
+    {
+      "ac_number": 171,
+      "ac_name": "Asthawan",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Jitendra Kumar",
+        "margin": 19570,
+        "margin_percentage": 18.29
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Jitendra Kumar",
+        "margin": 10444,
+        "margin_percentage": 7.85
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Jitendra Kumar",
+        "margin": 11600,
+        "margin_percentage": 8.05
+      }
+    },
+    {
+      "ac_number": 172,
+      "ac_name": "Biharsharif",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Dr. Sunil Kumar",
+        "margin": 23712,
+        "margin_percentage": 15.79
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Dr.Sunil Kumar",
+        "margin": 2340,
+        "margin_percentage": 1.31
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Dr. Sunil Kumar Father'S Name :-Bhagwat Prasad",
+        "margin": 15102,
+        "margin_percentage": 8.22
+      }
+    },
+    {
+      "ac_number": 173,
+      "ac_name": "Rajgir (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Satyadeo Narain Arya",
+        "margin": 26951,
+        "margin_percentage": 26.47
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ravi Jyoti Kumar",
+        "margin": 5390,
+        "margin_percentage": 3.63
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Kaushal Kishore",
+        "margin": 16048,
+        "margin_percentage": 10.17
+      }
+    },
+    {
+      "ac_number": 174,
+      "ac_name": "Islampur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Rajib Ranjan",
+        "margin": 23808,
+        "margin_percentage": 20.81
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Chandrasen Prasad",
+        "margin": 22602,
+        "margin_percentage": 15.75
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Rakesh Kumar Roushan",
+        "margin": 3698,
+        "margin_percentage": 2.26
+      }
+    },
+    {
+      "ac_number": 175,
+      "ac_name": "Hilsa",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Usha Sinha",
+        "margin": 13202,
+        "margin_percentage": 10.47
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Atri Muni Urph Shakti Singh Yadav",
+        "margin": 26076,
+        "margin_percentage": 17.44
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Krishnamurari Sharan Urf Prem Mukhiya",
+        "margin": 12,
+        "margin_percentage": 0.01
+      }
+    },
+    {
+      "ac_number": 176,
+      "ac_name": "Nalanda",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shrawon Kumar",
+        "margin": 21037,
+        "margin_percentage": 17.4
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Shrawon Kumar",
+        "margin": 2996,
+        "margin_percentage": 1.85
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Shrawon Kumar",
+        "margin": 16077,
+        "margin_percentage": 9.48
+      }
+    },
+    {
+      "ac_number": 177,
+      "ac_name": "Harnaut",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Harinarayan Singh",
+        "margin": 15042,
+        "margin_percentage": 12.52
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Hari Narayan Singh",
+        "margin": 14295,
+        "margin_percentage": 9.12
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Hari Narayan Singh",
+        "margin": 27241,
+        "margin_percentage": 17.18
+      }
+    },
+    {
+      "ac_number": 178,
+      "ac_name": "Mokama",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Anant Kumar Singh",
+        "margin": 8954,
+        "margin_percentage": 7.65
+      },
+      "winner_2015": {
+        "party": "IND",
+        "candidate": "Anant Kumar Singh",
+        "margin": 18348,
+        "margin_percentage": 12.69
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Anant Kumar Singh",
+        "margin": 35757,
+        "margin_percentage": 24.07
+      }
+    },
+    {
+      "ac_number": 179,
+      "ac_name": "Barh",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Gyanendra Kumar Singh",
+        "margin": 19395,
+        "margin_percentage": 17.16
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Gyanendra Kumar Singh",
+        "margin": 8359,
+        "margin_percentage": 5.81
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Gyanendra Kumar Singh",
+        "margin": 10240,
+        "margin_percentage": 6.84
+      }
+    },
+    {
+      "ac_number": 180,
+      "ac_name": "Bakhtiarpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Aniruddh Kumar",
+        "margin": 14745,
+        "margin_percentage": 13.02
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Ranvijay Singh",
+        "margin": 7902,
+        "margin_percentage": 5.15
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Aniruddh Kumar",
+        "margin": 20672,
+        "margin_percentage": 12.05
+      }
+    },
+    {
+      "ac_number": 181,
+      "ac_name": "Digha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Punam Devi",
+        "margin": 60462,
+        "margin_percentage": 46.16
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Sanjiv Chaurasia",
+        "margin": 24779,
+        "margin_percentage": 13.57
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Sanjiv Chaurasia",
+        "margin": 46073,
+        "margin_percentage": 27.1
+      }
+    },
+    {
+      "ac_number": 182,
+      "ac_name": "Bankipur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Nitin Nabin",
+        "margin": 60840,
+        "margin_percentage": 55.66
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Nitin Naveen",
+        "margin": 39767,
+        "margin_percentage": 27.59
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Nitin Nabin",
+        "margin": 39036,
+        "margin_percentage": 27.75
+      }
+    },
+    {
+      "ac_number": 183,
+      "ac_name": "Kumhrar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Arun Kumar Sinha",
+        "margin": 67808,
+        "margin_percentage": 58.55
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Arun Kumar Sinha",
+        "margin": 37275,
+        "margin_percentage": 23.88
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Arun Kumar Sinha",
+        "margin": 26463,
+        "margin_percentage": 17.55
+      }
+    },
+    {
+      "ac_number": 184,
+      "ac_name": "Patna Sahib",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Nand Kishore Yadav",
+        "margin": 65337,
+        "margin_percentage": 48.65
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Nand Kishore Yadav",
+        "margin": 2792,
+        "margin_percentage": 1.49
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Nand Kishore Yadav",
+        "margin": 18300,
+        "margin_percentage": 9.72
+      }
+    },
+    {
+      "ac_number": 185,
+      "ac_name": "Fatuha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Dr. Ramanand Yadav",
+        "margin": 9656,
+        "margin_percentage": 8.64
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Dr. Rama Nand Yadav",
+        "margin": 30402,
+        "margin_percentage": 19.89
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Dr. Ramanand Yadav",
+        "margin": 19370,
+        "margin_percentage": 11.49
+      }
+    },
+    {
+      "ac_number": 186,
+      "ac_name": "Danapur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Asha Devi",
+        "margin": 17919,
+        "margin_percentage": 14.33
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Asha Devi",
+        "margin": 5209,
+        "margin_percentage": 3.12
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Rit Lal Ray",
+        "margin": 15924,
+        "margin_percentage": 8.58
+      }
+    },
+    {
+      "ac_number": 187,
+      "ac_name": "Maner",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Bhai Virendra",
+        "margin": 9601,
+        "margin_percentage": 7.25
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Bhai Virendra",
+        "margin": 22828,
+        "margin_percentage": 12.73
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Bhai Virendra",
+        "margin": 32917,
+        "margin_percentage": 16.57
+      }
+    },
+    {
+      "ac_number": 188,
+      "ac_name": "Phulwari (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shyam Rajak",
+        "margin": 21180,
+        "margin_percentage": 15.64
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Shyam Rajak",
+        "margin": 45713,
+        "margin_percentage": 24.18
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Gopal Ravidas",
+        "margin": 13857,
+        "margin_percentage": 6.63
+      }
+    },
+    {
+      "ac_number": 189,
+      "ac_name": "Masaurhi (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Arun Manjhi",
+        "margin": 5032,
+        "margin_percentage": 3.53
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Rekha Devi (Vill- Pabheda)",
+        "margin": 39186,
+        "margin_percentage": 21.09
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Rekha Devi",
+        "margin": 32227,
+        "margin_percentage": 16.39
+      }
+    },
+    {
+      "ac_number": 190,
+      "ac_name": "Paliganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Dr. Usha Vidyarthi",
+        "margin": 10242,
+        "margin_percentage": 8.84
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Jay Vardhan Yadav Alias Bachcha Yadav",
+        "margin": 24453,
+        "margin_percentage": 16.72
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Sandeep Saurav",
+        "margin": 30915,
+        "margin_percentage": 19.91
+      }
+    },
+    {
+      "ac_number": 191,
+      "ac_name": "Bikram",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Anil Kumar",
+        "margin": 2352,
+        "margin_percentage": 1.78
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Siddharth",
+        "margin": 44311,
+        "margin_percentage": 25.64
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Siddharth Saurav",
+        "margin": 35460,
+        "margin_percentage": 19.63
+      }
+    },
+    {
+      "ac_number": 192,
+      "ac_name": "Sandesh",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Sanjay Singh (Tiger)",
+        "margin": 6822,
+        "margin_percentage": 6.04
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Arun Kumar",
+        "margin": 25427,
+        "margin_percentage": 17.04
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Kiran Devi",
+        "margin": 50607,
+        "margin_percentage": 32.76
+      }
+    },
+    {
+      "ac_number": 193,
+      "ac_name": "Barhara",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Raghwendra Pratap Singh",
+        "margin": 1083,
+        "margin_percentage": 0.98
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Saroj Yadav",
+        "margin": 13308,
+        "margin_percentage": 9.08
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Raghvendra Pratap Singh",
+        "margin": 4973,
+        "margin_percentage": 3.01
+      }
+    },
+    {
+      "ac_number": 194,
+      "ac_name": "Arrah",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Amrendra Pratap Singh",
+        "margin": 18940,
+        "margin_percentage": 16.69
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Mohammad Nawaz Alam",
+        "margin": 666,
+        "margin_percentage": 0.43
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Amrendra Pratap Singh",
+        "margin": 3002,
+        "margin_percentage": 1.88
+      }
+    },
+    {
+      "ac_number": 195,
+      "ac_name": "Agiaon (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Shivesh Kumar",
+        "margin": 5249,
+        "margin_percentage": 5.68
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Prabhunath Prasad",
+        "margin": 14704,
+        "margin_percentage": 11.26
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Manoj Manzil",
+        "margin": 48550,
+        "margin_percentage": 34.53
+      }
+    },
+    {
+      "ac_number": 196,
+      "ac_name": "Tarari",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Narendra Kumar Pandey Alias Sunil Pandey",
+        "margin": 14320,
+        "margin_percentage": 11.21
+      },
+      "winner_2015": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Sudama Prasad",
+        "margin": 272,
+        "margin_percentage": 0.18
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Sudama Prasad S/O Ganga Dayal Sah",
+        "margin": 11015,
+        "margin_percentage": 6.48
+      }
+    },
+    {
+      "ac_number": 197,
+      "ac_name": "Jagdishpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Dinesh Kumar Singh",
+        "margin": 10186,
+        "margin_percentage": 7.82
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Ram Vishun Singh",
+        "margin": 10195,
+        "margin_percentage": 7.03
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Ram Vishun Singh",
+        "margin": 22107,
+        "margin_percentage": 13.16
+      }
+    },
+    {
+      "ac_number": 198,
+      "ac_name": "Shahpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Munni Devi",
+        "margin": 8211,
+        "margin_percentage": 7.38
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Rahul Tiwary",
+        "margin": 14570,
+        "margin_percentage": 10.04
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Rahul Tiwary",
+        "margin": 22883,
+        "margin_percentage": 14.62
+      }
+    },
+    {
+      "ac_number": 199,
+      "ac_name": "Brahampur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Dilmarni Devi",
+        "margin": 20342,
+        "margin_percentage": 16.15
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Shambhu Nath Yadav",
+        "margin": 30776,
+        "margin_percentage": 17.01
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Shambhu Nath Yadav",
+        "margin": 51141,
+        "margin_percentage": 27.58
+      }
+    },
+    {
+      "ac_number": 200,
+      "ac_name": "Buxar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Prof. Sukhada Pande",
+        "margin": 20183,
+        "margin_percentage": 15.76
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Sanjay Kumar Tiwari Alias Munna Tiwari",
+        "margin": 10181,
+        "margin_percentage": 6.34
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Sanjay Kr. Tiwari @ Munna Tiwari",
+        "margin": 3892,
+        "margin_percentage": 2.38
+      }
+    },
+    {
+      "ac_number": 201,
+      "ac_name": "Dumraon",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Dr. Daud Ali",
+        "margin": 19846,
+        "margin_percentage": 15.93
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Dadan Yadav",
+        "margin": 30339,
+        "margin_percentage": 17.93
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Ajit Kumar Singh",
+        "margin": 24415,
+        "margin_percentage": 13.95
+      }
+    },
+    {
+      "ac_number": 202,
+      "ac_name": "Rajpur (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Santosh Kumar Nirala",
+        "margin": 15239,
+        "margin_percentage": 11.06
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Santosh Kumar Nirala",
+        "margin": 32788,
+        "margin_percentage": 18.68
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Vishwanath Ram",
+        "margin": 21204,
+        "margin_percentage": 11.49
+      }
+    },
+    {
+      "ac_number": 203,
+      "ac_name": "Ramgarh",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Ambika Singh",
+        "margin": 2978,
+        "margin_percentage": 2.42
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Ashok Kumar Singh",
+        "margin": 8011,
+        "margin_percentage": 5.18
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Sudhakar Singh",
+        "margin": 189,
+        "margin_percentage": 0.11
+      }
+    },
+    {
+      "ac_number": 204,
+      "ac_name": "Mohania (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Chhedi Paswan",
+        "margin": 2525,
+        "margin_percentage": 2.26
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Niranjan Ram",
+        "margin": 7581,
+        "margin_percentage": 5.39
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Sangita Kumari",
+        "margin": 12054,
+        "margin_percentage": 7.45
+      }
+    },
+    {
+      "ac_number": 205,
+      "ac_name": "Bhabua",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "LJP",
+        "candidate": "Dr. Pramod Kumar Singh",
+        "margin": 447,
+        "margin_percentage": 0.38
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Anand Bhushan Pandey",
+        "margin": 7744,
+        "margin_percentage": 5.28
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Bharat Bind",
+        "margin": 10045,
+        "margin_percentage": 5.76
+      }
+    },
+    {
+      "ac_number": 206,
+      "ac_name": "Chainpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Brij Kishor Vind",
+        "margin": 13580,
+        "margin_percentage": 9.56
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Brij Kishor Bind",
+        "margin": 671,
+        "margin_percentage": 0.38
+      },
+      "winner_2020": {
+        "party": "BSP",
+        "candidate": "Mohd. Zama Khan",
+        "margin": 24294,
+        "margin_percentage": 11.79
+      }
+    },
+    {
+      "ac_number": 207,
+      "ac_name": "Chenari (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Shyam Bihari Ram",
+        "margin": 2901,
+        "margin_percentage": 2.29
+      },
+      "winner_2015": {
+        "party": "RLSP",
+        "candidate": "Lalan Paswan",
+        "margin": 9781,
+        "margin_percentage": 6.47
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Murari Prasad Gautam",
+        "margin": 18003,
+        "margin_percentage": 10.36
+      }
+    },
+    {
+      "ac_number": 208,
+      "ac_name": "Sasaram",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Jawahar Prasad",
+        "margin": 5411,
+        "margin_percentage": 3.74
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Ashok Kumar",
+        "margin": 19612,
+        "margin_percentage": 11.27
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Rajesh Kumar Gupta",
+        "margin": 26423,
+        "margin_percentage": 14.76
+      }
+    },
+    {
+      "ac_number": 209,
+      "ac_name": "Kargahar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ram Dhani Singh",
+        "margin": 13197,
+        "margin_percentage": 8.81
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Bashisht Singh",
+        "margin": 12907,
+        "margin_percentage": 7.26
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Santosh Kumar Mishra",
+        "margin": 4083,
+        "margin_percentage": 2.1
+      }
+    },
+    {
+      "ac_number": 210,
+      "ac_name": "Dinara",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Jay Kumar Singh",
+        "margin": 16610,
+        "margin_percentage": 13.81
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Jai Kumar Singh",
+        "margin": 2691,
+        "margin_percentage": 1.79
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Vijay Kumar Mandal",
+        "margin": 8228,
+        "margin_percentage": 4.83
+      }
+    },
+    {
+      "ac_number": 211,
+      "ac_name": "Nokha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Rameshwar Prasad",
+        "margin": 11723,
+        "margin_percentage": 10.05
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Anita Devi",
+        "margin": 22998,
+        "margin_percentage": 16.31
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Anita Devi",
+        "margin": 17672,
+        "margin_percentage": 11.88
+      }
+    },
+    {
+      "ac_number": 212,
+      "ac_name": "Dehri",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "IND",
+        "candidate": "Jyoti Rashmi",
+        "margin": 9815,
+        "margin_percentage": 7.94
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Mohammad Iliyas Hussain",
+        "margin": 3898,
+        "margin_percentage": 2.68
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Phate Bahadur Singh",
+        "margin": 464,
+        "margin_percentage": 0.3
+      }
+    },
+    {
+      "ac_number": 213,
+      "ac_name": "Karakat",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Rajeshwar Raj",
+        "margin": 11415,
+        "margin_percentage": 8.93
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Sanjay Kumar Singh",
+        "margin": 12119,
+        "margin_percentage": 7.91
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Arun Singh",
+        "margin": 18189,
+        "margin_percentage": 10.6
+      }
+    },
+    {
+      "ac_number": 214,
+      "ac_name": "Arwal",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Chitranjan Kumar",
+        "margin": 4202,
+        "margin_percentage": 4.43
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Ravindra Singh",
+        "margin": 17810,
+        "margin_percentage": 13.73
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Maha Nand Singh",
+        "margin": 19950,
+        "margin_percentage": 13.78
+      }
+    },
+    {
+      "ac_number": 215,
+      "ac_name": "Kurtha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Satyadev Singh",
+        "margin": 9493,
+        "margin_percentage": 10.33
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Satyadeo Singh",
+        "margin": 14119,
+        "margin_percentage": 12.22
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Bagi Kumar Verma",
+        "margin": 27810,
+        "margin_percentage": 20.28
+      }
+    },
+    {
+      "ac_number": 216,
+      "ac_name": "Jehanabad",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Abhiram Sharma",
+        "margin": 8567,
+        "margin_percentage": 7.75
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Mundrika Singh Yadav",
+        "margin": 30321,
+        "margin_percentage": 20.17
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Kumar Krishna Mohan Urf Suday Yadav",
+        "margin": 33902,
+        "margin_percentage": 21.25
+      }
+    },
+    {
+      "ac_number": 217,
+      "ac_name": "Ghosi",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Rahul Kumar",
+        "margin": 14276,
+        "margin_percentage": 13.71
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Krishan Nandan Prasad Verma",
+        "margin": 21625,
+        "margin_percentage": 15.3
+      },
+      "winner_2020": {
+        "party": "CPI(ML)(L)",
+        "candidate": "Ram Bali Singh Yadav",
+        "margin": 17333,
+        "margin_percentage": 11.38
+      }
+    },
+    {
+      "ac_number": 218,
+      "ac_name": "Makhdumpur (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Jitan Ram Manjhi",
+        "margin": 5085,
+        "margin_percentage": 5.64
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Subedar Das",
+        "margin": 26777,
+        "margin_percentage": 20.56
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Satish Kumar",
+        "margin": 22565,
+        "margin_percentage": 16.4
+      }
+    },
+    {
+      "ac_number": 219,
+      "ac_name": "Goh",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Dr. Ranvijay Kumar",
+        "margin": 694,
+        "margin_percentage": 0.58
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Manoj Kumar",
+        "margin": 7672,
+        "margin_percentage": 5.02
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Bhim Kumar Singh",
+        "margin": 35618,
+        "margin_percentage": 19.28
+      }
+    },
+    {
+      "ac_number": 220,
+      "ac_name": "Obra",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "IND",
+        "candidate": "Somprakash Singh",
+        "margin": 802,
+        "margin_percentage": 0.62
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Birendra Kumar Sinha",
+        "margin": 11396,
+        "margin_percentage": 7.09
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Rishi Kumar",
+        "margin": 22668,
+        "margin_percentage": 12.9
+      }
+    },
+    {
+      "ac_number": 221,
+      "ac_name": "Nabinagar",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Virendra Kumar Singh",
+        "margin": 11834,
+        "margin_percentage": 11.62
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Virendra Kumar Singh",
+        "margin": 5261,
+        "margin_percentage": 3.89
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Vijay Kumar Singh Alias Dabloo Singh",
+        "margin": 20121,
+        "margin_percentage": 12.6
+      }
+    },
+    {
+      "ac_number": 222,
+      "ac_name": "Kutumba (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Lalan Ram",
+        "margin": 13910,
+        "margin_percentage": 14.88
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Rajesh Kumar",
+        "margin": 10098,
+        "margin_percentage": 8.41
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Rajesh Kumar",
+        "margin": 16653,
+        "margin_percentage": 12
+      }
+    },
+    {
+      "ac_number": 223,
+      "ac_name": "Aurangabad",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Ramadhar Singh",
+        "margin": 6242,
+        "margin_percentage": 5.61
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Anand Shankar Singh",
+        "margin": 18398,
+        "margin_percentage": 12.06
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Anand Shankar Singh",
+        "margin": 2243,
+        "margin_percentage": 1.32
+      }
+    },
+    {
+      "ac_number": 224,
+      "ac_name": "Rafiganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ashok Kumar Singh",
+        "margin": 23685,
+        "margin_percentage": 20.07
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Ashok Kumar Singh",
+        "margin": 9525,
+        "margin_percentage": 5.98
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Mohammad Nehaluddin",
+        "margin": 9429,
+        "margin_percentage": 5.1
+      }
+    },
+    {
+      "ac_number": 225,
+      "ac_name": "Gurua",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Surendra Prasad Sinha",
+        "margin": 11436,
+        "margin_percentage": 9.48
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Rajiv Nandan",
+        "margin": 6515,
+        "margin_percentage": 4.54
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Vinay Kumar",
+        "margin": 6599,
+        "margin_percentage": 3.69
+      }
+    },
+    {
+      "ac_number": 226,
+      "ac_name": "Sherghati",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Vinod Prasad Yadav",
+        "margin": 6503,
+        "margin_percentage": 6.04
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Vinod Prasad Yadav",
+        "margin": 4834,
+        "margin_percentage": 3.26
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Manju Agrawal",
+        "margin": 16690,
+        "margin_percentage": 9.65
+      }
+    },
+    {
+      "ac_number": 227,
+      "ac_name": "Imamganj (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Uday Narain Choudhary",
+        "margin": 1211,
+        "margin_percentage": 1.11
+      },
+      "winner_2015": {
+        "party": "HAMS",
+        "candidate": "Jitan Ram Manjhi",
+        "margin": 29408,
+        "margin_percentage": 19.58
+      },
+      "winner_2020": {
+        "party": "HAMS",
+        "candidate": "Jitan Ram Manjhi",
+        "margin": 16034,
+        "margin_percentage": 9.23
+      }
+    },
+    {
+      "ac_number": 228,
+      "ac_name": "Barachatti (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Jyoti Devi",
+        "margin": 23746,
+        "margin_percentage": 20.7
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Samta Devi",
+        "margin": 19126,
+        "margin_percentage": 12.25
+      },
+      "winner_2020": {
+        "party": "HAMS",
+        "candidate": "Jyoti Devi",
+        "margin": 6318,
+        "margin_percentage": 3.42
+      }
+    },
+    {
+      "ac_number": 229,
+      "ac_name": "Bodh Gaya (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Shyam Deo Paswan",
+        "margin": 11213,
+        "margin_percentage": 9.19
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Kumar Sarvjeet",
+        "margin": 30473,
+        "margin_percentage": 18.43
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Kumar Sarvjeet",
+        "margin": 4708,
+        "margin_percentage": 2.43
+      }
+    },
+    {
+      "ac_number": 230,
+      "ac_name": "Gaya Town",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Prem Kumar",
+        "margin": 28417,
+        "margin_percentage": 27.55
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Prem Kumar",
+        "margin": 22789,
+        "margin_percentage": 17.65
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Prem Kumar",
+        "margin": 11898,
+        "margin_percentage": 8.87
+      }
+    },
+    {
+      "ac_number": 231,
+      "ac_name": "Tikari",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Dr. Anil Kumar",
+        "margin": 18541,
+        "margin_percentage": 14.06
+      },
+      "winner_2015": {
+        "party": "JD(U)",
+        "candidate": "Abhay Kumar Sinha",
+        "margin": 31813,
+        "margin_percentage": 18.84
+      },
+      "winner_2020": {
+        "party": "HAMS",
+        "candidate": "Anil Kumar",
+        "margin": 2630,
+        "margin_percentage": 1.41
+      }
+    },
+    {
+      "ac_number": 232,
+      "ac_name": "Belaganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "RJD",
+        "candidate": "Surendra Prasad Yadav",
+        "margin": 4638,
+        "margin_percentage": 3.81
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Surendra Prasad Yadav",
+        "margin": 30341,
+        "margin_percentage": 21.08
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Surendra Prasad Yadav",
+        "margin": 23963,
+        "margin_percentage": 14.1
+      }
+    },
+    {
+      "ac_number": 233,
+      "ac_name": "Atri",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Krishna Nandan Yadav",
+        "margin": 20610,
+        "margin_percentage": 17.61
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Kunti Devi",
+        "margin": 13817,
+        "margin_percentage": 8.87
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Ajay Yadav",
+        "margin": 7931,
+        "margin_percentage": 4.63
+      }
+    },
+    {
+      "ac_number": 234,
+      "ac_name": "Wazirganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Virendra Singh",
+        "margin": 17766,
+        "margin_percentage": 14.55
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Awadhesh Kumar Singh",
+        "margin": 12759,
+        "margin_percentage": 7.54
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Birendra Singh",
+        "margin": 22430,
+        "margin_percentage": 12.76
+      }
+    },
+    {
+      "ac_number": 235,
+      "ac_name": "Rajauli (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Kanhaiya Kumar",
+        "margin": 14090,
+        "margin_percentage": 13.03
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Prakash Veer",
+        "margin": 4615,
+        "margin_percentage": 3
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Prakash Veer",
+        "margin": 12593,
+        "margin_percentage": 7.51
+      }
+    },
+    {
+      "ac_number": 236,
+      "ac_name": "Hisua",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "BJP",
+        "candidate": "Anil Singh",
+        "margin": 3978,
+        "margin_percentage": 3.2
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Anil Singh",
+        "margin": 12239,
+        "margin_percentage": 6.64
+      },
+      "winner_2020": {
+        "party": "INC",
+        "candidate": "Nitu Kumari",
+        "margin": 17091,
+        "margin_percentage": 8.97
+      }
+    },
+    {
+      "ac_number": 237,
+      "ac_name": "Nawada",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Purnima Yadav",
+        "margin": 6337,
+        "margin_percentage": 5.32
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Rajballabh Prasad",
+        "margin": 16726,
+        "margin_percentage": 9.5
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Vibha Devi",
+        "margin": 26310,
+        "margin_percentage": 14.55
+      }
+    },
+    {
+      "ac_number": 238,
+      "ac_name": "Gobindpur",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Kaushal Yadav",
+        "margin": 20887,
+        "margin_percentage": 20.87
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Purnima Yadav",
+        "margin": 4399,
+        "margin_percentage": 3.13
+      },
+      "winner_2020": {
+        "party": "RJD",
+        "candidate": "Md Kamran",
+        "margin": 33074,
+        "margin_percentage": 20.46
+      }
+    },
+    {
+      "ac_number": 239,
+      "ac_name": "Warsaliganj",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Pradip Kumar",
+        "margin": 5428,
+        "margin_percentage": 4.49
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Aruna Devi",
+        "margin": 19527,
+        "margin_percentage": 11.64
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Aruna Devi",
+        "margin": 9030,
+        "margin_percentage": 5.28
+      }
+    },
+    {
+      "ac_number": 240,
+      "ac_name": "Sikandra (SC)",
+      "ac_type": "SC",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Rameshwar Paswan",
+        "margin": 12361,
+        "margin_percentage": 11.91
+      },
+      "winner_2015": {
+        "party": "INC",
+        "candidate": "Sudhir Kumar Alias Banty Choudhary",
+        "margin": 7990,
+        "margin_percentage": 5.77
+      },
+      "winner_2020": {
+        "party": "HAMS",
+        "candidate": "Prafull Kumar Manjhi",
+        "margin": 5505,
+        "margin_percentage": 3.59
+      }
+    },
+    {
+      "ac_number": 241,
+      "ac_name": "Jamui",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Ajay Pratap",
+        "margin": 24467,
+        "margin_percentage": 20.09
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Vijay Prakash",
+        "margin": 8249,
+        "margin_percentage": 5.23
+      },
+      "winner_2020": {
+        "party": "BJP",
+        "candidate": "Shreyasi Singh",
+        "margin": 41049,
+        "margin_percentage": 22.63
+      }
+    },
+    {
+      "ac_number": 242,
+      "ac_name": "Jhajha",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JD(U)",
+        "candidate": "Damodar Rawat",
+        "margin": 10204,
+        "margin_percentage": 8.22
+      },
+      "winner_2015": {
+        "party": "BJP",
+        "candidate": "Rabindra Yadav",
+        "margin": 22086,
+        "margin_percentage": 13.49
+      },
+      "winner_2020": {
+        "party": "JD(U)",
+        "candidate": "Damodar Rawat",
+        "margin": 1679,
+        "margin_percentage": 0.86
+      }
+    },
+    {
+      "ac_number": 243,
+      "ac_name": "Chakai",
+      "ac_type": "Gen",
+      "winner_2010": {
+        "party": "JMM",
+        "candidate": "Sumit Kumar Singh",
+        "margin": 188,
+        "margin_percentage": 0.17
+      },
+      "winner_2015": {
+        "party": "RJD",
+        "candidate": "Savitri Devi",
+        "margin": 12113,
+        "margin_percentage": 8.06
+      },
+      "winner_2020": {
+        "party": "IND",
+        "candidate": "Sumit Kumar Singh",
+        "margin": 581,
+        "margin_percentage": 0.31
+      }
+    }
+  ]
+}

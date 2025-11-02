@@ -1,0 +1,6083 @@
+{
+  "title": "Bihar Constituency-wise Elector Details",
+  "data_source": "Election Commission of India",
+  "last_updated": "2025-11-02T13:36:34.971Z",
+  "reference_date": "2025-10-28",
+  "constituencies": [
+    {
+      "ac_number": 1,
+      "ac_name": "Valmiki Nagar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 176534,
+        "female_electors": 153215,
+        "third_gender_electors": 15,
+        "service_electors": 355,
+        "total_electors": 330119
+      },
+      "pre_sir": {
+        "male_electors": 186119,
+        "female_electors": 164034,
+        "third_gender_electors": 17,
+        "service_electors": 349,
+        "total_electors": 350519
+      },
+      "total_electors": 330119,
+      "male_electors": 176534,
+      "female_electors": 153215,
+      "third_gender_electors": 15,
+      "pre_revision_electors": 350519,
+      "post_revision_electors": 330119
+    },
+    {
+      "ac_number": 2,
+      "ac_name": "Ramnagar (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 158407,
+        "female_electors": 139535,
+        "third_gender_electors": 7,
+        "service_electors": 399,
+        "total_electors": 298348
+      },
+      "pre_sir": {
+        "male_electors": 165463,
+        "female_electors": 149100,
+        "third_gender_electors": 8,
+        "service_electors": 381,
+        "total_electors": 314952
+      },
+      "total_electors": 298348,
+      "male_electors": 158407,
+      "female_electors": 139535,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 314952,
+      "post_revision_electors": 298348
+    },
+    {
+      "ac_number": 3,
+      "ac_name": "Narkatiaganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 148204,
+        "female_electors": 128159,
+        "third_gender_electors": 11,
+        "service_electors": 197,
+        "total_electors": 276571
+      },
+      "pre_sir": {
+        "male_electors": 151691,
+        "female_electors": 133367,
+        "third_gender_electors": 13,
+        "service_electors": 195,
+        "total_electors": 285266
+      },
+      "total_electors": 276571,
+      "male_electors": 148204,
+      "female_electors": 128159,
+      "third_gender_electors": 11,
+      "pre_revision_electors": 285266,
+      "post_revision_electors": 276571
+    },
+    {
+      "ac_number": 4,
+      "ac_name": "Bagaha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167388,
+        "female_electors": 149224,
+        "third_gender_electors": 17,
+        "service_electors": 357,
+        "total_electors": 316986
+      },
+      "pre_sir": {
+        "male_electors": 175695,
+        "female_electors": 157662,
+        "third_gender_electors": 19,
+        "service_electors": 355,
+        "total_electors": 333731
+      },
+      "total_electors": 316986,
+      "male_electors": 167388,
+      "female_electors": 149224,
+      "third_gender_electors": 17,
+      "pre_revision_electors": 333731,
+      "post_revision_electors": 316986
+    },
+    {
+      "ac_number": 5,
+      "ac_name": "Lauriya",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 134247,
+        "female_electors": 115606,
+        "third_gender_electors": 2,
+        "service_electors": 278,
+        "total_electors": 250133
+      },
+      "pre_sir": {
+        "male_electors": 140517,
+        "female_electors": 126173,
+        "third_gender_electors": 1,
+        "service_electors": 273,
+        "total_electors": 266964
+      },
+      "total_electors": 250133,
+      "male_electors": 134247,
+      "female_electors": 115606,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 266964,
+      "post_revision_electors": 250133
+    },
+    {
+      "ac_number": 6,
+      "ac_name": "Nautan",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 151417,
+        "female_electors": 129375,
+        "third_gender_electors": 16,
+        "service_electors": 394,
+        "total_electors": 281202
+      },
+      "pre_sir": {
+        "male_electors": 155474,
+        "female_electors": 133549,
+        "third_gender_electors": 18,
+        "service_electors": 385,
+        "total_electors": 289426
+      },
+      "total_electors": 281202,
+      "male_electors": 151417,
+      "female_electors": 129375,
+      "third_gender_electors": 16,
+      "pre_revision_electors": 289426,
+      "post_revision_electors": 281202
+    },
+    {
+      "ac_number": 7,
+      "ac_name": "Chanpatia",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 155603,
+        "female_electors": 136332,
+        "third_gender_electors": 9,
+        "service_electors": 709,
+        "total_electors": 292653
+      },
+      "pre_sir": {
+        "male_electors": 155035,
+        "female_electors": 137715,
+        "third_gender_electors": 8,
+        "service_electors": 706,
+        "total_electors": 293464
+      },
+      "total_electors": 292653,
+      "male_electors": 155603,
+      "female_electors": 136332,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 293464,
+      "post_revision_electors": 292653
+    },
+    {
+      "ac_number": 8,
+      "ac_name": "Bettiah",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 153193,
+        "female_electors": 137226,
+        "third_gender_electors": 5,
+        "service_electors": 561,
+        "total_electors": 290985
+      },
+      "pre_sir": {
+        "male_electors": 154889,
+        "female_electors": 139179,
+        "third_gender_electors": 5,
+        "service_electors": 571,
+        "total_electors": 294644
+      },
+      "total_electors": 290985,
+      "male_electors": 153193,
+      "female_electors": 137226,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 294644,
+      "post_revision_electors": 290985
+    },
+    {
+      "ac_number": 9,
+      "ac_name": "Sikta",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 149528,
+        "female_electors": 127199,
+        "third_gender_electors": 8,
+        "service_electors": 255,
+        "total_electors": 276990
+      },
+      "pre_sir": {
+        "male_electors": 157069,
+        "female_electors": 138851,
+        "third_gender_electors": 11,
+        "service_electors": 254,
+        "total_electors": 296185
+      },
+      "total_electors": 276990,
+      "male_electors": 149528,
+      "female_electors": 127199,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 296185,
+      "post_revision_electors": 276990
+    },
+    {
+      "ac_number": 10,
+      "ac_name": "Raxaul",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 152402,
+        "female_electors": 132459,
+        "third_gender_electors": 10,
+        "service_electors": 402,
+        "total_electors": 285273
+      },
+      "pre_sir": {
+        "male_electors": 156804,
+        "female_electors": 138021,
+        "third_gender_electors": 13,
+        "service_electors": 402,
+        "total_electors": 295240
+      },
+      "total_electors": 285273,
+      "male_electors": 152402,
+      "female_electors": 132459,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 295240,
+      "post_revision_electors": 285273
+    },
+    {
+      "ac_number": 11,
+      "ac_name": "Sugauli",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150231,
+        "female_electors": 131609,
+        "third_gender_electors": 11,
+        "service_electors": 732,
+        "total_electors": 282583
+      },
+      "pre_sir": {
+        "male_electors": 156651,
+        "female_electors": 137522,
+        "third_gender_electors": 11,
+        "service_electors": 749,
+        "total_electors": 294933
+      },
+      "total_electors": 282583,
+      "male_electors": 150231,
+      "female_electors": 131609,
+      "third_gender_electors": 11,
+      "pre_revision_electors": 294933,
+      "post_revision_electors": 282583
+    },
+    {
+      "ac_number": 12,
+      "ac_name": "Narkatia",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 160853,
+        "female_electors": 139302,
+        "third_gender_electors": 3,
+        "service_electors": 307,
+        "total_electors": 300465
+      },
+      "pre_sir": {
+        "male_electors": 165956,
+        "female_electors": 145904,
+        "third_gender_electors": 5,
+        "service_electors": 309,
+        "total_electors": 312174
+      },
+      "total_electors": 300465,
+      "male_electors": 160853,
+      "female_electors": 139302,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 312174,
+      "post_revision_electors": 300465
+    },
+    {
+      "ac_number": 13,
+      "ac_name": "Harsidhi (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 143810,
+        "female_electors": 129277,
+        "third_gender_electors": 0,
+        "service_electors": 434,
+        "total_electors": 273521
+      },
+      "pre_sir": {
+        "male_electors": 147315,
+        "female_electors": 135386,
+        "third_gender_electors": 0,
+        "service_electors": 437,
+        "total_electors": 283138
+      },
+      "total_electors": 273521,
+      "male_electors": 143810,
+      "female_electors": 129277,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 283138,
+      "post_revision_electors": 273521
+    },
+    {
+      "ac_number": 14,
+      "ac_name": "Govindganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 138738,
+        "female_electors": 124492,
+        "third_gender_electors": 2,
+        "service_electors": 611,
+        "total_electors": 263843
+      },
+      "pre_sir": {
+        "male_electors": 147184,
+        "female_electors": 138019,
+        "third_gender_electors": 2,
+        "service_electors": 620,
+        "total_electors": 285825
+      },
+      "total_electors": 263843,
+      "male_electors": 138738,
+      "female_electors": 124492,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 285825,
+      "post_revision_electors": 263843
+    },
+    {
+      "ac_number": 15,
+      "ac_name": "Kesaria",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 138396,
+        "female_electors": 121444,
+        "third_gender_electors": 0,
+        "service_electors": 356,
+        "total_electors": 260196
+      },
+      "pre_sir": {
+        "male_electors": 145925,
+        "female_electors": 131994,
+        "third_gender_electors": 5,
+        "service_electors": 372,
+        "total_electors": 278296
+      },
+      "total_electors": 260196,
+      "male_electors": 138396,
+      "female_electors": 121444,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 278296,
+      "post_revision_electors": 260196
+    },
+    {
+      "ac_number": 16,
+      "ac_name": "Kalyanpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 136443,
+        "female_electors": 118623,
+        "third_gender_electors": 0,
+        "service_electors": 368,
+        "total_electors": 255434
+      },
+      "pre_sir": {
+        "male_electors": 141336,
+        "female_electors": 127096,
+        "third_gender_electors": 0,
+        "service_electors": 374,
+        "total_electors": 268806
+      },
+      "total_electors": 255434,
+      "male_electors": 136443,
+      "female_electors": 118623,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 268806,
+      "post_revision_electors": 255434
+    },
+    {
+      "ac_number": 17,
+      "ac_name": "Pipra",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 178706,
+        "female_electors": 156023,
+        "third_gender_electors": 2,
+        "service_electors": 376,
+        "total_electors": 335107
+      },
+      "pre_sir": {
+        "male_electors": 188481,
+        "female_electors": 170287,
+        "third_gender_electors": 4,
+        "service_electors": 377,
+        "total_electors": 359149
+      },
+      "total_electors": 335107,
+      "male_electors": 178706,
+      "female_electors": 156023,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 359149,
+      "post_revision_electors": 335107
+    },
+    {
+      "ac_number": 18,
+      "ac_name": "Madhuban",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 140706,
+        "female_electors": 123253,
+        "third_gender_electors": 15,
+        "service_electors": 228,
+        "total_electors": 264202
+      },
+      "pre_sir": {
+        "male_electors": 146950,
+        "female_electors": 132289,
+        "third_gender_electors": 18,
+        "service_electors": 227,
+        "total_electors": 279484
+      },
+      "total_electors": 264202,
+      "male_electors": 140706,
+      "female_electors": 123253,
+      "third_gender_electors": 15,
+      "pre_revision_electors": 279484,
+      "post_revision_electors": 264202
+    },
+    {
+      "ac_number": 19,
+      "ac_name": "Motihari",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 155270,
+        "female_electors": 134525,
+        "third_gender_electors": 4,
+        "service_electors": 440,
+        "total_electors": 290239
+      },
+      "pre_sir": {
+        "male_electors": 177683,
+        "female_electors": 157820,
+        "third_gender_electors": 10,
+        "service_electors": 440,
+        "total_electors": 335953
+      },
+      "total_electors": 290239,
+      "male_electors": 155270,
+      "female_electors": 134525,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 335953,
+      "post_revision_electors": 290239
+    },
+    {
+      "ac_number": 20,
+      "ac_name": "Chiraia",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 154743,
+        "female_electors": 133160,
+        "third_gender_electors": 8,
+        "service_electors": 281,
+        "total_electors": 288192
+      },
+      "pre_sir": {
+        "male_electors": 162655,
+        "female_electors": 143225,
+        "third_gender_electors": 10,
+        "service_electors": 295,
+        "total_electors": 306185
+      },
+      "total_electors": 288192,
+      "male_electors": 154743,
+      "female_electors": 133160,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 306185,
+      "post_revision_electors": 288192
+    },
+    {
+      "ac_number": 21,
+      "ac_name": "Dhaka",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 177411,
+        "female_electors": 156534,
+        "third_gender_electors": 9,
+        "service_electors": 329,
+        "total_electors": 334283
+      },
+      "pre_sir": {
+        "male_electors": 175944,
+        "female_electors": 157688,
+        "third_gender_electors": 13,
+        "service_electors": 328,
+        "total_electors": 333973
+      },
+      "total_electors": 334283,
+      "male_electors": 177411,
+      "female_electors": 156534,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 333973,
+      "post_revision_electors": 334283
+    },
+    {
+      "ac_number": 22,
+      "ac_name": "Sheohar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 160960,
+        "female_electors": 140739,
+        "third_gender_electors": 6,
+        "service_electors": 195,
+        "total_electors": 301900
+      },
+      "pre_sir": {
+        "male_electors": 168903,
+        "female_electors": 153012,
+        "third_gender_electors": 9,
+        "service_electors": 198,
+        "total_electors": 322122
+      },
+      "total_electors": 301900,
+      "male_electors": 160960,
+      "female_electors": 140739,
+      "third_gender_electors": 6,
+      "pre_revision_electors": 322122,
+      "post_revision_electors": 301900
+    },
+    {
+      "ac_number": 23,
+      "ac_name": "Riga",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 168921,
+        "female_electors": 146776,
+        "third_gender_electors": 5,
+        "service_electors": 308,
+        "total_electors": 316010
+      },
+      "pre_sir": {
+        "male_electors": 176870,
+        "female_electors": 157069,
+        "third_gender_electors": 9,
+        "service_electors": 312,
+        "total_electors": 334260
+      },
+      "total_electors": 316010,
+      "male_electors": 168921,
+      "female_electors": 146776,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 334260,
+      "post_revision_electors": 316010
+    },
+    {
+      "ac_number": 24,
+      "ac_name": "Bathnaha (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 168703,
+        "female_electors": 147487,
+        "third_gender_electors": 1,
+        "service_electors": 540,
+        "total_electors": 316731
+      },
+      "pre_sir": {
+        "male_electors": 174255,
+        "female_electors": 157168,
+        "third_gender_electors": 13,
+        "service_electors": 539,
+        "total_electors": 331975
+      },
+      "total_electors": 316731,
+      "male_electors": 168703,
+      "female_electors": 147487,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 331975,
+      "post_revision_electors": 316731
+    },
+    {
+      "ac_number": 25,
+      "ac_name": "Parihar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 172131,
+        "female_electors": 150728,
+        "third_gender_electors": 7,
+        "service_electors": 311,
+        "total_electors": 323177
+      },
+      "pre_sir": {
+        "male_electors": 179200,
+        "female_electors": 160635,
+        "third_gender_electors": 24,
+        "service_electors": 316,
+        "total_electors": 340175
+      },
+      "total_electors": 323177,
+      "male_electors": 172131,
+      "female_electors": 150728,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 340175,
+      "post_revision_electors": 323177
+    },
+    {
+      "ac_number": 26,
+      "ac_name": "Sursand",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167757,
+        "female_electors": 146833,
+        "third_gender_electors": 7,
+        "service_electors": 279,
+        "total_electors": 314876
+      },
+      "pre_sir": {
+        "male_electors": 176839,
+        "female_electors": 158432,
+        "third_gender_electors": 10,
+        "service_electors": 293,
+        "total_electors": 335574
+      },
+      "total_electors": 314876,
+      "male_electors": 167757,
+      "female_electors": 146833,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 335574,
+      "post_revision_electors": 314876
+    },
+    {
+      "ac_number": 27,
+      "ac_name": "Bajpatti",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 176817,
+        "female_electors": 154311,
+        "third_gender_electors": 3,
+        "service_electors": 244,
+        "total_electors": 331375
+      },
+      "pre_sir": {
+        "male_electors": 182564,
+        "female_electors": 162773,
+        "third_gender_electors": 8,
+        "service_electors": 254,
+        "total_electors": 345599
+      },
+      "total_electors": 331375,
+      "male_electors": 176817,
+      "female_electors": 154311,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 345599,
+      "post_revision_electors": 331375
+    },
+    {
+      "ac_number": 28,
+      "ac_name": "Sitamarhi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 161097,
+        "female_electors": 142269,
+        "third_gender_electors": 13,
+        "service_electors": 331,
+        "total_electors": 303710
+      },
+      "pre_sir": {
+        "male_electors": 168704,
+        "female_electors": 150386,
+        "third_gender_electors": 19,
+        "service_electors": 324,
+        "total_electors": 319433
+      },
+      "total_electors": 303710,
+      "male_electors": 161097,
+      "female_electors": 142269,
+      "third_gender_electors": 13,
+      "pre_revision_electors": 319433,
+      "post_revision_electors": 303710
+    },
+    {
+      "ac_number": 29,
+      "ac_name": "Runnisaidpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 152273,
+        "female_electors": 133198,
+        "third_gender_electors": 8,
+        "service_electors": 270,
+        "total_electors": 285749
+      },
+      "pre_sir": {
+        "male_electors": 158437,
+        "female_electors": 140888,
+        "third_gender_electors": 7,
+        "service_electors": 271,
+        "total_electors": 299603
+      },
+      "total_electors": 285749,
+      "male_electors": 152273,
+      "female_electors": 133198,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 299603,
+      "post_revision_electors": 285749
+    },
+    {
+      "ac_number": 30,
+      "ac_name": "Belsand",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 139881,
+        "female_electors": 120432,
+        "third_gender_electors": 1,
+        "service_electors": 298,
+        "total_electors": 260612
+      },
+      "pre_sir": {
+        "male_electors": 150564,
+        "female_electors": 134127,
+        "third_gender_electors": 2,
+        "service_electors": 296,
+        "total_electors": 284989
+      },
+      "total_electors": 260612,
+      "male_electors": 139881,
+      "female_electors": 120432,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 284989,
+      "post_revision_electors": 260612
+    },
+    {
+      "ac_number": 31,
+      "ac_name": "Harlakhi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 146526,
+        "female_electors": 127713,
+        "third_gender_electors": 17,
+        "service_electors": 216,
+        "total_electors": 274472
+      },
+      "pre_sir": {
+        "male_electors": 157877,
+        "female_electors": 142687,
+        "third_gender_electors": 21,
+        "service_electors": 215,
+        "total_electors": 300800
+      },
+      "total_electors": 274472,
+      "male_electors": 146526,
+      "female_electors": 127713,
+      "third_gender_electors": 17,
+      "pre_revision_electors": 300800,
+      "post_revision_electors": 274472
+    },
+    {
+      "ac_number": 32,
+      "ac_name": "Benipatti",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 153212,
+        "female_electors": 135002,
+        "third_gender_electors": 8,
+        "service_electors": 478,
+        "total_electors": 288700
+      },
+      "pre_sir": {
+        "male_electors": 162282,
+        "female_electors": 146992,
+        "third_gender_electors": 7,
+        "service_electors": 486,
+        "total_electors": 309767
+      },
+      "total_electors": 288700,
+      "male_electors": 153212,
+      "female_electors": 135002,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 309767,
+      "post_revision_electors": 288700
+    },
+    {
+      "ac_number": 33,
+      "ac_name": "Khajauli",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 156220,
+        "female_electors": 135770,
+        "third_gender_electors": 4,
+        "service_electors": 535,
+        "total_electors": 292529
+      },
+      "pre_sir": {
+        "male_electors": 166839,
+        "female_electors": 151548,
+        "third_gender_electors": 4,
+        "service_electors": 545,
+        "total_electors": 318936
+      },
+      "total_electors": 292529,
+      "male_electors": 156220,
+      "female_electors": 135770,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 318936,
+      "post_revision_electors": 292529
+    },
+    {
+      "ac_number": 34,
+      "ac_name": "Babubarhi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 163405,
+        "female_electors": 142697,
+        "third_gender_electors": 22,
+        "service_electors": 387,
+        "total_electors": 306511
+      },
+      "pre_sir": {
+        "male_electors": 172189,
+        "female_electors": 155793,
+        "third_gender_electors": 26,
+        "service_electors": 394,
+        "total_electors": 328402
+      },
+      "total_electors": 306511,
+      "male_electors": 163405,
+      "female_electors": 142697,
+      "third_gender_electors": 22,
+      "pre_revision_electors": 328402,
+      "post_revision_electors": 306511
+    },
+    {
+      "ac_number": 35,
+      "ac_name": "Bisfi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 172027,
+        "female_electors": 154815,
+        "third_gender_electors": 28,
+        "service_electors": 229,
+        "total_electors": 327099
+      },
+      "pre_sir": {
+        "male_electors": 177950,
+        "female_electors": 165120,
+        "third_gender_electors": 32,
+        "service_electors": 230,
+        "total_electors": 343332
+      },
+      "total_electors": 327099,
+      "male_electors": 172027,
+      "female_electors": 154815,
+      "third_gender_electors": 28,
+      "pre_revision_electors": 343332,
+      "post_revision_electors": 327099
+    },
+    {
+      "ac_number": 36,
+      "ac_name": "Madhubani",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 178000,
+        "female_electors": 159322,
+        "third_gender_electors": 18,
+        "service_electors": 442,
+        "total_electors": 337782
+      },
+      "pre_sir": {
+        "male_electors": 189051,
+        "female_electors": 172228,
+        "third_gender_electors": 19,
+        "service_electors": 452,
+        "total_electors": 361750
+      },
+      "total_electors": 337782,
+      "male_electors": 178000,
+      "female_electors": 159322,
+      "third_gender_electors": 18,
+      "pre_revision_electors": 361750,
+      "post_revision_electors": 337782
+    },
+    {
+      "ac_number": 37,
+      "ac_name": "Rajnagar (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 165078,
+        "female_electors": 146747,
+        "third_gender_electors": 15,
+        "service_electors": 425,
+        "total_electors": 312265
+      },
+      "pre_sir": {
+        "male_electors": 180380,
+        "female_electors": 164538,
+        "third_gender_electors": 21,
+        "service_electors": 438,
+        "total_electors": 345377
+      },
+      "total_electors": 312265,
+      "male_electors": 165078,
+      "female_electors": 146747,
+      "third_gender_electors": 15,
+      "pre_revision_electors": 345377,
+      "post_revision_electors": 312265
+    },
+    {
+      "ac_number": 38,
+      "ac_name": "Jhanjharpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167411,
+        "female_electors": 151552,
+        "third_gender_electors": 5,
+        "service_electors": 274,
+        "total_electors": 319242
+      },
+      "pre_sir": {
+        "male_electors": 173348,
+        "female_electors": 159369,
+        "third_gender_electors": 5,
+        "service_electors": 288,
+        "total_electors": 333010
+      },
+      "total_electors": 319242,
+      "male_electors": 167411,
+      "female_electors": 151552,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 333010,
+      "post_revision_electors": 319242
+    },
+    {
+      "ac_number": 39,
+      "ac_name": "Phulparas",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 168826,
+        "female_electors": 150125,
+        "third_gender_electors": 17,
+        "service_electors": 333,
+        "total_electors": 319301
+      },
+      "pre_sir": {
+        "male_electors": 178089,
+        "female_electors": 163240,
+        "third_gender_electors": 19,
+        "service_electors": 341,
+        "total_electors": 341689
+      },
+      "total_electors": 319301,
+      "male_electors": 168826,
+      "female_electors": 150125,
+      "third_gender_electors": 17,
+      "pre_revision_electors": 341689,
+      "post_revision_electors": 319301
+    },
+    {
+      "ac_number": 40,
+      "ac_name": "Laukaha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 177004,
+        "female_electors": 158297,
+        "third_gender_electors": 7,
+        "service_electors": 182,
+        "total_electors": 335490
+      },
+      "pre_sir": {
+        "male_electors": 185612,
+        "female_electors": 171715,
+        "third_gender_electors": 10,
+        "service_electors": 183,
+        "total_electors": 357520
+      },
+      "total_electors": 335490,
+      "male_electors": 177004,
+      "female_electors": 158297,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 357520,
+      "post_revision_electors": 335490
+    },
+    {
+      "ac_number": 41,
+      "ac_name": "Nirmali",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 160271,
+        "female_electors": 143292,
+        "third_gender_electors": 1,
+        "service_electors": 184,
+        "total_electors": 303748
+      },
+      "pre_sir": {
+        "male_electors": 164803,
+        "female_electors": 154243,
+        "third_gender_electors": 3,
+        "service_electors": 183,
+        "total_electors": 319232
+      },
+      "total_electors": 303748,
+      "male_electors": 160271,
+      "female_electors": 143292,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 319232,
+      "post_revision_electors": 303748
+    },
+    {
+      "ac_number": 42,
+      "ac_name": "Pipra",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 158931,
+        "female_electors": 145603,
+        "third_gender_electors": 7,
+        "service_electors": 288,
+        "total_electors": 304829
+      },
+      "pre_sir": {
+        "male_electors": 164449,
+        "female_electors": 154572,
+        "third_gender_electors": 6,
+        "service_electors": 284,
+        "total_electors": 319311
+      },
+      "total_electors": 304829,
+      "male_electors": 158931,
+      "female_electors": 145603,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 319311,
+      "post_revision_electors": 304829
+    },
+    {
+      "ac_number": 43,
+      "ac_name": "Supaul",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 154248,
+        "female_electors": 138155,
+        "third_gender_electors": 0,
+        "service_electors": 493,
+        "total_electors": 292896
+      },
+      "pre_sir": {
+        "male_electors": 162809,
+        "female_electors": 152114,
+        "third_gender_electors": 3,
+        "service_electors": 493,
+        "total_electors": 315419
+      },
+      "total_electors": 292896,
+      "male_electors": 154248,
+      "female_electors": 138155,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 315419,
+      "post_revision_electors": 292896
+    },
+    {
+      "ac_number": 44,
+      "ac_name": "Triveniganj (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 158003,
+        "female_electors": 145390,
+        "third_gender_electors": 2,
+        "service_electors": 209,
+        "total_electors": 303604
+      },
+      "pre_sir": {
+        "male_electors": 163874,
+        "female_electors": 154673,
+        "third_gender_electors": 2,
+        "service_electors": 209,
+        "total_electors": 318758
+      },
+      "total_electors": 303604,
+      "male_electors": 158003,
+      "female_electors": 145390,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 318758,
+      "post_revision_electors": 303604
+    },
+    {
+      "ac_number": 45,
+      "ac_name": "Chhatapur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 175828,
+        "female_electors": 157253,
+        "third_gender_electors": 5,
+        "service_electors": 254,
+        "total_electors": 333340
+      },
+      "pre_sir": {
+        "male_electors": 181547,
+        "female_electors": 169108,
+        "third_gender_electors": 9,
+        "service_electors": 258,
+        "total_electors": 350922
+      },
+      "total_electors": 333340,
+      "male_electors": 175828,
+      "female_electors": 157253,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 350922,
+      "post_revision_electors": 333340
+    },
+    {
+      "ac_number": 46,
+      "ac_name": "Narpatganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 176912,
+        "female_electors": 157658,
+        "third_gender_electors": 14,
+        "service_electors": 351,
+        "total_electors": 334935
+      },
+      "pre_sir": {
+        "male_electors": 185449,
+        "female_electors": 169359,
+        "third_gender_electors": 14,
+        "service_electors": 351,
+        "total_electors": 355173
+      },
+      "total_electors": 334935,
+      "male_electors": 176912,
+      "female_electors": 157658,
+      "third_gender_electors": 14,
+      "pre_revision_electors": 355173,
+      "post_revision_electors": 334935
+    },
+    {
+      "ac_number": 47,
+      "ac_name": "Raniganj (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 176004,
+        "female_electors": 163959,
+        "third_gender_electors": 25,
+        "service_electors": 91,
+        "total_electors": 340079
+      },
+      "pre_sir": {
+        "male_electors": 186696,
+        "female_electors": 176257,
+        "third_gender_electors": 25,
+        "service_electors": 89,
+        "total_electors": 363067
+      },
+      "total_electors": 340079,
+      "male_electors": 176004,
+      "female_electors": 163959,
+      "third_gender_electors": 25,
+      "pre_revision_electors": 363067,
+      "post_revision_electors": 340079
+    },
+    {
+      "ac_number": 48,
+      "ac_name": "Forbesganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 186495,
+        "female_electors": 171352,
+        "third_gender_electors": 9,
+        "service_electors": 279,
+        "total_electors": 358135
+      },
+      "pre_sir": {
+        "male_electors": 190567,
+        "female_electors": 175878,
+        "third_gender_electors": 12,
+        "service_electors": 279,
+        "total_electors": 366736
+      },
+      "total_electors": 358135,
+      "male_electors": 186495,
+      "female_electors": 171352,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 366736,
+      "post_revision_electors": 358135
+    },
+    {
+      "ac_number": 49,
+      "ac_name": "Araria",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 172630,
+        "female_electors": 157423,
+        "third_gender_electors": 14,
+        "service_electors": 144,
+        "total_electors": 330211
+      },
+      "pre_sir": {
+        "male_electors": 177498,
+        "female_electors": 165800,
+        "third_gender_electors": 14,
+        "service_electors": 143,
+        "total_electors": 343455
+      },
+      "total_electors": 330211,
+      "male_electors": 172630,
+      "female_electors": 157423,
+      "third_gender_electors": 14,
+      "pre_revision_electors": 343455,
+      "post_revision_electors": 330211
+    },
+    {
+      "ac_number": 50,
+      "ac_name": "Jokihat",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 159722,
+        "female_electors": 142597,
+        "third_gender_electors": 15,
+        "service_electors": 44,
+        "total_electors": 302378
+      },
+      "pre_sir": {
+        "male_electors": 162570,
+        "female_electors": 149720,
+        "third_gender_electors": 19,
+        "service_electors": 46,
+        "total_electors": 312355
+      },
+      "total_electors": 302378,
+      "male_electors": 159722,
+      "female_electors": 142597,
+      "third_gender_electors": 15,
+      "pre_revision_electors": 312355,
+      "post_revision_electors": 302378
+    },
+    {
+      "ac_number": 51,
+      "ac_name": "Sikti",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 158529,
+        "female_electors": 143437,
+        "third_gender_electors": 12,
+        "service_electors": 63,
+        "total_electors": 302041
+      },
+      "pre_sir": {
+        "male_electors": 160966,
+        "female_electors": 148288,
+        "third_gender_electors": 13,
+        "service_electors": 63,
+        "total_electors": 309330
+      },
+      "total_electors": 302041,
+      "male_electors": 158529,
+      "female_electors": 143437,
+      "third_gender_electors": 12,
+      "pre_revision_electors": 309330,
+      "post_revision_electors": 302041
+    },
+    {
+      "ac_number": 52,
+      "ac_name": "Bahadurganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 153240,
+        "female_electors": 134385,
+        "third_gender_electors": 13,
+        "service_electors": 24,
+        "total_electors": 287662
+      },
+      "pre_sir": {
+        "male_electors": 160866,
+        "female_electors": 150523,
+        "third_gender_electors": 14,
+        "service_electors": 24,
+        "total_electors": 311427
+      },
+      "total_electors": 287662,
+      "male_electors": 153240,
+      "female_electors": 134385,
+      "third_gender_electors": 13,
+      "pre_revision_electors": 311427,
+      "post_revision_electors": 287662
+    },
+    {
+      "ac_number": 53,
+      "ac_name": "Thakurganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 157869,
+        "female_electors": 138449,
+        "third_gender_electors": 5,
+        "service_electors": 69,
+        "total_electors": 296392
+      },
+      "pre_sir": {
+        "male_electors": 163925,
+        "female_electors": 152589,
+        "third_gender_electors": 5,
+        "service_electors": 69,
+        "total_electors": 316588
+      },
+      "total_electors": 296392,
+      "male_electors": 157869,
+      "female_electors": 138449,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 316588,
+      "post_revision_electors": 296392
+    },
+    {
+      "ac_number": 54,
+      "ac_name": "Kishanganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 149056,
+        "female_electors": 131118,
+        "third_gender_electors": 11,
+        "service_electors": 75,
+        "total_electors": 280260
+      },
+      "pre_sir": {
+        "male_electors": 162801,
+        "female_electors": 156232,
+        "third_gender_electors": 16,
+        "service_electors": 76,
+        "total_electors": 319125
+      },
+      "total_electors": 280260,
+      "male_electors": 149056,
+      "female_electors": 131118,
+      "third_gender_electors": 11,
+      "pre_revision_electors": 319125,
+      "post_revision_electors": 280260
+    },
+    {
+      "ac_number": 55,
+      "ac_name": "Kochadhaman",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 133574,
+        "female_electors": 114803,
+        "third_gender_electors": 7,
+        "service_electors": 13,
+        "total_electors": 248397
+      },
+      "pre_sir": {
+        "male_electors": 140629,
+        "female_electors": 129408,
+        "third_gender_electors": 10,
+        "service_electors": 13,
+        "total_electors": 270060
+      },
+      "total_electors": 248397,
+      "male_electors": 133574,
+      "female_electors": 114803,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 270060,
+      "post_revision_electors": 248397
+    },
+    {
+      "ac_number": 56,
+      "ac_name": "Amour",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167359,
+        "female_electors": 142607,
+        "third_gender_electors": 10,
+        "service_electors": 6,
+        "total_electors": 309982
+      },
+      "pre_sir": {
+        "male_electors": 170915,
+        "female_electors": 159512,
+        "third_gender_electors": 13,
+        "service_electors": 6,
+        "total_electors": 330446
+      },
+      "total_electors": 309982,
+      "male_electors": 167359,
+      "female_electors": 142607,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 330446,
+      "post_revision_electors": 309982
+    },
+    {
+      "ac_number": 57,
+      "ac_name": "Baisi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 152254,
+        "female_electors": 132905,
+        "third_gender_electors": 4,
+        "service_electors": 10,
+        "total_electors": 285173
+      },
+      "pre_sir": {
+        "male_electors": 152449,
+        "female_electors": 140712,
+        "third_gender_electors": 5,
+        "service_electors": 10,
+        "total_electors": 293176
+      },
+      "total_electors": 285173,
+      "male_electors": 152254,
+      "female_electors": 132905,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 293176,
+      "post_revision_electors": 285173
+    },
+    {
+      "ac_number": 58,
+      "ac_name": "Kasba",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150627,
+        "female_electors": 135024,
+        "third_gender_electors": 14,
+        "service_electors": 90,
+        "total_electors": 285755
+      },
+      "pre_sir": {
+        "male_electors": 154268,
+        "female_electors": 142897,
+        "third_gender_electors": 15,
+        "service_electors": 90,
+        "total_electors": 297270
+      },
+      "total_electors": 285755,
+      "male_electors": 150627,
+      "female_electors": 135024,
+      "third_gender_electors": 14,
+      "pre_revision_electors": 297270,
+      "post_revision_electors": 285755
+    },
+    {
+      "ac_number": 59,
+      "ac_name": "Banmankhi (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 156599,
+        "female_electors": 143108,
+        "third_gender_electors": 7,
+        "service_electors": 265,
+        "total_electors": 299979
+      },
+      "pre_sir": {
+        "male_electors": 166904,
+        "female_electors": 157508,
+        "third_gender_electors": 7,
+        "service_electors": 272,
+        "total_electors": 324691
+      },
+      "total_electors": 299979,
+      "male_electors": 156599,
+      "female_electors": 143108,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 324691,
+      "post_revision_electors": 299979
+    },
+    {
+      "ac_number": 60,
+      "ac_name": "Rupauli",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 155514,
+        "female_electors": 140671,
+        "third_gender_electors": 14,
+        "service_electors": 233,
+        "total_electors": 296432
+      },
+      "pre_sir": {
+        "male_electors": 164165,
+        "female_electors": 154132,
+        "third_gender_electors": 16,
+        "service_electors": 241,
+        "total_electors": 318554
+      },
+      "total_electors": 296432,
+      "male_electors": 155514,
+      "female_electors": 140671,
+      "third_gender_electors": 14,
+      "pre_revision_electors": 318554,
+      "post_revision_electors": 296432
+    },
+    {
+      "ac_number": 61,
+      "ac_name": "Dhamdaha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 162940,
+        "female_electors": 149817,
+        "third_gender_electors": 13,
+        "service_electors": 189,
+        "total_electors": 312959
+      },
+      "pre_sir": {
+        "male_electors": 174478,
+        "female_electors": 165007,
+        "third_gender_electors": 11,
+        "service_electors": 187,
+        "total_electors": 339683
+      },
+      "total_electors": 312959,
+      "male_electors": 162940,
+      "female_electors": 149817,
+      "third_gender_electors": 13,
+      "pre_revision_electors": 339683,
+      "post_revision_electors": 312959
+    },
+    {
+      "ac_number": 62,
+      "ac_name": "Purnia",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150696,
+        "female_electors": 137382,
+        "third_gender_electors": 8,
+        "service_electors": 303,
+        "total_electors": 288389
+      },
+      "pre_sir": {
+        "male_electors": 173523,
+        "female_electors": 160281,
+        "third_gender_electors": 11,
+        "service_electors": 304,
+        "total_electors": 334119
+      },
+      "total_electors": 288389,
+      "male_electors": 150696,
+      "female_electors": 137382,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 334119,
+      "post_revision_electors": 288389
+    },
+    {
+      "ac_number": 63,
+      "ac_name": "Katihar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 135099,
+        "female_electors": 125653,
+        "third_gender_electors": 3,
+        "service_electors": 376,
+        "total_electors": 261131
+      },
+      "pre_sir": {
+        "male_electors": 146345,
+        "female_electors": 137769,
+        "third_gender_electors": 2,
+        "service_electors": 388,
+        "total_electors": 284504
+      },
+      "total_electors": 261131,
+      "male_electors": 135099,
+      "female_electors": 125653,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 284504,
+      "post_revision_electors": 261131
+    },
+    {
+      "ac_number": 64,
+      "ac_name": "Kadwa",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 148045,
+        "female_electors": 130944,
+        "third_gender_electors": 2,
+        "service_electors": 83,
+        "total_electors": 279074
+      },
+      "pre_sir": {
+        "male_electors": 156206,
+        "female_electors": 144127,
+        "third_gender_electors": 2,
+        "service_electors": 85,
+        "total_electors": 300420
+      },
+      "total_electors": 279074,
+      "male_electors": 148045,
+      "female_electors": 130944,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 300420,
+      "post_revision_electors": 279074
+    },
+    {
+      "ac_number": 65,
+      "ac_name": "Balrampur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 183394,
+        "female_electors": 162992,
+        "third_gender_electors": 2,
+        "service_electors": 20,
+        "total_electors": 346408
+      },
+      "pre_sir": {
+        "male_electors": 190021,
+        "female_electors": 174040,
+        "third_gender_electors": 1,
+        "service_electors": 21,
+        "total_electors": 364083
+      },
+      "total_electors": 346408,
+      "male_electors": 183394,
+      "female_electors": 162992,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 364083,
+      "post_revision_electors": 346408
+    },
+    {
+      "ac_number": 66,
+      "ac_name": "Pranpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164861,
+        "female_electors": 147088,
+        "third_gender_electors": 4,
+        "service_electors": 66,
+        "total_electors": 312019
+      },
+      "pre_sir": {
+        "male_electors": 170382,
+        "female_electors": 155817,
+        "third_gender_electors": 5,
+        "service_electors": 69,
+        "total_electors": 326273
+      },
+      "total_electors": 312019,
+      "male_electors": 164861,
+      "female_electors": 147088,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 326273,
+      "post_revision_electors": 312019
+    },
+    {
+      "ac_number": 67,
+      "ac_name": "Manihari (ST)",
+      "ac_type": "ST",
+      "post_sir": {
+        "male_electors": 156699,
+        "female_electors": 138943,
+        "third_gender_electors": 12,
+        "service_electors": 538,
+        "total_electors": 296192
+      },
+      "pre_sir": {
+        "male_electors": 163786,
+        "female_electors": 147798,
+        "third_gender_electors": 16,
+        "service_electors": 562,
+        "total_electors": 312162
+      },
+      "total_electors": 296192,
+      "male_electors": 156699,
+      "female_electors": 138943,
+      "third_gender_electors": 12,
+      "pre_revision_electors": 312162,
+      "post_revision_electors": 296192
+    },
+    {
+      "ac_number": 68,
+      "ac_name": "Barari",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 147022,
+        "female_electors": 131531,
+        "third_gender_electors": 5,
+        "service_electors": 331,
+        "total_electors": 278889
+      },
+      "pre_sir": {
+        "male_electors": 153845,
+        "female_electors": 139685,
+        "third_gender_electors": 7,
+        "service_electors": 339,
+        "total_electors": 293876
+      },
+      "total_electors": 278889,
+      "male_electors": 147022,
+      "female_electors": 131531,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 293876,
+      "post_revision_electors": 278889
+    },
+    {
+      "ac_number": 69,
+      "ac_name": "Korha (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 153493,
+        "female_electors": 144463,
+        "third_gender_electors": 7,
+        "service_electors": 214,
+        "total_electors": 298177
+      },
+      "pre_sir": {
+        "male_electors": 158350,
+        "female_electors": 151939,
+        "third_gender_electors": 11,
+        "service_electors": 220,
+        "total_electors": 310520
+      },
+      "total_electors": 298177,
+      "male_electors": 153493,
+      "female_electors": 144463,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 310520,
+      "post_revision_electors": 298177
+    },
+    {
+      "ac_number": 70,
+      "ac_name": "Alamnagar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 189456,
+        "female_electors": 169915,
+        "third_gender_electors": 8,
+        "service_electors": 250,
+        "total_electors": 359629
+      },
+      "pre_sir": {
+        "male_electors": 198921,
+        "female_electors": 183058,
+        "third_gender_electors": 10,
+        "service_electors": 261,
+        "total_electors": 382250
+      },
+      "total_electors": 359629,
+      "male_electors": 189456,
+      "female_electors": 169915,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 382250,
+      "post_revision_electors": 359629
+    },
+    {
+      "ac_number": 71,
+      "ac_name": "Bihariganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 170249,
+        "female_electors": 156540,
+        "third_gender_electors": 6,
+        "service_electors": 218,
+        "total_electors": 327013
+      },
+      "pre_sir": {
+        "male_electors": 176308,
+        "female_electors": 164857,
+        "third_gender_electors": 9,
+        "service_electors": 225,
+        "total_electors": 341399
+      },
+      "total_electors": 327013,
+      "male_electors": 170249,
+      "female_electors": 156540,
+      "third_gender_electors": 6,
+      "pre_revision_electors": 341399,
+      "post_revision_electors": 327013
+    },
+    {
+      "ac_number": 72,
+      "ac_name": "Singheshwar (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 171409,
+        "female_electors": 157477,
+        "third_gender_electors": 7,
+        "service_electors": 240,
+        "total_electors": 329133
+      },
+      "pre_sir": {
+        "male_electors": 174125,
+        "female_electors": 163045,
+        "third_gender_electors": 11,
+        "service_electors": 245,
+        "total_electors": 337426
+      },
+      "total_electors": 329133,
+      "male_electors": 171409,
+      "female_electors": 157477,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 337426,
+      "post_revision_electors": 329133
+    },
+    {
+      "ac_number": 73,
+      "ac_name": "Madhepura",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 179569,
+        "female_electors": 164798,
+        "third_gender_electors": 11,
+        "service_electors": 466,
+        "total_electors": 344844
+      },
+      "pre_sir": {
+        "male_electors": 184729,
+        "female_electors": 172617,
+        "third_gender_electors": 12,
+        "service_electors": 475,
+        "total_electors": 357833
+      },
+      "total_electors": 344844,
+      "male_electors": 179569,
+      "female_electors": 164798,
+      "third_gender_electors": 11,
+      "pre_revision_electors": 357833,
+      "post_revision_electors": 344844
+    },
+    {
+      "ac_number": 74,
+      "ac_name": "Sonbarsha (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 157848,
+        "female_electors": 142969,
+        "third_gender_electors": 1,
+        "service_electors": 193,
+        "total_electors": 301011
+      },
+      "pre_sir": {
+        "male_electors": 167471,
+        "female_electors": 156804,
+        "third_gender_electors": 3,
+        "service_electors": 201,
+        "total_electors": 324479
+      },
+      "total_electors": 301011,
+      "male_electors": 157848,
+      "female_electors": 142969,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 324479,
+      "post_revision_electors": 301011
+    },
+    {
+      "ac_number": 75,
+      "ac_name": "Saharsa",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 193054,
+        "female_electors": 175864,
+        "third_gender_electors": 4,
+        "service_electors": 796,
+        "total_electors": 369718
+      },
+      "pre_sir": {
+        "male_electors": 198723,
+        "female_electors": 183226,
+        "third_gender_electors": 7,
+        "service_electors": 797,
+        "total_electors": 382753
+      },
+      "total_electors": 369718,
+      "male_electors": 193054,
+      "female_electors": 175864,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 382753,
+      "post_revision_electors": 369718
+    },
+    {
+      "ac_number": 76,
+      "ac_name": "Simri Bakhtiarpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 176443,
+        "female_electors": 159698,
+        "third_gender_electors": 14,
+        "service_electors": 342,
+        "total_electors": 336497
+      },
+      "pre_sir": {
+        "male_electors": 185816,
+        "female_electors": 173007,
+        "third_gender_electors": 16,
+        "service_electors": 358,
+        "total_electors": 359197
+      },
+      "total_electors": 336497,
+      "male_electors": 176443,
+      "female_electors": 159698,
+      "third_gender_electors": 14,
+      "pre_revision_electors": 359197,
+      "post_revision_electors": 336497
+    },
+    {
+      "ac_number": 77,
+      "ac_name": "Mahishi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150071,
+        "female_electors": 136637,
+        "third_gender_electors": 3,
+        "service_electors": 428,
+        "total_electors": 287139
+      },
+      "pre_sir": {
+        "male_electors": 160145,
+        "female_electors": 152453,
+        "third_gender_electors": 4,
+        "service_electors": 433,
+        "total_electors": 313035
+      },
+      "total_electors": 287139,
+      "male_electors": 150071,
+      "female_electors": 136637,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 313035,
+      "post_revision_electors": 287139
+    },
+    {
+      "ac_number": 78,
+      "ac_name": "Kusheshwar Asthan (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 135930,
+        "female_electors": 123066,
+        "third_gender_electors": 2,
+        "service_electors": 113,
+        "total_electors": 259111
+      },
+      "pre_sir": {
+        "male_electors": 138918,
+        "female_electors": 130348,
+        "third_gender_electors": 3,
+        "service_electors": 111,
+        "total_electors": 269380
+      },
+      "total_electors": 259111,
+      "male_electors": 135930,
+      "female_electors": 123066,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 269380,
+      "post_revision_electors": 259111
+    },
+    {
+      "ac_number": 79,
+      "ac_name": "Gaura Bauram",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 137958,
+        "female_electors": 122807,
+        "third_gender_electors": 1,
+        "service_electors": 134,
+        "total_electors": 260900
+      },
+      "pre_sir": {
+        "male_electors": 138931,
+        "female_electors": 128343,
+        "third_gender_electors": 1,
+        "service_electors": 133,
+        "total_electors": 267408
+      },
+      "total_electors": 260900,
+      "male_electors": 137958,
+      "female_electors": 122807,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 267408,
+      "post_revision_electors": 260900
+    },
+    {
+      "ac_number": 80,
+      "ac_name": "Benipur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 156856,
+        "female_electors": 142705,
+        "third_gender_electors": 7,
+        "service_electors": 216,
+        "total_electors": 299784
+      },
+      "pre_sir": {
+        "male_electors": 158502,
+        "female_electors": 148866,
+        "third_gender_electors": 7,
+        "service_electors": 224,
+        "total_electors": 307599
+      },
+      "total_electors": 299784,
+      "male_electors": 156856,
+      "female_electors": 142705,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 307599,
+      "post_revision_electors": 299784
+    },
+    {
+      "ac_number": 81,
+      "ac_name": "Alinagar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 148976,
+        "female_electors": 135543,
+        "third_gender_electors": 3,
+        "service_electors": 173,
+        "total_electors": 284695
+      },
+      "pre_sir": {
+        "male_electors": 149443,
+        "female_electors": 138929,
+        "third_gender_electors": 2,
+        "service_electors": 178,
+        "total_electors": 288552
+      },
+      "total_electors": 284695,
+      "male_electors": 148976,
+      "female_electors": 135543,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 288552,
+      "post_revision_electors": 284695
+    },
+    {
+      "ac_number": 82,
+      "ac_name": "Darbhanga Rural",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 152821,
+        "female_electors": 135994,
+        "third_gender_electors": 1,
+        "service_electors": 150,
+        "total_electors": 288966
+      },
+      "pre_sir": {
+        "male_electors": 158270,
+        "female_electors": 145576,
+        "third_gender_electors": 3,
+        "service_electors": 155,
+        "total_electors": 304004
+      },
+      "total_electors": 288966,
+      "male_electors": 152821,
+      "female_electors": 135994,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 304004,
+      "post_revision_electors": 288966
+    },
+    {
+      "ac_number": 83,
+      "ac_name": "Darbhanga",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 168861,
+        "female_electors": 155272,
+        "third_gender_electors": 11,
+        "service_electors": 397,
+        "total_electors": 324541
+      },
+      "pre_sir": {
+        "male_electors": 167875,
+        "female_electors": 153991,
+        "third_gender_electors": 10,
+        "service_electors": 402,
+        "total_electors": 322278
+      },
+      "total_electors": 324541,
+      "male_electors": 168861,
+      "female_electors": 155272,
+      "third_gender_electors": 11,
+      "pre_revision_electors": 322278,
+      "post_revision_electors": 324541
+    },
+    {
+      "ac_number": 84,
+      "ac_name": "Hayaghat",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 133166,
+        "female_electors": 119423,
+        "third_gender_electors": 3,
+        "service_electors": 279,
+        "total_electors": 252871
+      },
+      "pre_sir": {
+        "male_electors": 134664,
+        "female_electors": 123674,
+        "third_gender_electors": 2,
+        "service_electors": 287,
+        "total_electors": 258627
+      },
+      "total_electors": 252871,
+      "male_electors": 133166,
+      "female_electors": 119423,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 258627,
+      "post_revision_electors": 252871
+    },
+    {
+      "ac_number": 85,
+      "ac_name": "Bahadurpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 159635,
+        "female_electors": 140811,
+        "third_gender_electors": 9,
+        "service_electors": 352,
+        "total_electors": 300807
+      },
+      "pre_sir": {
+        "male_electors": 165543,
+        "female_electors": 150823,
+        "third_gender_electors": 11,
+        "service_electors": 353,
+        "total_electors": 316730
+      },
+      "total_electors": 300807,
+      "male_electors": 159635,
+      "female_electors": 140811,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 316730,
+      "post_revision_electors": 300807
+    },
+    {
+      "ac_number": 86,
+      "ac_name": "Keoti",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 157668,
+        "female_electors": 139586,
+        "third_gender_electors": 1,
+        "service_electors": 226,
+        "total_electors": 297481
+      },
+      "pre_sir": {
+        "male_electors": 160553,
+        "female_electors": 147789,
+        "third_gender_electors": 4,
+        "service_electors": 228,
+        "total_electors": 308574
+      },
+      "total_electors": 297481,
+      "male_electors": 157668,
+      "female_electors": 139586,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 308574,
+      "post_revision_electors": 297481
+    },
+    {
+      "ac_number": 87,
+      "ac_name": "Jale",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 165900,
+        "female_electors": 147778,
+        "third_gender_electors": 5,
+        "service_electors": 132,
+        "total_electors": 313815
+      },
+      "pre_sir": {
+        "male_electors": 171929,
+        "female_electors": 157626,
+        "third_gender_electors": 5,
+        "service_electors": 130,
+        "total_electors": 329690
+      },
+      "total_electors": 313815,
+      "male_electors": 165900,
+      "female_electors": 147778,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 329690,
+      "post_revision_electors": 313815
+    },
+    {
+      "ac_number": 88,
+      "ac_name": "Gaighat",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 168978,
+        "female_electors": 151193,
+        "third_gender_electors": 7,
+        "service_electors": 349,
+        "total_electors": 320527
+      },
+      "pre_sir": {
+        "male_electors": 175361,
+        "female_electors": 158630,
+        "third_gender_electors": 6,
+        "service_electors": 349,
+        "total_electors": 334346
+      },
+      "total_electors": 320527,
+      "male_electors": 168978,
+      "female_electors": 151193,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 334346,
+      "post_revision_electors": 320527
+    },
+    {
+      "ac_number": 89,
+      "ac_name": "Aurai",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 165069,
+        "female_electors": 144703,
+        "third_gender_electors": 8,
+        "service_electors": 213,
+        "total_electors": 309993
+      },
+      "pre_sir": {
+        "male_electors": 173439,
+        "female_electors": 153097,
+        "third_gender_electors": 7,
+        "service_electors": 217,
+        "total_electors": 326760
+      },
+      "total_electors": 309993,
+      "male_electors": 165069,
+      "female_electors": 144703,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 326760,
+      "post_revision_electors": 309993
+    },
+    {
+      "ac_number": 90,
+      "ac_name": "Minapur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 149157,
+        "female_electors": 132158,
+        "third_gender_electors": 8,
+        "service_electors": 179,
+        "total_electors": 281502
+      },
+      "pre_sir": {
+        "male_electors": 150791,
+        "female_electors": 134777,
+        "third_gender_electors": 10,
+        "service_electors": 185,
+        "total_electors": 285763
+      },
+      "total_electors": 281502,
+      "male_electors": 149157,
+      "female_electors": 132158,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 285763,
+      "post_revision_electors": 281502
+    },
+    {
+      "ac_number": 91,
+      "ac_name": "Bochaha (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 150583,
+        "female_electors": 133404,
+        "third_gender_electors": 1,
+        "service_electors": 378,
+        "total_electors": 284366
+      },
+      "pre_sir": {
+        "male_electors": 153500,
+        "female_electors": 137787,
+        "third_gender_electors": 5,
+        "service_electors": 397,
+        "total_electors": 291689
+      },
+      "total_electors": 284366,
+      "male_electors": 150583,
+      "female_electors": 133404,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 291689,
+      "post_revision_electors": 284366
+    },
+    {
+      "ac_number": 92,
+      "ac_name": "Sakra (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 143609,
+        "female_electors": 127764,
+        "third_gender_electors": 9,
+        "service_electors": 601,
+        "total_electors": 271983
+      },
+      "pre_sir": {
+        "male_electors": 145711,
+        "female_electors": 130415,
+        "third_gender_electors": 3,
+        "service_electors": 606,
+        "total_electors": 276735
+      },
+      "total_electors": 271983,
+      "male_electors": 143609,
+      "female_electors": 127764,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 276735,
+      "post_revision_electors": 271983
+    },
+    {
+      "ac_number": 93,
+      "ac_name": "Kurhani",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 161477,
+        "female_electors": 143123,
+        "third_gender_electors": 4,
+        "service_electors": 734,
+        "total_electors": 305338
+      },
+      "pre_sir": {
+        "male_electors": 166821,
+        "female_electors": 148028,
+        "third_gender_electors": 3,
+        "service_electors": 731,
+        "total_electors": 315583
+      },
+      "total_electors": 305338,
+      "male_electors": 161477,
+      "female_electors": 143123,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 315583,
+      "post_revision_electors": 305338
+    },
+    {
+      "ac_number": 94,
+      "ac_name": "Muzaffarpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164441,
+        "female_electors": 150764,
+        "third_gender_electors": 17,
+        "service_electors": 566,
+        "total_electors": 315788
+      },
+      "pre_sir": {
+        "male_electors": 173817,
+        "female_electors": 158239,
+        "third_gender_electors": 24,
+        "service_electors": 584,
+        "total_electors": 332664
+      },
+      "total_electors": 315788,
+      "male_electors": 164441,
+      "female_electors": 150764,
+      "third_gender_electors": 17,
+      "pre_revision_electors": 332664,
+      "post_revision_electors": 315788
+    },
+    {
+      "ac_number": 95,
+      "ac_name": "Kanti",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167826,
+        "female_electors": 149728,
+        "third_gender_electors": 15,
+        "service_electors": 584,
+        "total_electors": 318153
+      },
+      "pre_sir": {
+        "male_electors": 175186,
+        "female_electors": 156777,
+        "third_gender_electors": 15,
+        "service_electors": 597,
+        "total_electors": 332575
+      },
+      "total_electors": 318153,
+      "male_electors": 167826,
+      "female_electors": 149728,
+      "third_gender_electors": 15,
+      "pre_revision_electors": 332575,
+      "post_revision_electors": 318153
+    },
+    {
+      "ac_number": 96,
+      "ac_name": "Baruraj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 147224,
+        "female_electors": 129536,
+        "third_gender_electors": 6,
+        "service_electors": 260,
+        "total_electors": 277026
+      },
+      "pre_sir": {
+        "male_electors": 152236,
+        "female_electors": 135618,
+        "third_gender_electors": 6,
+        "service_electors": 266,
+        "total_electors": 288126
+      },
+      "total_electors": 277026,
+      "male_electors": 147224,
+      "female_electors": 129536,
+      "third_gender_electors": 6,
+      "pre_revision_electors": 288126,
+      "post_revision_electors": 277026
+    },
+    {
+      "ac_number": 97,
+      "ac_name": "Paroo",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164171,
+        "female_electors": 146833,
+        "third_gender_electors": 7,
+        "service_electors": 758,
+        "total_electors": 311769
+      },
+      "pre_sir": {
+        "male_electors": 171400,
+        "female_electors": 153552,
+        "third_gender_electors": 8,
+        "service_electors": 793,
+        "total_electors": 325753
+      },
+      "total_electors": 311769,
+      "male_electors": 164171,
+      "female_electors": 146833,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 325753,
+      "post_revision_electors": 311769
+    },
+    {
+      "ac_number": 98,
+      "ac_name": "Sahebganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 159544,
+        "female_electors": 140104,
+        "third_gender_electors": 7,
+        "service_electors": 254,
+        "total_electors": 299909
+      },
+      "pre_sir": {
+        "male_electors": 164386,
+        "female_electors": 144732,
+        "third_gender_electors": 9,
+        "service_electors": 264,
+        "total_electors": 309391
+      },
+      "total_electors": 299909,
+      "male_electors": 159544,
+      "female_electors": 140104,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 309391,
+      "post_revision_electors": 299909
+    },
+    {
+      "ac_number": 99,
+      "ac_name": "Baikunthpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 161850,
+        "female_electors": 144232,
+        "third_gender_electors": 8,
+        "service_electors": 471,
+        "total_electors": 306561
+      },
+      "pre_sir": {
+        "male_electors": 174533,
+        "female_electors": 166883,
+        "third_gender_electors": 10,
+        "service_electors": 491,
+        "total_electors": 341917
+      },
+      "total_electors": 306561,
+      "male_electors": 161850,
+      "female_electors": 144232,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 341917,
+      "post_revision_electors": 306561
+    },
+    {
+      "ac_number": 100,
+      "ac_name": "Barauli",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 149361,
+        "female_electors": 132933,
+        "third_gender_electors": 12,
+        "service_electors": 249,
+        "total_electors": 282555
+      },
+      "pre_sir": {
+        "male_electors": 162172,
+        "female_electors": 156663,
+        "third_gender_electors": 15,
+        "service_electors": 254,
+        "total_electors": 319104
+      },
+      "total_electors": 282555,
+      "male_electors": 149361,
+      "female_electors": 132933,
+      "third_gender_electors": 12,
+      "pre_revision_electors": 319104,
+      "post_revision_electors": 282555
+    },
+    {
+      "ac_number": 101,
+      "ac_name": "Gopalganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 156691,
+        "female_electors": 138564,
+        "third_gender_electors": 6,
+        "service_electors": 448,
+        "total_electors": 295709
+      },
+      "pre_sir": {
+        "male_electors": 177218,
+        "female_electors": 172650,
+        "third_gender_electors": 6,
+        "service_electors": 448,
+        "total_electors": 350322
+      },
+      "total_electors": 295709,
+      "male_electors": 156691,
+      "female_electors": 138564,
+      "third_gender_electors": 6,
+      "pre_revision_electors": 350322,
+      "post_revision_electors": 295709
+    },
+    {
+      "ac_number": 102,
+      "ac_name": "Kuchaikote",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 159850,
+        "female_electors": 137629,
+        "third_gender_electors": 22,
+        "service_electors": 345,
+        "total_electors": 297846
+      },
+      "pre_sir": {
+        "male_electors": 172458,
+        "female_electors": 164817,
+        "third_gender_electors": 27,
+        "service_electors": 352,
+        "total_electors": 337654
+      },
+      "total_electors": 297846,
+      "male_electors": 159850,
+      "female_electors": 137629,
+      "third_gender_electors": 22,
+      "pre_revision_electors": 337654,
+      "post_revision_electors": 297846
+    },
+    {
+      "ac_number": 103,
+      "ac_name": "Bhorey (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 176665,
+        "female_electors": 159165,
+        "third_gender_electors": 11,
+        "service_electors": 437,
+        "total_electors": 336278
+      },
+      "pre_sir": {
+        "male_electors": 186393,
+        "female_electors": 180157,
+        "third_gender_electors": 13,
+        "service_electors": 440,
+        "total_electors": 367003
+      },
+      "total_electors": 336278,
+      "male_electors": 176665,
+      "female_electors": 159165,
+      "third_gender_electors": 11,
+      "pre_revision_electors": 367003,
+      "post_revision_electors": 336278
+    },
+    {
+      "ac_number": 104,
+      "ac_name": "Hathua",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 153370,
+        "female_electors": 136093,
+        "third_gender_electors": 3,
+        "service_electors": 369,
+        "total_electors": 289835
+      },
+      "pre_sir": {
+        "male_electors": 165175,
+        "female_electors": 159022,
+        "third_gender_electors": 6,
+        "service_electors": 373,
+        "total_electors": 324576
+      },
+      "total_electors": 289835,
+      "male_electors": 153370,
+      "female_electors": 136093,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 324576,
+      "post_revision_electors": 289835
+    },
+    {
+      "ac_number": 105,
+      "ac_name": "Siwan",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167679,
+        "female_electors": 150119,
+        "third_gender_electors": 7,
+        "service_electors": 509,
+        "total_electors": 318314
+      },
+      "pre_sir": {
+        "male_electors": 171357,
+        "female_electors": 156016,
+        "third_gender_electors": 4,
+        "service_electors": 519,
+        "total_electors": 327896
+      },
+      "total_electors": 318314,
+      "male_electors": 167679,
+      "female_electors": 150119,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 327896,
+      "post_revision_electors": 318314
+    },
+    {
+      "ac_number": 106,
+      "ac_name": "Ziradei",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 146126,
+        "female_electors": 129027,
+        "third_gender_electors": 7,
+        "service_electors": 636,
+        "total_electors": 275796
+      },
+      "pre_sir": {
+        "male_electors": 150486,
+        "female_electors": 137012,
+        "third_gender_electors": 6,
+        "service_electors": 643,
+        "total_electors": 288147
+      },
+      "total_electors": 275796,
+      "male_electors": 146126,
+      "female_electors": 129027,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 288147,
+      "post_revision_electors": 275796
+    },
+    {
+      "ac_number": 107,
+      "ac_name": "Darauli (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 163907,
+        "female_electors": 141718,
+        "third_gender_electors": 5,
+        "service_electors": 1437,
+        "total_electors": 307067
+      },
+      "pre_sir": {
+        "male_electors": 171747,
+        "female_electors": 156625,
+        "third_gender_electors": 9,
+        "service_electors": 1457,
+        "total_electors": 329838
+      },
+      "total_electors": 307067,
+      "male_electors": 163907,
+      "female_electors": 141718,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 329838,
+      "post_revision_electors": 307067
+    },
+    {
+      "ac_number": 108,
+      "ac_name": "Raghunathpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 154452,
+        "female_electors": 138640,
+        "third_gender_electors": 9,
+        "service_electors": 956,
+        "total_electors": 294057
+      },
+      "pre_sir": {
+        "male_electors": 161137,
+        "female_electors": 152427,
+        "third_gender_electors": 11,
+        "service_electors": 976,
+        "total_electors": 314551
+      },
+      "total_electors": 294057,
+      "male_electors": 154452,
+      "female_electors": 138640,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 314551,
+      "post_revision_electors": 294057
+    },
+    {
+      "ac_number": 109,
+      "ac_name": "Daraundha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 166911,
+        "female_electors": 146942,
+        "third_gender_electors": 11,
+        "service_electors": 1242,
+        "total_electors": 315106
+      },
+      "pre_sir": {
+        "male_electors": 174626,
+        "female_electors": 160395,
+        "third_gender_electors": 9,
+        "service_electors": 1241,
+        "total_electors": 336271
+      },
+      "total_electors": 315106,
+      "male_electors": 166911,
+      "female_electors": 146942,
+      "third_gender_electors": 11,
+      "pre_revision_electors": 336271,
+      "post_revision_electors": 315106
+    },
+    {
+      "ac_number": 110,
+      "ac_name": "Barharia",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164234,
+        "female_electors": 144569,
+        "third_gender_electors": 8,
+        "service_electors": 473,
+        "total_electors": 309284
+      },
+      "pre_sir": {
+        "male_electors": 169490,
+        "female_electors": 153241,
+        "third_gender_electors": 9,
+        "service_electors": 481,
+        "total_electors": 323221
+      },
+      "total_electors": 309284,
+      "male_electors": 164234,
+      "female_electors": 144569,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 323221,
+      "post_revision_electors": 309284
+    },
+    {
+      "ac_number": 111,
+      "ac_name": "Goriakothi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 175004,
+        "female_electors": 154529,
+        "third_gender_electors": 4,
+        "service_electors": 762,
+        "total_electors": 330299
+      },
+      "pre_sir": {
+        "male_electors": 181361,
+        "female_electors": 166891,
+        "third_gender_electors": 4,
+        "service_electors": 786,
+        "total_electors": 349042
+      },
+      "total_electors": 330299,
+      "male_electors": 175004,
+      "female_electors": 154529,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 349042,
+      "post_revision_electors": 330299
+    },
+    {
+      "ac_number": 112,
+      "ac_name": "Maharajganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 158858,
+        "female_electors": 141555,
+        "third_gender_electors": 1,
+        "service_electors": 1047,
+        "total_electors": 301461
+      },
+      "pre_sir": {
+        "male_electors": 166612,
+        "female_electors": 154007,
+        "third_gender_electors": 1,
+        "service_electors": 1057,
+        "total_electors": 321677
+      },
+      "total_electors": 301461,
+      "male_electors": 158858,
+      "female_electors": 141555,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 321677,
+      "post_revision_electors": 301461
+    },
+    {
+      "ac_number": 113,
+      "ac_name": "Ekma",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 153250,
+        "female_electors": 136598,
+        "third_gender_electors": 0,
+        "service_electors": 1159,
+        "total_electors": 291007
+      },
+      "pre_sir": {
+        "male_electors": 164223,
+        "female_electors": 149783,
+        "third_gender_electors": 0,
+        "service_electors": 1146,
+        "total_electors": 315152
+      },
+      "total_electors": 291007,
+      "male_electors": 153250,
+      "female_electors": 136598,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 315152,
+      "post_revision_electors": 291007
+    },
+    {
+      "ac_number": 114,
+      "ac_name": "Manjhi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 154744,
+        "female_electors": 137047,
+        "third_gender_electors": 1,
+        "service_electors": 2319,
+        "total_electors": 294111
+      },
+      "pre_sir": {
+        "male_electors": 164170,
+        "female_electors": 150699,
+        "third_gender_electors": 1,
+        "service_electors": 2364,
+        "total_electors": 317234
+      },
+      "total_electors": 294111,
+      "male_electors": 154744,
+      "female_electors": 137047,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 317234,
+      "post_revision_electors": 294111
+    },
+    {
+      "ac_number": 115,
+      "ac_name": "Baniapur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 165774,
+        "female_electors": 149266,
+        "third_gender_electors": 0,
+        "service_electors": 1322,
+        "total_electors": 316362
+      },
+      "pre_sir": {
+        "male_electors": 174021,
+        "female_electors": 160296,
+        "third_gender_electors": 0,
+        "service_electors": 1348,
+        "total_electors": 335665
+      },
+      "total_electors": 316362,
+      "male_electors": 165774,
+      "female_electors": 149266,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 335665,
+      "post_revision_electors": 316362
+    },
+    {
+      "ac_number": 116,
+      "ac_name": "Taraiya",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 157000,
+        "female_electors": 139824,
+        "third_gender_electors": 1,
+        "service_electors": 632,
+        "total_electors": 297457
+      },
+      "pre_sir": {
+        "male_electors": 167188,
+        "female_electors": 152034,
+        "third_gender_electors": 0,
+        "service_electors": 629,
+        "total_electors": 319851
+      },
+      "total_electors": 297457,
+      "male_electors": 157000,
+      "female_electors": 139824,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 319851,
+      "post_revision_electors": 297457
+    },
+    {
+      "ac_number": 117,
+      "ac_name": "Marhaura",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 142690,
+        "female_electors": 127182,
+        "third_gender_electors": 0,
+        "service_electors": 852,
+        "total_electors": 270724
+      },
+      "pre_sir": {
+        "male_electors": 150859,
+        "female_electors": 138218,
+        "third_gender_electors": 0,
+        "service_electors": 843,
+        "total_electors": 289920
+      },
+      "total_electors": 270724,
+      "male_electors": 142690,
+      "female_electors": 127182,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 289920,
+      "post_revision_electors": 270724
+    },
+    {
+      "ac_number": 118,
+      "ac_name": "Chapra",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 169329,
+        "female_electors": 154047,
+        "third_gender_electors": 5,
+        "service_electors": 1175,
+        "total_electors": 324556
+      },
+      "pre_sir": {
+        "male_electors": 178517,
+        "female_electors": 163196,
+        "third_gender_electors": 4,
+        "service_electors": 1193,
+        "total_electors": 342910
+      },
+      "total_electors": 324556,
+      "male_electors": 169329,
+      "female_electors": 154047,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 342910,
+      "post_revision_electors": 324556
+    },
+    {
+      "ac_number": 119,
+      "ac_name": "Garkha (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 163653,
+        "female_electors": 145702,
+        "third_gender_electors": 3,
+        "service_electors": 1138,
+        "total_electors": 310496
+      },
+      "pre_sir": {
+        "male_electors": 169807,
+        "female_electors": 152825,
+        "third_gender_electors": 2,
+        "service_electors": 1146,
+        "total_electors": 323780
+      },
+      "total_electors": 310496,
+      "male_electors": 163653,
+      "female_electors": 145702,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 323780,
+      "post_revision_electors": 310496
+    },
+    {
+      "ac_number": 120,
+      "ac_name": "Amnour",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 132822,
+        "female_electors": 116489,
+        "third_gender_electors": 0,
+        "service_electors": 615,
+        "total_electors": 249926
+      },
+      "pre_sir": {
+        "male_electors": 143655,
+        "female_electors": 131460,
+        "third_gender_electors": 1,
+        "service_electors": 615,
+        "total_electors": 275731
+      },
+      "total_electors": 249926,
+      "male_electors": 132822,
+      "female_electors": 116489,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 275731,
+      "post_revision_electors": 249926
+    },
+    {
+      "ac_number": 121,
+      "ac_name": "Parsa",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 141529,
+        "female_electors": 127443,
+        "third_gender_electors": 2,
+        "service_electors": 698,
+        "total_electors": 269672
+      },
+      "pre_sir": {
+        "male_electors": 148646,
+        "female_electors": 136237,
+        "third_gender_electors": 0,
+        "service_electors": 700,
+        "total_electors": 285583
+      },
+      "total_electors": 269672,
+      "male_electors": 141529,
+      "female_electors": 127443,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 285583,
+      "post_revision_electors": 269672
+    },
+    {
+      "ac_number": 122,
+      "ac_name": "Sonepur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 151900,
+        "female_electors": 136380,
+        "third_gender_electors": 2,
+        "service_electors": 1163,
+        "total_electors": 289445
+      },
+      "pre_sir": {
+        "male_electors": 157907,
+        "female_electors": 142284,
+        "third_gender_electors": 2,
+        "service_electors": 1172,
+        "total_electors": 301365
+      },
+      "total_electors": 289445,
+      "male_electors": 151900,
+      "female_electors": 136380,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 301365,
+      "post_revision_electors": 289445
+    },
+    {
+      "ac_number": 123,
+      "ac_name": "Hajipur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 176058,
+        "female_electors": 157839,
+        "third_gender_electors": 17,
+        "service_electors": 839,
+        "total_electors": 334753
+      },
+      "pre_sir": {
+        "male_electors": 188228,
+        "female_electors": 169985,
+        "third_gender_electors": 19,
+        "service_electors": 863,
+        "total_electors": 359095
+      },
+      "total_electors": 334753,
+      "male_electors": 176058,
+      "female_electors": 157839,
+      "third_gender_electors": 17,
+      "pre_revision_electors": 359095,
+      "post_revision_electors": 334753
+    },
+    {
+      "ac_number": 124,
+      "ac_name": "Lalganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 180029,
+        "female_electors": 161957,
+        "third_gender_electors": 13,
+        "service_electors": 925,
+        "total_electors": 342924
+      },
+      "pre_sir": {
+        "male_electors": 187950,
+        "female_electors": 171465,
+        "third_gender_electors": 16,
+        "service_electors": 955,
+        "total_electors": 360386
+      },
+      "total_electors": 342924,
+      "male_electors": 180029,
+      "female_electors": 161957,
+      "third_gender_electors": 13,
+      "pre_revision_electors": 360386,
+      "post_revision_electors": 342924
+    },
+    {
+      "ac_number": 125,
+      "ac_name": "Vaishali",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 177807,
+        "female_electors": 158455,
+        "third_gender_electors": 9,
+        "service_electors": 538,
+        "total_electors": 336809
+      },
+      "pre_sir": {
+        "male_electors": 183227,
+        "female_electors": 166479,
+        "third_gender_electors": 15,
+        "service_electors": 542,
+        "total_electors": 350263
+      },
+      "total_electors": 336809,
+      "male_electors": 177807,
+      "female_electors": 158455,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 350263,
+      "post_revision_electors": 336809
+    },
+    {
+      "ac_number": 126,
+      "ac_name": "Mahua",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 154480,
+        "female_electors": 140400,
+        "third_gender_electors": 1,
+        "service_electors": 385,
+        "total_electors": 295266
+      },
+      "pre_sir": {
+        "male_electors": 157340,
+        "female_electors": 142170,
+        "third_gender_electors": 0,
+        "service_electors": 400,
+        "total_electors": 299910
+      },
+      "total_electors": 295266,
+      "male_electors": 154480,
+      "female_electors": 140400,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 299910,
+      "post_revision_electors": 295266
+    },
+    {
+      "ac_number": 127,
+      "ac_name": "Raja Pakar (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 147297,
+        "female_electors": 132684,
+        "third_gender_electors": 8,
+        "service_electors": 1056,
+        "total_electors": 281045
+      },
+      "pre_sir": {
+        "male_electors": 152116,
+        "female_electors": 136626,
+        "third_gender_electors": 11,
+        "service_electors": 1065,
+        "total_electors": 289818
+      },
+      "total_electors": 281045,
+      "male_electors": 147297,
+      "female_electors": 132684,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 289818,
+      "post_revision_electors": 281045
+    },
+    {
+      "ac_number": 128,
+      "ac_name": "Raghopur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 181838,
+        "female_electors": 160803,
+        "third_gender_electors": 8,
+        "service_electors": 1266,
+        "total_electors": 343915
+      },
+      "pre_sir": {
+        "male_electors": 188188,
+        "female_electors": 169860,
+        "third_gender_electors": 8,
+        "service_electors": 1301,
+        "total_electors": 359357
+      },
+      "total_electors": 343915,
+      "male_electors": 181838,
+      "female_electors": 160803,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 359357,
+      "post_revision_electors": 343915
+    },
+    {
+      "ac_number": 129,
+      "ac_name": "Mahnar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 158524,
+        "female_electors": 141302,
+        "third_gender_electors": 10,
+        "service_electors": 1019,
+        "total_electors": 300855
+      },
+      "pre_sir": {
+        "male_electors": 165915,
+        "female_electors": 150518,
+        "third_gender_electors": 15,
+        "service_electors": 1043,
+        "total_electors": 317491
+      },
+      "total_electors": 300855,
+      "male_electors": 158524,
+      "female_electors": 141302,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 317491,
+      "post_revision_electors": 300855
+    },
+    {
+      "ac_number": 130,
+      "ac_name": "Patepur (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 157175,
+        "female_electors": 141935,
+        "third_gender_electors": 0,
+        "service_electors": 232,
+        "total_electors": 299342
+      },
+      "pre_sir": {
+        "male_electors": 163445,
+        "female_electors": 148927,
+        "third_gender_electors": 9,
+        "service_electors": 232,
+        "total_electors": 312613
+      },
+      "total_electors": 299342,
+      "male_electors": 157175,
+      "female_electors": 141935,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 312613,
+      "post_revision_electors": 299342
+    },
+    {
+      "ac_number": 131,
+      "ac_name": "Kalyanpur (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 170877,
+        "female_electors": 152308,
+        "third_gender_electors": 5,
+        "service_electors": 275,
+        "total_electors": 323465
+      },
+      "pre_sir": {
+        "male_electors": 180542,
+        "female_electors": 166743,
+        "third_gender_electors": 8,
+        "service_electors": 288,
+        "total_electors": 347581
+      },
+      "total_electors": 323465,
+      "male_electors": 170877,
+      "female_electors": 152308,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 347581,
+      "post_revision_electors": 323465
+    },
+    {
+      "ac_number": 132,
+      "ac_name": "Warisnagar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 172332,
+        "female_electors": 150830,
+        "third_gender_electors": 0,
+        "service_electors": 161,
+        "total_electors": 323323
+      },
+      "pre_sir": {
+        "male_electors": 179217,
+        "female_electors": 162520,
+        "third_gender_electors": 0,
+        "service_electors": 160,
+        "total_electors": 341897
+      },
+      "total_electors": 323323,
+      "male_electors": 172332,
+      "female_electors": 150830,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 341897,
+      "post_revision_electors": 323323
+    },
+    {
+      "ac_number": 133,
+      "ac_name": "Samastipur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 145915,
+        "female_electors": 127568,
+        "third_gender_electors": 8,
+        "service_electors": 392,
+        "total_electors": 273883
+      },
+      "pre_sir": {
+        "male_electors": 151625,
+        "female_electors": 135347,
+        "third_gender_electors": 8,
+        "service_electors": 397,
+        "total_electors": 287377
+      },
+      "total_electors": 273883,
+      "male_electors": 145915,
+      "female_electors": 127568,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 287377,
+      "post_revision_electors": 273883
+    },
+    {
+      "ac_number": 134,
+      "ac_name": "Ujiarpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164729,
+        "female_electors": 143144,
+        "third_gender_electors": 0,
+        "service_electors": 359,
+        "total_electors": 308232
+      },
+      "pre_sir": {
+        "male_electors": 168217,
+        "female_electors": 149805,
+        "third_gender_electors": 1,
+        "service_electors": 372,
+        "total_electors": 318395
+      },
+      "total_electors": 308232,
+      "male_electors": 164729,
+      "female_electors": 143144,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 318395,
+      "post_revision_electors": 308232
+    },
+    {
+      "ac_number": 135,
+      "ac_name": "Morwa",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 142630,
+        "female_electors": 124799,
+        "third_gender_electors": 1,
+        "service_electors": 466,
+        "total_electors": 267896
+      },
+      "pre_sir": {
+        "male_electors": 153117,
+        "female_electors": 138884,
+        "third_gender_electors": 1,
+        "service_electors": 471,
+        "total_electors": 292473
+      },
+      "total_electors": 267896,
+      "male_electors": 142630,
+      "female_electors": 124799,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 292473,
+      "post_revision_electors": 267896
+    },
+    {
+      "ac_number": 136,
+      "ac_name": "Sarairanjan",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150354,
+        "female_electors": 130682,
+        "third_gender_electors": 3,
+        "service_electors": 550,
+        "total_electors": 281589
+      },
+      "pre_sir": {
+        "male_electors": 153097,
+        "female_electors": 136511,
+        "third_gender_electors": 3,
+        "service_electors": 560,
+        "total_electors": 290171
+      },
+      "total_electors": 281589,
+      "male_electors": 150354,
+      "female_electors": 130682,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 290171,
+      "post_revision_electors": 281589
+    },
+    {
+      "ac_number": 137,
+      "ac_name": "Mohiuddinnagar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 137398,
+        "female_electors": 120916,
+        "third_gender_electors": 4,
+        "service_electors": 960,
+        "total_electors": 259278
+      },
+      "pre_sir": {
+        "male_electors": 142403,
+        "female_electors": 130819,
+        "third_gender_electors": 4,
+        "service_electors": 992,
+        "total_electors": 274218
+      },
+      "total_electors": 259278,
+      "male_electors": 137398,
+      "female_electors": 120916,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 274218,
+      "post_revision_electors": 259278
+    },
+    {
+      "ac_number": 138,
+      "ac_name": "Bibhutipur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 146263,
+        "female_electors": 127627,
+        "third_gender_electors": 4,
+        "service_electors": 291,
+        "total_electors": 274185
+      },
+      "pre_sir": {
+        "male_electors": 150290,
+        "female_electors": 133773,
+        "third_gender_electors": 5,
+        "service_electors": 298,
+        "total_electors": 284366
+      },
+      "total_electors": 274185,
+      "male_electors": 146263,
+      "female_electors": 127627,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 284366,
+      "post_revision_electors": 274185
+    },
+    {
+      "ac_number": 139,
+      "ac_name": "Rosera (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 175993,
+        "female_electors": 153876,
+        "third_gender_electors": 3,
+        "service_electors": 229,
+        "total_electors": 330101
+      },
+      "pre_sir": {
+        "male_electors": 183252,
+        "female_electors": 164295,
+        "third_gender_electors": 2,
+        "service_electors": 234,
+        "total_electors": 347783
+      },
+      "total_electors": 330101,
+      "male_electors": 175993,
+      "female_electors": 153876,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 347783,
+      "post_revision_electors": 330101
+    },
+    {
+      "ac_number": 140,
+      "ac_name": "Hasanpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 153934,
+        "female_electors": 134370,
+        "third_gender_electors": 2,
+        "service_electors": 172,
+        "total_electors": 288478
+      },
+      "pre_sir": {
+        "male_electors": 160868,
+        "female_electors": 145640,
+        "third_gender_electors": 3,
+        "service_electors": 174,
+        "total_electors": 306685
+      },
+      "total_electors": 288478,
+      "male_electors": 153934,
+      "female_electors": 134370,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 306685,
+      "post_revision_electors": 288478
+    },
+    {
+      "ac_number": 141,
+      "ac_name": "Cheria Bariarpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 143084,
+        "female_electors": 127831,
+        "third_gender_electors": 10,
+        "service_electors": 342,
+        "total_electors": 271267
+      },
+      "pre_sir": {
+        "male_electors": 144813,
+        "female_electors": 132130,
+        "third_gender_electors": 12,
+        "service_electors": 351,
+        "total_electors": 277306
+      },
+      "total_electors": 271267,
+      "male_electors": 143084,
+      "female_electors": 127831,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 277306,
+      "post_revision_electors": 271267
+    },
+    {
+      "ac_number": 142,
+      "ac_name": "Bachhwara",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 165534,
+        "female_electors": 144903,
+        "third_gender_electors": 2,
+        "service_electors": 497,
+        "total_electors": 310936
+      },
+      "pre_sir": {
+        "male_electors": 169319,
+        "female_electors": 151018,
+        "third_gender_electors": 7,
+        "service_electors": 505,
+        "total_electors": 320849
+      },
+      "total_electors": 310936,
+      "male_electors": 165534,
+      "female_electors": 144903,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 320849,
+      "post_revision_electors": 310936
+    },
+    {
+      "ac_number": 143,
+      "ac_name": "Teghra",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 157920,
+        "female_electors": 141656,
+        "third_gender_electors": 9,
+        "service_electors": 884,
+        "total_electors": 300469
+      },
+      "pre_sir": {
+        "male_electors": 163469,
+        "female_electors": 147403,
+        "third_gender_electors": 11,
+        "service_electors": 897,
+        "total_electors": 311780
+      },
+      "total_electors": 300469,
+      "male_electors": 157920,
+      "female_electors": 141656,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 311780,
+      "post_revision_electors": 300469
+    },
+    {
+      "ac_number": 144,
+      "ac_name": "Matihani",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 188101,
+        "female_electors": 164391,
+        "third_gender_electors": 3,
+        "service_electors": 952,
+        "total_electors": 353447
+      },
+      "pre_sir": {
+        "male_electors": 196280,
+        "female_electors": 175741,
+        "third_gender_electors": 3,
+        "service_electors": 950,
+        "total_electors": 372974
+      },
+      "total_electors": 353447,
+      "male_electors": 188101,
+      "female_electors": 164391,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 372974,
+      "post_revision_electors": 353447
+    },
+    {
+      "ac_number": 145,
+      "ac_name": "Sahebpur Kamal",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 139879,
+        "female_electors": 121836,
+        "third_gender_electors": 2,
+        "service_electors": 796,
+        "total_electors": 262513
+      },
+      "pre_sir": {
+        "male_electors": 144510,
+        "female_electors": 129956,
+        "third_gender_electors": 5,
+        "service_electors": 793,
+        "total_electors": 275264
+      },
+      "total_electors": 262513,
+      "male_electors": 139879,
+      "female_electors": 121836,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 275264,
+      "post_revision_electors": 262513
+    },
+    {
+      "ac_number": 146,
+      "ac_name": "Begusarai",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 181149,
+        "female_electors": 159623,
+        "third_gender_electors": 5,
+        "service_electors": 500,
+        "total_electors": 341277
+      },
+      "pre_sir": {
+        "male_electors": 194201,
+        "female_electors": 173824,
+        "third_gender_electors": 7,
+        "service_electors": 510,
+        "total_electors": 368542
+      },
+      "total_electors": 341277,
+      "male_electors": 181149,
+      "female_electors": 159623,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 368542,
+      "post_revision_electors": 341277
+    },
+    {
+      "ac_number": 147,
+      "ac_name": "Bakhri (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 154973,
+        "female_electors": 138533,
+        "third_gender_electors": 8,
+        "service_electors": 247,
+        "total_electors": 293761
+      },
+      "pre_sir": {
+        "male_electors": 157692,
+        "female_electors": 143332,
+        "third_gender_electors": 7,
+        "service_electors": 249,
+        "total_electors": 301280
+      },
+      "total_electors": 293761,
+      "male_electors": 154973,
+      "female_electors": 138533,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 301280,
+      "post_revision_electors": 293761
+    },
+    {
+      "ac_number": 148,
+      "ac_name": "Alauli (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 139060,
+        "female_electors": 126418,
+        "third_gender_electors": 8,
+        "service_electors": 199,
+        "total_electors": 265685
+      },
+      "pre_sir": {
+        "male_electors": 142077,
+        "female_electors": 130738,
+        "third_gender_electors": 9,
+        "service_electors": 207,
+        "total_electors": 273031
+      },
+      "total_electors": 265685,
+      "male_electors": 139060,
+      "female_electors": 126418,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 273031,
+      "post_revision_electors": 265685
+    },
+    {
+      "ac_number": 149,
+      "ac_name": "Khagaria",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 137509,
+        "female_electors": 122423,
+        "third_gender_electors": 1,
+        "service_electors": 737,
+        "total_electors": 260670
+      },
+      "pre_sir": {
+        "male_electors": 143402,
+        "female_electors": 130510,
+        "third_gender_electors": 1,
+        "service_electors": 749,
+        "total_electors": 274662
+      },
+      "total_electors": 260670,
+      "male_electors": 137509,
+      "female_electors": 122423,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 274662,
+      "post_revision_electors": 260670
+    },
+    {
+      "ac_number": 150,
+      "ac_name": "Beldaur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 169744,
+        "female_electors": 152600,
+        "third_gender_electors": 4,
+        "service_electors": 440,
+        "total_electors": 322788
+      },
+      "pre_sir": {
+        "male_electors": 173343,
+        "female_electors": 157754,
+        "third_gender_electors": 4,
+        "service_electors": 454,
+        "total_electors": 331555
+      },
+      "total_electors": 322788,
+      "male_electors": 169744,
+      "female_electors": 152600,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 331555,
+      "post_revision_electors": 322788
+    },
+    {
+      "ac_number": 151,
+      "ac_name": "Parbatta",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167552,
+        "female_electors": 147296,
+        "third_gender_electors": 4,
+        "service_electors": 1513,
+        "total_electors": 316365
+      },
+      "pre_sir": {
+        "male_electors": 173793,
+        "female_electors": 155956,
+        "third_gender_electors": 4,
+        "service_electors": 1559,
+        "total_electors": 331312
+      },
+      "total_electors": 316365,
+      "male_electors": 167552,
+      "female_electors": 147296,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 331312,
+      "post_revision_electors": 316365
+    },
+    {
+      "ac_number": 152,
+      "ac_name": "Bihpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 135093,
+        "female_electors": 128189,
+        "third_gender_electors": 12,
+        "service_electors": 892,
+        "total_electors": 264186
+      },
+      "pre_sir": {
+        "male_electors": 140309,
+        "female_electors": 139773,
+        "third_gender_electors": 20,
+        "service_electors": 929,
+        "total_electors": 281031
+      },
+      "total_electors": 264186,
+      "male_electors": 135093,
+      "female_electors": 128189,
+      "third_gender_electors": 12,
+      "pre_revision_electors": 281031,
+      "post_revision_electors": 264186
+    },
+    {
+      "ac_number": 153,
+      "ac_name": "Gopalpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 141492,
+        "female_electors": 133603,
+        "third_gender_electors": 7,
+        "service_electors": 882,
+        "total_electors": 275984
+      },
+      "pre_sir": {
+        "male_electors": 146166,
+        "female_electors": 143552,
+        "third_gender_electors": 11,
+        "service_electors": 914,
+        "total_electors": 290643
+      },
+      "total_electors": 275984,
+      "male_electors": 141492,
+      "female_electors": 133603,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 290643,
+      "post_revision_electors": 275984
+    },
+    {
+      "ac_number": 154,
+      "ac_name": "Pirpainti (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 176886,
+        "female_electors": 164592,
+        "third_gender_electors": 6,
+        "service_electors": 1294,
+        "total_electors": 342778
+      },
+      "pre_sir": {
+        "male_electors": 190753,
+        "female_electors": 186704,
+        "third_gender_electors": 10,
+        "service_electors": 1334,
+        "total_electors": 378801
+      },
+      "total_electors": 342778,
+      "male_electors": 176886,
+      "female_electors": 164592,
+      "third_gender_electors": 6,
+      "pre_revision_electors": 378801,
+      "post_revision_electors": 342778
+    },
+    {
+      "ac_number": 155,
+      "ac_name": "Kahalgaon",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 178432,
+        "female_electors": 164358,
+        "third_gender_electors": 14,
+        "service_electors": 427,
+        "total_electors": 343231
+      },
+      "pre_sir": {
+        "male_electors": 189659,
+        "female_electors": 183538,
+        "third_gender_electors": 20,
+        "service_electors": 434,
+        "total_electors": 373651
+      },
+      "total_electors": 343231,
+      "male_electors": 178432,
+      "female_electors": 164358,
+      "third_gender_electors": 14,
+      "pre_revision_electors": 373651,
+      "post_revision_electors": 343231
+    },
+    {
+      "ac_number": 156,
+      "ac_name": "Bhagalpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 175728,
+        "female_electors": 168399,
+        "third_gender_electors": 22,
+        "service_electors": 583,
+        "total_electors": 344732
+      },
+      "pre_sir": {
+        "male_electors": 178618,
+        "female_electors": 173978,
+        "third_gender_electors": 28,
+        "service_electors": 595,
+        "total_electors": 353219
+      },
+      "total_electors": 344732,
+      "male_electors": 175728,
+      "female_electors": 168399,
+      "third_gender_electors": 22,
+      "pre_revision_electors": 353219,
+      "post_revision_electors": 344732
+    },
+    {
+      "ac_number": 157,
+      "ac_name": "Sultanganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164799,
+        "female_electors": 151314,
+        "third_gender_electors": 18,
+        "service_electors": 1149,
+        "total_electors": 317280
+      },
+      "pre_sir": {
+        "male_electors": 176180,
+        "female_electors": 172993,
+        "third_gender_electors": 22,
+        "service_electors": 1210,
+        "total_electors": 350405
+      },
+      "total_electors": 317280,
+      "male_electors": 164799,
+      "female_electors": 151314,
+      "third_gender_electors": 18,
+      "pre_revision_electors": 350405,
+      "post_revision_electors": 317280
+    },
+    {
+      "ac_number": 158,
+      "ac_name": "Nathnagar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 171487,
+        "female_electors": 164033,
+        "third_gender_electors": 8,
+        "service_electors": 777,
+        "total_electors": 336305
+      },
+      "pre_sir": {
+        "male_electors": 180432,
+        "female_electors": 179991,
+        "third_gender_electors": 13,
+        "service_electors": 815,
+        "total_electors": 361251
+      },
+      "total_electors": 336305,
+      "male_electors": 171487,
+      "female_electors": 164033,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 361251,
+      "post_revision_electors": 336305
+    },
+    {
+      "ac_number": 159,
+      "ac_name": "Amarpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 157895,
+        "female_electors": 139341,
+        "third_gender_electors": 3,
+        "service_electors": 845,
+        "total_electors": 298084
+      },
+      "pre_sir": {
+        "male_electors": 165680,
+        "female_electors": 149402,
+        "third_gender_electors": 2,
+        "service_electors": 863,
+        "total_electors": 315947
+      },
+      "total_electors": 298084,
+      "male_electors": 157895,
+      "female_electors": 139341,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 315947,
+      "post_revision_electors": 298084
+    },
+    {
+      "ac_number": 160,
+      "ac_name": "Dhauraiya (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 161789,
+        "female_electors": 144358,
+        "third_gender_electors": 1,
+        "service_electors": 389,
+        "total_electors": 306537
+      },
+      "pre_sir": {
+        "male_electors": 169244,
+        "female_electors": 153968,
+        "third_gender_electors": 1,
+        "service_electors": 392,
+        "total_electors": 323605
+      },
+      "total_electors": 306537,
+      "male_electors": 161789,
+      "female_electors": 144358,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 323605,
+      "post_revision_electors": 306537
+    },
+    {
+      "ac_number": 161,
+      "ac_name": "Banka",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 137182,
+        "female_electors": 121639,
+        "third_gender_electors": 1,
+        "service_electors": 420,
+        "total_electors": 259242
+      },
+      "pre_sir": {
+        "male_electors": 144987,
+        "female_electors": 132481,
+        "third_gender_electors": 0,
+        "service_electors": 426,
+        "total_electors": 277894
+      },
+      "total_electors": 259242,
+      "male_electors": 137182,
+      "female_electors": 121639,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 277894,
+      "post_revision_electors": 259242
+    },
+    {
+      "ac_number": 162,
+      "ac_name": "Katoria (ST)",
+      "ac_type": "ST",
+      "post_sir": {
+        "male_electors": 140746,
+        "female_electors": 128392,
+        "third_gender_electors": 0,
+        "service_electors": 144,
+        "total_electors": 269282
+      },
+      "pre_sir": {
+        "male_electors": 147478,
+        "female_electors": 135622,
+        "third_gender_electors": 1,
+        "service_electors": 142,
+        "total_electors": 283243
+      },
+      "total_electors": 269282,
+      "male_electors": 140746,
+      "female_electors": 128392,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 283243,
+      "post_revision_electors": 269282
+    },
+    {
+      "ac_number": 163,
+      "ac_name": "Belhar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167621,
+        "female_electors": 151202,
+        "third_gender_electors": 1,
+        "service_electors": 288,
+        "total_electors": 319112
+      },
+      "pre_sir": {
+        "male_electors": 176362,
+        "female_electors": 162288,
+        "third_gender_electors": 0,
+        "service_electors": 287,
+        "total_electors": 338937
+      },
+      "total_electors": 319112,
+      "male_electors": 167621,
+      "female_electors": 151202,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 338937,
+      "post_revision_electors": 319112
+    },
+    {
+      "ac_number": 164,
+      "ac_name": "Tarapur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 176401,
+        "female_electors": 152389,
+        "third_gender_electors": 10,
+        "service_electors": 1409,
+        "total_electors": 330209
+      },
+      "pre_sir": {
+        "male_electors": 184088,
+        "female_electors": 160989,
+        "third_gender_electors": 10,
+        "service_electors": 1454,
+        "total_electors": 346541
+      },
+      "total_electors": 330209,
+      "male_electors": 176401,
+      "female_electors": 152389,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 346541,
+      "post_revision_electors": 330209
+    },
+    {
+      "ac_number": 165,
+      "ac_name": "Munger",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 179511,
+        "female_electors": 159357,
+        "third_gender_electors": 19,
+        "service_electors": 2070,
+        "total_electors": 340957
+      },
+      "pre_sir": {
+        "male_electors": 188108,
+        "female_electors": 167682,
+        "third_gender_electors": 21,
+        "service_electors": 2125,
+        "total_electors": 357936
+      },
+      "total_electors": 340957,
+      "male_electors": 179511,
+      "female_electors": 159357,
+      "third_gender_electors": 19,
+      "pre_revision_electors": 357936,
+      "post_revision_electors": 340957
+    },
+    {
+      "ac_number": 166,
+      "ac_name": "Jamalpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 175015,
+        "female_electors": 152963,
+        "third_gender_electors": 11,
+        "service_electors": 1874,
+        "total_electors": 329863
+      },
+      "pre_sir": {
+        "male_electors": 182844,
+        "female_electors": 160758,
+        "third_gender_electors": 11,
+        "service_electors": 1908,
+        "total_electors": 345521
+      },
+      "total_electors": 329863,
+      "male_electors": 175015,
+      "female_electors": 152963,
+      "third_gender_electors": 11,
+      "pre_revision_electors": 345521,
+      "post_revision_electors": 329863
+    },
+    {
+      "ac_number": 167,
+      "ac_name": "Suryagarha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 190469,
+        "female_electors": 165364,
+        "third_gender_electors": 1,
+        "service_electors": 1522,
+        "total_electors": 357356
+      },
+      "pre_sir": {
+        "male_electors": 197510,
+        "female_electors": 175004,
+        "third_gender_electors": 2,
+        "service_electors": 1563,
+        "total_electors": 374079
+      },
+      "total_electors": 357356,
+      "male_electors": 190469,
+      "female_electors": 165364,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 374079,
+      "post_revision_electors": 357356
+    },
+    {
+      "ac_number": 168,
+      "ac_name": "Lakhisarai",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 207707,
+        "female_electors": 181907,
+        "third_gender_electors": 10,
+        "service_electors": 1149,
+        "total_electors": 390773
+      },
+      "pre_sir": {
+        "male_electors": 214096,
+        "female_electors": 190873,
+        "third_gender_electors": 10,
+        "service_electors": 1169,
+        "total_electors": 406148
+      },
+      "total_electors": 390773,
+      "male_electors": 207707,
+      "female_electors": 181907,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 406148,
+      "post_revision_electors": 390773
+    },
+    {
+      "ac_number": 169,
+      "ac_name": "Sheikhpura",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 137640,
+        "female_electors": 124348,
+        "third_gender_electors": 2,
+        "service_electors": 373,
+        "total_electors": 262363
+      },
+      "pre_sir": {
+        "male_electors": 140588,
+        "female_electors": 128170,
+        "third_gender_electors": 2,
+        "service_electors": 381,
+        "total_electors": 269141
+      },
+      "total_electors": 262363,
+      "male_electors": 137640,
+      "female_electors": 124348,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 269141,
+      "post_revision_electors": 262363
+    },
+    {
+      "ac_number": 170,
+      "ac_name": "Barbigha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 121335,
+        "female_electors": 109866,
+        "third_gender_electors": 2,
+        "service_electors": 573,
+        "total_electors": 231776
+      },
+      "pre_sir": {
+        "male_electors": 124666,
+        "female_electors": 113790,
+        "third_gender_electors": 1,
+        "service_electors": 575,
+        "total_electors": 239032
+      },
+      "total_electors": 231776,
+      "male_electors": 121335,
+      "female_electors": 109866,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 239032,
+      "post_revision_electors": 231776
+    },
+    {
+      "ac_number": 171,
+      "ac_name": "Asthawan",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 159726,
+        "female_electors": 142100,
+        "third_gender_electors": 7,
+        "service_electors": 606,
+        "total_electors": 302439
+      },
+      "pre_sir": {
+        "male_electors": 162599,
+        "female_electors": 145920,
+        "third_gender_electors": 7,
+        "service_electors": 608,
+        "total_electors": 309134
+      },
+      "total_electors": 302439,
+      "male_electors": 159726,
+      "female_electors": 142100,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 309134,
+      "post_revision_electors": 302439
+    },
+    {
+      "ac_number": 172,
+      "ac_name": "Biharsharif",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 202407,
+        "female_electors": 185670,
+        "third_gender_electors": 18,
+        "service_electors": 787,
+        "total_electors": 388882
+      },
+      "pre_sir": {
+        "male_electors": 204166,
+        "female_electors": 187879,
+        "third_gender_electors": 23,
+        "service_electors": 800,
+        "total_electors": 392868
+      },
+      "total_electors": 388882,
+      "male_electors": 202407,
+      "female_electors": 185670,
+      "third_gender_electors": 18,
+      "pre_revision_electors": 392868,
+      "post_revision_electors": 388882
+    },
+    {
+      "ac_number": 173,
+      "ac_name": "Rajgir (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 156679,
+        "female_electors": 141346,
+        "third_gender_electors": 5,
+        "service_electors": 887,
+        "total_electors": 298917
+      },
+      "pre_sir": {
+        "male_electors": 163789,
+        "female_electors": 151111,
+        "third_gender_electors": 5,
+        "service_electors": 897,
+        "total_electors": 315802
+      },
+      "total_electors": 298917,
+      "male_electors": 156679,
+      "female_electors": 141346,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 315802,
+      "post_revision_electors": 298917
+    },
+    {
+      "ac_number": 174,
+      "ac_name": "Islampur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 160146,
+        "female_electors": 140762,
+        "third_gender_electors": 3,
+        "service_electors": 1045,
+        "total_electors": 301956
+      },
+      "pre_sir": {
+        "male_electors": 163676,
+        "female_electors": 146950,
+        "third_gender_electors": 7,
+        "service_electors": 1046,
+        "total_electors": 311679
+      },
+      "total_electors": 301956,
+      "male_electors": 160146,
+      "female_electors": 140762,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 311679,
+      "post_revision_electors": 301956
+    },
+    {
+      "ac_number": 175,
+      "ac_name": "Hilsa",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 159535,
+        "female_electors": 143658,
+        "third_gender_electors": 5,
+        "service_electors": 750,
+        "total_electors": 303948
+      },
+      "pre_sir": {
+        "male_electors": 163590,
+        "female_electors": 151026,
+        "third_gender_electors": 6,
+        "service_electors": 756,
+        "total_electors": 315378
+      },
+      "total_electors": 303948,
+      "male_electors": 159535,
+      "female_electors": 143658,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 315378,
+      "post_revision_electors": 303948
+    },
+    {
+      "ac_number": 176,
+      "ac_name": "Nalanda",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 170995,
+        "female_electors": 152957,
+        "third_gender_electors": 9,
+        "service_electors": 849,
+        "total_electors": 324810
+      },
+      "pre_sir": {
+        "male_electors": 174068,
+        "female_electors": 156572,
+        "third_gender_electors": 12,
+        "service_electors": 857,
+        "total_electors": 331509
+      },
+      "total_electors": 324810,
+      "male_electors": 170995,
+      "female_electors": 152957,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 331509,
+      "post_revision_electors": 324810
+    },
+    {
+      "ac_number": 177,
+      "ac_name": "Harnaut",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167923,
+        "female_electors": 150042,
+        "third_gender_electors": 6,
+        "service_electors": 670,
+        "total_electors": 318641
+      },
+      "pre_sir": {
+        "male_electors": 171058,
+        "female_electors": 154860,
+        "third_gender_electors": 6,
+        "service_electors": 678,
+        "total_electors": 326602
+      },
+      "total_electors": 318641,
+      "male_electors": 167923,
+      "female_electors": 150042,
+      "third_gender_electors": 6,
+      "pre_revision_electors": 326602,
+      "post_revision_electors": 318641
+    },
+    {
+      "ac_number": 178,
+      "ac_name": "Mokama",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150355,
+        "female_electors": 133751,
+        "third_gender_electors": 2,
+        "service_electors": 1388,
+        "total_electors": 285496
+      },
+      "pre_sir": {
+        "male_electors": 155461,
+        "female_electors": 141500,
+        "third_gender_electors": 3,
+        "service_electors": 1409,
+        "total_electors": 298373
+      },
+      "total_electors": 285496,
+      "male_electors": 150355,
+      "female_electors": 133751,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 298373,
+      "post_revision_electors": 285496
+    },
+    {
+      "ac_number": 179,
+      "ac_name": "Barh",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 154168,
+        "female_electors": 136767,
+        "third_gender_electors": 2,
+        "service_electors": 1133,
+        "total_electors": 292070
+      },
+      "pre_sir": {
+        "male_electors": 158058,
+        "female_electors": 142013,
+        "third_gender_electors": 3,
+        "service_electors": 1156,
+        "total_electors": 301230
+      },
+      "total_electors": 292070,
+      "male_electors": 154168,
+      "female_electors": 136767,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 301230,
+      "post_revision_electors": 292070
+    },
+    {
+      "ac_number": 180,
+      "ac_name": "Bakhtiarpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 156973,
+        "female_electors": 139402,
+        "third_gender_electors": 5,
+        "service_electors": 950,
+        "total_electors": 297330
+      },
+      "pre_sir": {
+        "male_electors": 161155,
+        "female_electors": 144400,
+        "third_gender_electors": 7,
+        "service_electors": 961,
+        "total_electors": 306523
+      },
+      "total_electors": 297330,
+      "male_electors": 156973,
+      "female_electors": 139402,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 306523,
+      "post_revision_electors": 297330
+    },
+    {
+      "ac_number": 181,
+      "ac_name": "Digha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 238689,
+        "female_electors": 217739,
+        "third_gender_electors": 20,
+        "service_electors": 710,
+        "total_electors": 457158
+      },
+      "pre_sir": {
+        "male_electors": 255969,
+        "female_electors": 232532,
+        "third_gender_electors": 19,
+        "service_electors": 717,
+        "total_electors": 489237
+      },
+      "total_electors": 457158,
+      "male_electors": 238689,
+      "female_electors": 217739,
+      "third_gender_electors": 20,
+      "pre_revision_electors": 489237,
+      "post_revision_electors": 457158
+    },
+    {
+      "ac_number": 182,
+      "ac_name": "Bankipur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 199591,
+        "female_electors": 178653,
+        "third_gender_electors": 24,
+        "service_electors": 269,
+        "total_electors": 378537
+      },
+      "pre_sir": {
+        "male_electors": 212927,
+        "female_electors": 189386,
+        "third_gender_electors": 26,
+        "service_electors": 274,
+        "total_electors": 402613
+      },
+      "total_electors": 378537,
+      "male_electors": 199591,
+      "female_electors": 178653,
+      "third_gender_electors": 24,
+      "pre_revision_electors": 402613,
+      "post_revision_electors": 378537
+    },
+    {
+      "ac_number": 183,
+      "ac_name": "Kumhrar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 227821,
+        "female_electors": 202170,
+        "third_gender_electors": 25,
+        "service_electors": 349,
+        "total_electors": 430365
+      },
+      "pre_sir": {
+        "male_electors": 233533,
+        "female_electors": 205928,
+        "third_gender_electors": 26,
+        "service_electors": 361,
+        "total_electors": 439848
+      },
+      "total_electors": 430365,
+      "male_electors": 227821,
+      "female_electors": 202170,
+      "third_gender_electors": 25,
+      "pre_revision_electors": 439848,
+      "post_revision_electors": 430365
+    },
+    {
+      "ac_number": 184,
+      "ac_name": "Patna Sahib",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 202170,
+        "female_electors": 186175,
+        "third_gender_electors": 24,
+        "service_electors": 368,
+        "total_electors": 388737
+      },
+      "pre_sir": {
+        "male_electors": 203001,
+        "female_electors": 186050,
+        "third_gender_electors": 24,
+        "service_electors": 373,
+        "total_electors": 389448
+      },
+      "total_electors": 388737,
+      "male_electors": 202170,
+      "female_electors": 186175,
+      "third_gender_electors": 24,
+      "pre_revision_electors": 389448,
+      "post_revision_electors": 388737
+    },
+    {
+      "ac_number": 185,
+      "ac_name": "Fatuha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150797,
+        "female_electors": 133857,
+        "third_gender_electors": 7,
+        "service_electors": 695,
+        "total_electors": 285356
+      },
+      "pre_sir": {
+        "male_electors": 151632,
+        "female_electors": 136607,
+        "third_gender_electors": 5,
+        "service_electors": 688,
+        "total_electors": 288932
+      },
+      "total_electors": 285356,
+      "male_electors": 150797,
+      "female_electors": 133857,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 288932,
+      "post_revision_electors": 285356
+    },
+    {
+      "ac_number": 186,
+      "ac_name": "Danapur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 197486,
+        "female_electors": 176697,
+        "third_gender_electors": 10,
+        "service_electors": 1303,
+        "total_electors": 375496
+      },
+      "pre_sir": {
+        "male_electors": 200598,
+        "female_electors": 178480,
+        "third_gender_electors": 10,
+        "service_electors": 1308,
+        "total_electors": 380396
+      },
+      "total_electors": 375496,
+      "male_electors": 197486,
+      "female_electors": 176697,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 380396,
+      "post_revision_electors": 375496
+    },
+    {
+      "ac_number": 187,
+      "ac_name": "Maner",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 175428,
+        "female_electors": 156023,
+        "third_gender_electors": 10,
+        "service_electors": 1354,
+        "total_electors": 332815
+      },
+      "pre_sir": {
+        "male_electors": 183690,
+        "female_electors": 164938,
+        "third_gender_electors": 9,
+        "service_electors": 1383,
+        "total_electors": 350020
+      },
+      "total_electors": 332815,
+      "male_electors": 175428,
+      "female_electors": 156023,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 350020,
+      "post_revision_electors": 332815
+    },
+    {
+      "ac_number": 188,
+      "ac_name": "Phulwari (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 203389,
+        "female_electors": 180735,
+        "third_gender_electors": 14,
+        "service_electors": 544,
+        "total_electors": 384682
+      },
+      "pre_sir": {
+        "male_electors": 209999,
+        "female_electors": 186734,
+        "third_gender_electors": 11,
+        "service_electors": 559,
+        "total_electors": 397303
+      },
+      "total_electors": 384682,
+      "male_electors": 203389,
+      "female_electors": 180735,
+      "third_gender_electors": 14,
+      "pre_revision_electors": 397303,
+      "post_revision_electors": 384682
+    },
+    {
+      "ac_number": 189,
+      "ac_name": "Masaurhi (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 170611,
+        "female_electors": 154531,
+        "third_gender_electors": 0,
+        "service_electors": 822,
+        "total_electors": 325964
+      },
+      "pre_sir": {
+        "male_electors": 182681,
+        "female_electors": 169193,
+        "third_gender_electors": 0,
+        "service_electors": 834,
+        "total_electors": 352708
+      },
+      "total_electors": 325964,
+      "male_electors": 170611,
+      "female_electors": 154531,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 352708,
+      "post_revision_electors": 325964
+    },
+    {
+      "ac_number": 190,
+      "ac_name": "Paliganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 149721,
+        "female_electors": 133815,
+        "third_gender_electors": 1,
+        "service_electors": 1101,
+        "total_electors": 284638
+      },
+      "pre_sir": {
+        "male_electors": 154433,
+        "female_electors": 141164,
+        "third_gender_electors": 7,
+        "service_electors": 1141,
+        "total_electors": 296745
+      },
+      "total_electors": 284638,
+      "male_electors": 149721,
+      "female_electors": 133815,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 296745,
+      "post_revision_electors": 284638
+    },
+    {
+      "ac_number": 191,
+      "ac_name": "Bikram",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 163164,
+        "female_electors": 144459,
+        "third_gender_electors": 13,
+        "service_electors": 1389,
+        "total_electors": 309025
+      },
+      "pre_sir": {
+        "male_electors": 168122,
+        "female_electors": 152710,
+        "third_gender_electors": 17,
+        "service_electors": 1420,
+        "total_electors": 322269
+      },
+      "total_electors": 309025,
+      "male_electors": 163164,
+      "female_electors": 144459,
+      "third_gender_electors": 13,
+      "pre_revision_electors": 322269,
+      "post_revision_electors": 309025
+    },
+    {
+      "ac_number": 192,
+      "ac_name": "Sandesh",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150574,
+        "female_electors": 135897,
+        "third_gender_electors": 1,
+        "service_electors": 2736,
+        "total_electors": 289208
+      },
+      "pre_sir": {
+        "male_electors": 156841,
+        "female_electors": 140935,
+        "third_gender_electors": 2,
+        "service_electors": 2810,
+        "total_electors": 300588
+      },
+      "total_electors": 289208,
+      "male_electors": 150574,
+      "female_electors": 135897,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 300588,
+      "post_revision_electors": 289208
+    },
+    {
+      "ac_number": 193,
+      "ac_name": "Barhara",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 161661,
+        "female_electors": 143903,
+        "third_gender_electors": 8,
+        "service_electors": 3343,
+        "total_electors": 308915
+      },
+      "pre_sir": {
+        "male_electors": 169898,
+        "female_electors": 145466,
+        "third_gender_electors": 7,
+        "service_electors": 3407,
+        "total_electors": 318778
+      },
+      "total_electors": 308915,
+      "male_electors": 161661,
+      "female_electors": 143903,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 318778,
+      "post_revision_electors": 308915
+    },
+    {
+      "ac_number": 194,
+      "ac_name": "Arrah",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 172791,
+        "female_electors": 150580,
+        "third_gender_electors": 5,
+        "service_electors": 2063,
+        "total_electors": 325439
+      },
+      "pre_sir": {
+        "male_electors": 182296,
+        "female_electors": 156236,
+        "third_gender_electors": 5,
+        "service_electors": 2097,
+        "total_electors": 340634
+      },
+      "total_electors": 325439,
+      "male_electors": 172791,
+      "female_electors": 150580,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 340634,
+      "post_revision_electors": 325439
+    },
+    {
+      "ac_number": 195,
+      "ac_name": "Agiaon (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 138704,
+        "female_electors": 121992,
+        "third_gender_electors": 0,
+        "service_electors": 1445,
+        "total_electors": 262141
+      },
+      "pre_sir": {
+        "male_electors": 144835,
+        "female_electors": 128391,
+        "third_gender_electors": 0,
+        "service_electors": 1463,
+        "total_electors": 274689
+      },
+      "total_electors": 262141,
+      "male_electors": 138704,
+      "female_electors": 121992,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 274689,
+      "post_revision_electors": 262141
+    },
+    {
+      "ac_number": 196,
+      "ac_name": "Tarari",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 159757,
+        "female_electors": 138611,
+        "third_gender_electors": 3,
+        "service_electors": 1858,
+        "total_electors": 300229
+      },
+      "pre_sir": {
+        "male_electors": 164928,
+        "female_electors": 146378,
+        "third_gender_electors": 5,
+        "service_electors": 1909,
+        "total_electors": 313220
+      },
+      "total_electors": 300229,
+      "male_electors": 159757,
+      "female_electors": 138611,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 313220,
+      "post_revision_electors": 300229
+    },
+    {
+      "ac_number": 197,
+      "ac_name": "Jagdishpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 160806,
+        "female_electors": 142145,
+        "third_gender_electors": 7,
+        "service_electors": 2310,
+        "total_electors": 305268
+      },
+      "pre_sir": {
+        "male_electors": 167256,
+        "female_electors": 149496,
+        "third_gender_electors": 10,
+        "service_electors": 2360,
+        "total_electors": 319122
+      },
+      "total_electors": 305268,
+      "male_electors": 160806,
+      "female_electors": 142145,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 319122,
+      "post_revision_electors": 305268
+    },
+    {
+      "ac_number": 198,
+      "ac_name": "Shahpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 162317,
+        "female_electors": 140839,
+        "third_gender_electors": 4,
+        "service_electors": 3547,
+        "total_electors": 306707
+      },
+      "pre_sir": {
+        "male_electors": 171989,
+        "female_electors": 149278,
+        "third_gender_electors": 6,
+        "service_electors": 3585,
+        "total_electors": 324858
+      },
+      "total_electors": 306707,
+      "male_electors": 162317,
+      "female_electors": 140839,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 324858,
+      "post_revision_electors": 306707
+    },
+    {
+      "ac_number": 199,
+      "ac_name": "Brahampur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 180839,
+        "female_electors": 160539,
+        "third_gender_electors": 2,
+        "service_electors": 3550,
+        "total_electors": 344930
+      },
+      "pre_sir": {
+        "male_electors": 185692,
+        "female_electors": 171484,
+        "third_gender_electors": 3,
+        "service_electors": 3604,
+        "total_electors": 360783
+      },
+      "total_electors": 344930,
+      "male_electors": 180839,
+      "female_electors": 160539,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 360783,
+      "post_revision_electors": 344930
+    },
+    {
+      "ac_number": 200,
+      "ac_name": "Buxar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150063,
+        "female_electors": 135477,
+        "third_gender_electors": 4,
+        "service_electors": 1956,
+        "total_electors": 287500
+      },
+      "pre_sir": {
+        "male_electors": 156007,
+        "female_electors": 147625,
+        "third_gender_electors": 5,
+        "service_electors": 1965,
+        "total_electors": 305602
+      },
+      "total_electors": 287500,
+      "male_electors": 150063,
+      "female_electors": 135477,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 305602,
+      "post_revision_electors": 287500
+    },
+    {
+      "ac_number": 201,
+      "ac_name": "Dumraon",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 170513,
+        "female_electors": 151196,
+        "third_gender_electors": 3,
+        "service_electors": 2296,
+        "total_electors": 324008
+      },
+      "pre_sir": {
+        "male_electors": 174995,
+        "female_electors": 160846,
+        "third_gender_electors": 5,
+        "service_electors": 2323,
+        "total_electors": 338169
+      },
+      "total_electors": 324008,
+      "male_electors": 170513,
+      "female_electors": 151196,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 338169,
+      "post_revision_electors": 324008
+    },
+    {
+      "ac_number": 202,
+      "ac_name": "Rajpur (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 175232,
+        "female_electors": 159745,
+        "third_gender_electors": 2,
+        "service_electors": 842,
+        "total_electors": 335821
+      },
+      "pre_sir": {
+        "male_electors": 176727,
+        "female_electors": 167215,
+        "third_gender_electors": 0,
+        "service_electors": 845,
+        "total_electors": 344787
+      },
+      "total_electors": 335821,
+      "male_electors": 175232,
+      "female_electors": 159745,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 344787,
+      "post_revision_electors": 335821
+    },
+    {
+      "ac_number": 203,
+      "ac_name": "Ramgarh",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 151207,
+        "female_electors": 133890,
+        "third_gender_electors": 3,
+        "service_electors": 1056,
+        "total_electors": 286156
+      },
+      "pre_sir": {
+        "male_electors": 152204,
+        "female_electors": 140494,
+        "third_gender_electors": 2,
+        "service_electors": 1060,
+        "total_electors": 293760
+      },
+      "total_electors": 286156,
+      "male_electors": 151207,
+      "female_electors": 133890,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 293760,
+      "post_revision_electors": 286156
+    },
+    {
+      "ac_number": 204,
+      "ac_name": "Mohania (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 146453,
+        "female_electors": 130168,
+        "third_gender_electors": 1,
+        "service_electors": 713,
+        "total_electors": 277335
+      },
+      "pre_sir": {
+        "male_electors": 149266,
+        "female_electors": 138014,
+        "third_gender_electors": 0,
+        "service_electors": 709,
+        "total_electors": 287989
+      },
+      "total_electors": 277335,
+      "male_electors": 146453,
+      "female_electors": 130168,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 287989,
+      "post_revision_electors": 277335
+    },
+    {
+      "ac_number": 205,
+      "ac_name": "Bhabua",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 148057,
+        "female_electors": 131068,
+        "third_gender_electors": 2,
+        "service_electors": 800,
+        "total_electors": 279927
+      },
+      "pre_sir": {
+        "male_electors": 149502,
+        "female_electors": 137128,
+        "third_gender_electors": 2,
+        "service_electors": 812,
+        "total_electors": 287444
+      },
+      "total_electors": 279927,
+      "male_electors": 148057,
+      "female_electors": 131068,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 287444,
+      "post_revision_electors": 279927
+    },
+    {
+      "ac_number": 206,
+      "ac_name": "Chainpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 173802,
+        "female_electors": 153985,
+        "third_gender_electors": 2,
+        "service_electors": 433,
+        "total_electors": 328222
+      },
+      "pre_sir": {
+        "male_electors": 177521,
+        "female_electors": 162116,
+        "third_gender_electors": 0,
+        "service_electors": 439,
+        "total_electors": 340076
+      },
+      "total_electors": 328222,
+      "male_electors": 173802,
+      "female_electors": 153985,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 340076,
+      "post_revision_electors": 328222
+    },
+    {
+      "ac_number": 207,
+      "ac_name": "Chenari (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 163254,
+        "female_electors": 143392,
+        "third_gender_electors": 2,
+        "service_electors": 971,
+        "total_electors": 307619
+      },
+      "pre_sir": {
+        "male_electors": 167921,
+        "female_electors": 153533,
+        "third_gender_electors": 4,
+        "service_electors": 973,
+        "total_electors": 322431
+      },
+      "total_electors": 307619,
+      "male_electors": 163254,
+      "female_electors": 143392,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 322431,
+      "post_revision_electors": 307619
+    },
+    {
+      "ac_number": 208,
+      "ac_name": "Sasaram",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 184704,
+        "female_electors": 167259,
+        "third_gender_electors": 10,
+        "service_electors": 972,
+        "total_electors": 352945
+      },
+      "pre_sir": {
+        "male_electors": 190367,
+        "female_electors": 175371,
+        "third_gender_electors": 10,
+        "service_electors": 982,
+        "total_electors": 366730
+      },
+      "total_electors": 352945,
+      "male_electors": 184704,
+      "female_electors": 167259,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 366730,
+      "post_revision_electors": 352945
+    },
+    {
+      "ac_number": 209,
+      "ac_name": "Kargahar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 175897,
+        "female_electors": 152421,
+        "third_gender_electors": 9,
+        "service_electors": 542,
+        "total_electors": 328869
+      },
+      "pre_sir": {
+        "male_electors": 176817,
+        "female_electors": 160130,
+        "third_gender_electors": 11,
+        "service_electors": 542,
+        "total_electors": 337500
+      },
+      "total_electors": 328869,
+      "male_electors": 175897,
+      "female_electors": 152421,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 337500,
+      "post_revision_electors": 328869
+    },
+    {
+      "ac_number": 210,
+      "ac_name": "Dinara",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 161450,
+        "female_electors": 142814,
+        "third_gender_electors": 3,
+        "service_electors": 1169,
+        "total_electors": 305436
+      },
+      "pre_sir": {
+        "male_electors": 163853,
+        "female_electors": 148533,
+        "third_gender_electors": 3,
+        "service_electors": 1180,
+        "total_electors": 313569
+      },
+      "total_electors": 305436,
+      "male_electors": 161450,
+      "female_electors": 142814,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 313569,
+      "post_revision_electors": 305436
+    },
+    {
+      "ac_number": 211,
+      "ac_name": "Nokha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 154856,
+        "female_electors": 139151,
+        "third_gender_electors": 5,
+        "service_electors": 1080,
+        "total_electors": 295092
+      },
+      "pre_sir": {
+        "male_electors": 156670,
+        "female_electors": 145751,
+        "third_gender_electors": 5,
+        "service_electors": 1088,
+        "total_electors": 303514
+      },
+      "total_electors": 295092,
+      "male_electors": 154856,
+      "female_electors": 139151,
+      "third_gender_electors": 5,
+      "pre_revision_electors": 303514,
+      "post_revision_electors": 295092
+    },
+    {
+      "ac_number": 212,
+      "ac_name": "Dehri",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 155276,
+        "female_electors": 141745,
+        "third_gender_electors": 7,
+        "service_electors": 945,
+        "total_electors": 297973
+      },
+      "pre_sir": {
+        "male_electors": 156973,
+        "female_electors": 144574,
+        "third_gender_electors": 6,
+        "service_electors": 944,
+        "total_electors": 302497
+      },
+      "total_electors": 297973,
+      "male_electors": 155276,
+      "female_electors": 141745,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 302497,
+      "post_revision_electors": 297973
+    },
+    {
+      "ac_number": 213,
+      "ac_name": "Karakat",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 173593,
+        "female_electors": 154821,
+        "third_gender_electors": 20,
+        "service_electors": 1994,
+        "total_electors": 330428
+      },
+      "pre_sir": {
+        "male_electors": 177630,
+        "female_electors": 164644,
+        "third_gender_electors": 23,
+        "service_electors": 2045,
+        "total_electors": 344342
+      },
+      "total_electors": 330428,
+      "male_electors": 173593,
+      "female_electors": 154821,
+      "third_gender_electors": 20,
+      "pre_revision_electors": 344342,
+      "post_revision_electors": 330428
+    },
+    {
+      "ac_number": 214,
+      "ac_name": "Arwal",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 140559,
+        "female_electors": 125330,
+        "third_gender_electors": 2,
+        "service_electors": 1743,
+        "total_electors": 267634
+      },
+      "pre_sir": {
+        "male_electors": 143182,
+        "female_electors": 131325,
+        "third_gender_electors": 1,
+        "service_electors": 1800,
+        "total_electors": 276308
+      },
+      "total_electors": 267634,
+      "male_electors": 140559,
+      "female_electors": 125330,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 276308,
+      "post_revision_electors": 267634
+    },
+    {
+      "ac_number": 215,
+      "ac_name": "Kurtha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 135868,
+        "female_electors": 121682,
+        "third_gender_electors": 3,
+        "service_electors": 805,
+        "total_electors": 258358
+      },
+      "pre_sir": {
+        "male_electors": 137341,
+        "female_electors": 126367,
+        "third_gender_electors": 2,
+        "service_electors": 819,
+        "total_electors": 264529
+      },
+      "total_electors": 258358,
+      "male_electors": 135868,
+      "female_electors": 121682,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 264529,
+      "post_revision_electors": 258358
+    },
+    {
+      "ac_number": 216,
+      "ac_name": "Jehanabad",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 158716,
+        "female_electors": 141856,
+        "third_gender_electors": 3,
+        "service_electors": 1433,
+        "total_electors": 302008
+      },
+      "pre_sir": {
+        "male_electors": 162307,
+        "female_electors": 147741,
+        "third_gender_electors": 2,
+        "service_electors": 1463,
+        "total_electors": 311513
+      },
+      "total_electors": 302008,
+      "male_electors": 158716,
+      "female_electors": 141856,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 311513,
+      "post_revision_electors": 302008
+    },
+    {
+      "ac_number": 217,
+      "ac_name": "Ghosi",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 137226,
+        "female_electors": 121143,
+        "third_gender_electors": 9,
+        "service_electors": 1592,
+        "total_electors": 259970
+      },
+      "pre_sir": {
+        "male_electors": 140560,
+        "female_electors": 126058,
+        "third_gender_electors": 18,
+        "service_electors": 1621,
+        "total_electors": 268257
+      },
+      "total_electors": 259970,
+      "male_electors": 137226,
+      "female_electors": 121143,
+      "third_gender_electors": 9,
+      "pre_revision_electors": 268257,
+      "post_revision_electors": 259970
+    },
+    {
+      "ac_number": 218,
+      "ac_name": "Makhdumpur (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 130751,
+        "female_electors": 115950,
+        "third_gender_electors": 1,
+        "service_electors": 1432,
+        "total_electors": 248134
+      },
+      "pre_sir": {
+        "male_electors": 132856,
+        "female_electors": 118938,
+        "third_gender_electors": 1,
+        "service_electors": 1472,
+        "total_electors": 253267
+      },
+      "total_electors": 248134,
+      "male_electors": 130751,
+      "female_electors": 115950,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 253267,
+      "post_revision_electors": 248134
+    },
+    {
+      "ac_number": 219,
+      "ac_name": "Goh",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 163870,
+        "female_electors": 147730,
+        "third_gender_electors": 4,
+        "service_electors": 780,
+        "total_electors": 312384
+      },
+      "pre_sir": {
+        "male_electors": 167722,
+        "female_electors": 154937,
+        "third_gender_electors": 4,
+        "service_electors": 783,
+        "total_electors": 323446
+      },
+      "total_electors": 312384,
+      "male_electors": 163870,
+      "female_electors": 147730,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 323446,
+      "post_revision_electors": 312384
+    },
+    {
+      "ac_number": 220,
+      "ac_name": "Obra",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 168255,
+        "female_electors": 149448,
+        "third_gender_electors": 10,
+        "service_electors": 1223,
+        "total_electors": 318936
+      },
+      "pre_sir": {
+        "male_electors": 175242,
+        "female_electors": 158702,
+        "third_gender_electors": 16,
+        "service_electors": 1233,
+        "total_electors": 335193
+      },
+      "total_electors": 318936,
+      "male_electors": 168255,
+      "female_electors": 149448,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 335193,
+      "post_revision_electors": 318936
+    },
+    {
+      "ac_number": 221,
+      "ac_name": "Nabinagar",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 149349,
+        "female_electors": 132112,
+        "third_gender_electors": 7,
+        "service_electors": 571,
+        "total_electors": 282039
+      },
+      "pre_sir": {
+        "male_electors": 155382,
+        "female_electors": 140221,
+        "third_gender_electors": 8,
+        "service_electors": 577,
+        "total_electors": 296188
+      },
+      "total_electors": 282039,
+      "male_electors": 149349,
+      "female_electors": 132112,
+      "third_gender_electors": 7,
+      "pre_revision_electors": 296188,
+      "post_revision_electors": 282039
+    },
+    {
+      "ac_number": 222,
+      "ac_name": "Kutumba (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 144356,
+        "female_electors": 126973,
+        "third_gender_electors": 4,
+        "service_electors": 288,
+        "total_electors": 271621
+      },
+      "pre_sir": {
+        "male_electors": 150078,
+        "female_electors": 134723,
+        "third_gender_electors": 4,
+        "service_electors": 287,
+        "total_electors": 285092
+      },
+      "total_electors": 271621,
+      "male_electors": 144356,
+      "female_electors": 126973,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 285092,
+      "post_revision_electors": 271621
+    },
+    {
+      "ac_number": 223,
+      "ac_name": "Aurangabad",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164334,
+        "female_electors": 146832,
+        "third_gender_electors": 6,
+        "service_electors": 606,
+        "total_electors": 311778
+      },
+      "pre_sir": {
+        "male_electors": 172294,
+        "female_electors": 157427,
+        "third_gender_electors": 6,
+        "service_electors": 606,
+        "total_electors": 330333
+      },
+      "total_electors": 311778,
+      "male_electors": 164334,
+      "female_electors": 146832,
+      "third_gender_electors": 6,
+      "pre_revision_electors": 330333,
+      "post_revision_electors": 311778
+    },
+    {
+      "ac_number": 224,
+      "ac_name": "Rafiganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 174536,
+        "female_electors": 156589,
+        "third_gender_electors": 0,
+        "service_electors": 688,
+        "total_electors": 331813
+      },
+      "pre_sir": {
+        "male_electors": 181730,
+        "female_electors": 165102,
+        "third_gender_electors": 0,
+        "service_electors": 693,
+        "total_electors": 347525
+      },
+      "total_electors": 331813,
+      "male_electors": 174536,
+      "female_electors": 156589,
+      "third_gender_electors": 0,
+      "pre_revision_electors": 347525,
+      "post_revision_electors": 331813
+    },
+    {
+      "ac_number": 225,
+      "ac_name": "Gurua",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 150438,
+        "female_electors": 133549,
+        "third_gender_electors": 2,
+        "service_electors": 631,
+        "total_electors": 284620
+      },
+      "pre_sir": {
+        "male_electors": 154574,
+        "female_electors": 142084,
+        "third_gender_electors": 2,
+        "service_electors": 627,
+        "total_electors": 297287
+      },
+      "total_electors": 284620,
+      "male_electors": 150438,
+      "female_electors": 133549,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 297287,
+      "post_revision_electors": 284620
+    },
+    {
+      "ac_number": 226,
+      "ac_name": "Sherghati",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 145019,
+        "female_electors": 132436,
+        "third_gender_electors": 6,
+        "service_electors": 274,
+        "total_electors": 277735
+      },
+      "pre_sir": {
+        "male_electors": 148666,
+        "female_electors": 138403,
+        "third_gender_electors": 7,
+        "service_electors": 268,
+        "total_electors": 287344
+      },
+      "total_electors": 277735,
+      "male_electors": 145019,
+      "female_electors": 132436,
+      "third_gender_electors": 6,
+      "pre_revision_electors": 287344,
+      "post_revision_electors": 277735
+    },
+    {
+      "ac_number": 227,
+      "ac_name": "Imamganj (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 158245,
+        "female_electors": 142635,
+        "third_gender_electors": 8,
+        "service_electors": 295,
+        "total_electors": 301183
+      },
+      "pre_sir": {
+        "male_electors": 164998,
+        "female_electors": 152668,
+        "third_gender_electors": 8,
+        "service_electors": 293,
+        "total_electors": 317967
+      },
+      "total_electors": 301183,
+      "male_electors": 158245,
+      "female_electors": 142635,
+      "third_gender_electors": 8,
+      "pre_revision_electors": 317967,
+      "post_revision_electors": 301183
+    },
+    {
+      "ac_number": 228,
+      "ac_name": "Barachatti (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 162357,
+        "female_electors": 146682,
+        "third_gender_electors": 1,
+        "service_electors": 211,
+        "total_electors": 309251
+      },
+      "pre_sir": {
+        "male_electors": 167316,
+        "female_electors": 154765,
+        "third_gender_electors": 2,
+        "service_electors": 199,
+        "total_electors": 322282
+      },
+      "total_electors": 309251,
+      "male_electors": 162357,
+      "female_electors": 146682,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 322282,
+      "post_revision_electors": 309251
+    },
+    {
+      "ac_number": 229,
+      "ac_name": "Bodh Gaya (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 170452,
+        "female_electors": 154788,
+        "third_gender_electors": 2,
+        "service_electors": 827,
+        "total_electors": 326069
+      },
+      "pre_sir": {
+        "male_electors": 173303,
+        "female_electors": 159122,
+        "third_gender_electors": 3,
+        "service_electors": 814,
+        "total_electors": 333242
+      },
+      "total_electors": 326069,
+      "male_electors": 170452,
+      "female_electors": 154788,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 333242,
+      "post_revision_electors": 326069
+    },
+    {
+      "ac_number": 230,
+      "ac_name": "Gaya Town",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 144947,
+        "female_electors": 133609,
+        "third_gender_electors": 3,
+        "service_electors": 569,
+        "total_electors": 279128
+      },
+      "pre_sir": {
+        "male_electors": 146987,
+        "female_electors": 134859,
+        "third_gender_electors": 4,
+        "service_electors": 580,
+        "total_electors": 282430
+      },
+      "total_electors": 279128,
+      "male_electors": 144947,
+      "female_electors": 133609,
+      "third_gender_electors": 3,
+      "pre_revision_electors": 282430,
+      "post_revision_electors": 279128
+    },
+    {
+      "ac_number": 231,
+      "ac_name": "Tikari",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 160024,
+        "female_electors": 139634,
+        "third_gender_electors": 10,
+        "service_electors": 1679,
+        "total_electors": 301347
+      },
+      "pre_sir": {
+        "male_electors": 168084,
+        "female_electors": 153474,
+        "third_gender_electors": 11,
+        "service_electors": 1736,
+        "total_electors": 323305
+      },
+      "total_electors": 301347,
+      "male_electors": 160024,
+      "female_electors": 139634,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 323305,
+      "post_revision_electors": 301347
+    },
+    {
+      "ac_number": 232,
+      "ac_name": "Belaganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 146467,
+        "female_electors": 129101,
+        "third_gender_electors": 2,
+        "service_electors": 1294,
+        "total_electors": 276864
+      },
+      "pre_sir": {
+        "male_electors": 152217,
+        "female_electors": 138497,
+        "third_gender_electors": 4,
+        "service_electors": 1307,
+        "total_electors": 292025
+      },
+      "total_electors": 276864,
+      "male_electors": 146467,
+      "female_electors": 129101,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 292025,
+      "post_revision_electors": 276864
+    },
+    {
+      "ac_number": 233,
+      "ac_name": "Atri",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 160650,
+        "female_electors": 145432,
+        "third_gender_electors": 1,
+        "service_electors": 1000,
+        "total_electors": 307083
+      },
+      "pre_sir": {
+        "male_electors": 165437,
+        "female_electors": 152954,
+        "third_gender_electors": 1,
+        "service_electors": 1023,
+        "total_electors": 319415
+      },
+      "total_electors": 307083,
+      "male_electors": 160650,
+      "female_electors": 145432,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 319415,
+      "post_revision_electors": 307083
+    },
+    {
+      "ac_number": 234,
+      "ac_name": "Wazirganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164527,
+        "female_electors": 148407,
+        "third_gender_electors": 1,
+        "service_electors": 1242,
+        "total_electors": 314177
+      },
+      "pre_sir": {
+        "male_electors": 170144,
+        "female_electors": 157206,
+        "third_gender_electors": 1,
+        "service_electors": 1254,
+        "total_electors": 328605
+      },
+      "total_electors": 314177,
+      "male_electors": 164527,
+      "female_electors": 148407,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 328605,
+      "post_revision_electors": 314177
+    },
+    {
+      "ac_number": 235,
+      "ac_name": "Rajauli (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 171698,
+        "female_electors": 157833,
+        "third_gender_electors": 17,
+        "service_electors": 529,
+        "total_electors": 330077
+      },
+      "pre_sir": {
+        "male_electors": 176849,
+        "female_electors": 164491,
+        "third_gender_electors": 17,
+        "service_electors": 526,
+        "total_electors": 341883
+      },
+      "total_electors": 330077,
+      "male_electors": 171698,
+      "female_electors": 157833,
+      "third_gender_electors": 17,
+      "pre_revision_electors": 341883,
+      "post_revision_electors": 330077
+    },
+    {
+      "ac_number": 236,
+      "ac_name": "Hisua",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 192273,
+        "female_electors": 174080,
+        "third_gender_electors": 33,
+        "service_electors": 817,
+        "total_electors": 367203
+      },
+      "pre_sir": {
+        "male_electors": 204236,
+        "female_electors": 187805,
+        "third_gender_electors": 41,
+        "service_electors": 827,
+        "total_electors": 392909
+      },
+      "total_electors": 367203,
+      "male_electors": 192273,
+      "female_electors": 174080,
+      "third_gender_electors": 33,
+      "pre_revision_electors": 392909,
+      "post_revision_electors": 367203
+    },
+    {
+      "ac_number": 237,
+      "ac_name": "Nawada",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 188642,
+        "female_electors": 173872,
+        "third_gender_electors": 1,
+        "service_electors": 883,
+        "total_electors": 363398
+      },
+      "pre_sir": {
+        "male_electors": 191743,
+        "female_electors": 177641,
+        "third_gender_electors": 14,
+        "service_electors": 873,
+        "total_electors": 370271
+      },
+      "total_electors": 363398,
+      "male_electors": 188642,
+      "female_electors": 173872,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 370271,
+      "post_revision_electors": 363398
+    },
+    {
+      "ac_number": 238,
+      "ac_name": "Gobindpur",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 164759,
+        "female_electors": 149168,
+        "third_gender_electors": 27,
+        "service_electors": 466,
+        "total_electors": 314420
+      },
+      "pre_sir": {
+        "male_electors": 171964,
+        "female_electors": 158562,
+        "third_gender_electors": 34,
+        "service_electors": 462,
+        "total_electors": 331022
+      },
+      "total_electors": 314420,
+      "male_electors": 164759,
+      "female_electors": 149168,
+      "third_gender_electors": 27,
+      "pre_revision_electors": 331022,
+      "post_revision_electors": 314420
+    },
+    {
+      "ac_number": 239,
+      "ac_name": "Warsaliganj",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 180881,
+        "female_electors": 162978,
+        "third_gender_electors": 27,
+        "service_electors": 865,
+        "total_electors": 344751
+      },
+      "pre_sir": {
+        "male_electors": 188333,
+        "female_electors": 172288,
+        "third_gender_electors": 30,
+        "service_electors": 857,
+        "total_electors": 361508
+      },
+      "total_electors": 344751,
+      "male_electors": 180881,
+      "female_electors": 162978,
+      "third_gender_electors": 27,
+      "pre_revision_electors": 361508,
+      "post_revision_electors": 344751
+    },
+    {
+      "ac_number": 240,
+      "ac_name": "Sikandra (SC)",
+      "ac_type": "SC",
+      "post_sir": {
+        "male_electors": 156982,
+        "female_electors": 142663,
+        "third_gender_electors": 1,
+        "service_electors": 463,
+        "total_electors": 300109
+      },
+      "pre_sir": {
+        "male_electors": 163914,
+        "female_electors": 152351,
+        "third_gender_electors": 10,
+        "service_electors": 454,
+        "total_electors": 316729
+      },
+      "total_electors": 300109,
+      "male_electors": 156982,
+      "female_electors": 142663,
+      "third_gender_electors": 1,
+      "pre_revision_electors": 316729,
+      "post_revision_electors": 300109
+    },
+    {
+      "ac_number": 241,
+      "ac_name": "Jamui",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 162527,
+        "female_electors": 148402,
+        "third_gender_electors": 2,
+        "service_electors": 554,
+        "total_electors": 311485
+      },
+      "pre_sir": {
+        "male_electors": 170663,
+        "female_electors": 158832,
+        "third_gender_electors": 3,
+        "service_electors": 557,
+        "total_electors": 330055
+      },
+      "total_electors": 311485,
+      "male_electors": 162527,
+      "female_electors": 148402,
+      "third_gender_electors": 2,
+      "pre_revision_electors": 330055,
+      "post_revision_electors": 311485
+    },
+    {
+      "ac_number": 242,
+      "ac_name": "Jhajha",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 177077,
+        "female_electors": 161580,
+        "third_gender_electors": 10,
+        "service_electors": 382,
+        "total_electors": 339049
+      },
+      "pre_sir": {
+        "male_electors": 180959,
+        "female_electors": 167451,
+        "third_gender_electors": 9,
+        "service_electors": 382,
+        "total_electors": 348801
+      },
+      "total_electors": 339049,
+      "male_electors": 177077,
+      "female_electors": 161580,
+      "third_gender_electors": 10,
+      "pre_revision_electors": 348801,
+      "post_revision_electors": 339049
+    },
+    {
+      "ac_number": 243,
+      "ac_name": "Chakai",
+      "ac_type": "Gen",
+      "post_sir": {
+        "male_electors": 167082,
+        "female_electors": 151495,
+        "third_gender_electors": 4,
+        "service_electors": 219,
+        "total_electors": 318800
+      },
+      "pre_sir": {
+        "male_electors": 173027,
+        "female_electors": 159496,
+        "third_gender_electors": 12,
+        "service_electors": 216,
+        "total_electors": 332751
+      },
+      "total_electors": 318800,
+      "male_electors": 167082,
+      "female_electors": 151495,
+      "third_gender_electors": 4,
+      "pre_revision_electors": 332751,
+      "post_revision_electors": 318800
+    }
+  ]
+}
