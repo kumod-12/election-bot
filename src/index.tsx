@@ -309,8 +309,13 @@ function ElectionChatbot() {
       }
 
       // Load election data context
-      await dataLoader.loadAllData();
+      console.log('🔄 Loading election data...');
+      const loadedData = await dataLoader.loadAllData();
+      console.log('📊 Data loaded:', Object.keys(loadedData).length, 'items');
+
       const electionContext = dataLoader.formatDataForAI();
+      console.log('📝 Election context length:', electionContext.length, 'characters');
+      console.log('📄 Context preview:', electionContext.substring(0, 200) + '...');
 
       // Create the prompt with election data context
       const systemPrompt = `You are ElectionSathi, an AI assistant specialized in Bihar election information. You provide factual, non-partisan information about elections, voting processes, and candidates.
