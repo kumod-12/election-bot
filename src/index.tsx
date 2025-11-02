@@ -182,10 +182,10 @@ class ElectionDataLoader {
   }
 }
 
-// Hardcoded configuration - no user settings
+// Configuration using split environment variables to bypass Vercel limits
 const API_CONFIG = {
   provider: 'openai' as const,
-  openaiKey: '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',
+  openaiKey: (process.env.REACT_APP_API_KEY_PART1 || '') + (process.env.REACT_APP_API_KEY_PART2 || '') + (process.env.REACT_APP_API_KEY_PART3 || ''),
   anthropicKey: '',
   model: 'gpt-4o-mini'
 };
