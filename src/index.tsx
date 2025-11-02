@@ -8,27 +8,101 @@ interface Message {
   content: string;
 }
 
-// Simple data loader without external imports
-class SimpleDataLoader {
-  private static instance: SimpleDataLoader;
+// Full data loader with real election data
+class ElectionDataLoader {
+  private static instance: ElectionDataLoader;
   private loadedData: any = {};
 
   private constructor() {}
 
-  public static getInstance(): SimpleDataLoader {
-    if (!SimpleDataLoader.instance) {
-      SimpleDataLoader.instance = new SimpleDataLoader();
+  public static getInstance(): ElectionDataLoader {
+    if (!ElectionDataLoader.instance) {
+      ElectionDataLoader.instance = new ElectionDataLoader();
     }
-    return SimpleDataLoader.instance;
+    return ElectionDataLoader.instance;
   }
 
   public async loadAllData(): Promise<any> {
-    // Simplified data loading for now
-    return this.loadedData;
+    try {
+      // Load structured Bihar election data files from public/data/
+      const filesToLoad = [
+        { path: '/data/bihar-election-complete.json', type: 'json' },
+        { path: '/data/bihar-constituencies-master.json', type: 'json' },
+        { path: '/data/bihar-party-performance.json', type: 'json' },
+        { path: '/data/bihar-alliance-performance.json', type: 'json' },
+        { path: '/data/bihar-turnout-analysis.json', type: 'json' },
+        { path: '/data/bihar-winner-analysis.json', type: 'json' },
+        { path: '/data/bihar-seat-analysis.json', type: 'json' },
+        { path: '/data/bihar-elector-details.json', type: 'json' }
+      ];
+
+      const loadedFiles: any = {};
+
+      // Try to load each file
+      for (const file of filesToLoad) {
+        try {
+          const response = await fetch(file.path);
+          if (response.ok) {
+            const data = await response.json();
+            if (Object.keys(data).length > 0) {
+              const fileName = file.path.split('/').pop()?.replace('.json', '') || 'unknown';
+              loadedFiles[fileName] = data;
+            }
+          }
+        } catch (error) {
+          console.warn(`Failed to load ${file.path}:`, error);
+        }
+      }
+
+      this.loadedData = {
+        ...loadedFiles,
+        loadedAt: new Date().toISOString()
+      };
+
+      return this.loadedData;
+    } catch (error) {
+      console.error('Error loading election data:', error);
+      return this.getDefaultData();
+    }
+  }
+
+  private getDefaultData() {
+    return {
+      summary: 'Bihar Election Data: 243 constituencies across Bihar state',
+      info: 'Election data for Bihar Legislative Assembly',
+      loadedAt: new Date().toISOString()
+    };
   }
 
   public formatDataForAI(): string {
-    return 'Bihar Election Data: 243 constituencies, multiple parties competing, current election information available.';
+    const data = this.loadedData;
+
+    if (!data || Object.keys(data).length <= 2) {
+      return 'Bihar Election Information: 243 constituencies in Bihar Legislative Assembly. I can help with voting procedures, candidate information, and election schedules.';
+    }
+
+    let context = 'Bihar Election Data Summary:\n';
+
+    // Add information about loaded data
+    if (data['bihar-election-complete']) {
+      context += '- Complete election dataset with constituency and candidate details\n';
+    }
+    if (data['bihar-constituencies-master']) {
+      context += '- Master list of all 243 Bihar constituencies\n';
+    }
+    if (data['bihar-party-performance']) {
+      context += '- Political party performance data and statistics\n';
+    }
+    if (data['bihar-turnout-analysis']) {
+      context += '- Voter turnout analysis by region and demographic\n';
+    }
+    if (data['bihar-winner-analysis']) {
+      context += '- Election winner analysis and victory margins\n';
+    }
+
+    context += '\nI can provide specific information about constituencies, candidates, parties, voter turnout, and election procedures.';
+
+    return context;
   }
 }
 
@@ -84,7 +158,7 @@ function ElectionChatbot() {
   const [isLoading, setIsLoading] = useState<boolean>(false);
   const [showBlockedWarning, setShowBlockedWarning] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
-  const dataLoader = SimpleDataLoader.getInstance();
+  const dataLoader = ElectionDataLoader.getInstance();
 
   // Save messages to localStorage whenever they change
   useEffect(() => {
