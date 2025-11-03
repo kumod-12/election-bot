@@ -349,48 +349,22 @@ ${electionContext}
 
 Please provide helpful, accurate, and neutral information about Bihar elections based on this data.`;
 
-      const requestBody = {
-        model: API_CONFIG.model,
+      // Use proxy endpoint instead of direct API calls
+      const proxyBody = {
         messages: [
           { role: 'system', content: systemPrompt },
           ...newMessages.map(msg => ({ role: msg.role, content: msg.content }))
         ],
-        max_tokens: 1000,
-        temperature: 0.3
+        provider: API_CONFIG.provider,
+        model: API_CONFIG.model
       };
 
-      let apiUrl: string;
-      let headers: Record<string, string>;
-
-      if (API_CONFIG.provider === 'openai') {
-        apiUrl = 'https://api.openai.com/v1/chat/completions';
-        headers = {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${currentApiKey}`
-        };
-      } else {
-        apiUrl = 'https://api.anthropic.com/v1/messages';
-        headers = {
-          'Content-Type': 'application/json',
-          'x-api-key': currentApiKey,
-          'anthropic-version': '2023-06-01'
-        };
-
-        // Anthropic has a different request format
-        const anthropicBody = {
-          model: API_CONFIG.model.includes('claude') ? API_CONFIG.model : 'claude-3-sonnet-20240229',
-          max_tokens: 1000,
-          messages: newMessages.map(msg => ({ role: msg.role, content: msg.content })),
-          system: systemPrompt
-        };
-
-        Object.assign(requestBody, anthropicBody);
-      }
-
-      const response = await fetch(apiUrl, {
+      const response = await fetch('/api/chat', {
         method: 'POST',
-        headers,
-        body: JSON.stringify(requestBody)
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(proxyBody)
       });
 
       if (!response.ok) {
