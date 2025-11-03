@@ -350,7 +350,21 @@ ${electionContext}
 Please provide helpful, accurate, and neutral information about Bihar elections based on this data.`;
 
       // Use proxy endpoint in production, direct API in development
+      const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent);
       const isProduction = process.env.NODE_ENV === 'production' || window.location.hostname !== 'localhost';
+
+      console.log('🔧 Environment detection:', {
+        NODE_ENV: process.env.NODE_ENV,
+        hostname: window.location.hostname,
+        isSafari,
+        isProduction,
+        apiKey: currentApiKey ? `${currentApiKey.substring(0, 10)}...` : 'MISSING'
+      });
+
+      // Safari CORS warning for development
+      if (isSafari && !isProduction) {
+        console.warn('⚠️ Safari detected in development mode. If you see CORS errors, please use Chrome for local development or test the deployed version.');
+      }
 
       let response: Response;
 
