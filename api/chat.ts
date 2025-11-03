@@ -1,17 +1,15 @@
-import { NextRequest, NextResponse } from 'next/server';
+import { VercelRequest, VercelResponse } from '@vercel/node';
 
-export const runtime = 'edge';
-
-export default async function handler(req: NextRequest) {
+export default async function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method !== 'POST') {
-    return NextResponse.json({ error: 'Method not allowed' }, { status: 405 });
+    return res.status(405).json({ error: 'Method not allowed' });
   }
 
   try {
-    const { messages, provider = 'openai', model } = await req.json();
+    const { messages, provider = 'openai', model } = req.body;
 
     if (!messages || !Array.isArray(messages)) {
-      return NextResponse.json({ error: 'Messages array is required' }, { status: 400 });
+      return res.status(400).json({ error: 'Messages array is required' });
     }
 
     const openaiApiKey = process.env.OPENAI_API_KEY;
@@ -38,12 +36,12 @@ export default async function handler(req: NextRequest) {
         }
 
         const data = await response.json();
-        return NextResponse.json(data);
+        return res.status(200).json(data);
       } catch (error) {
         console.log('OpenAI failed, trying Claude fallback:', error);
 
         if (!claudeApiKey) {
-          return NextResponse.json({ error: 'Both OpenAI and Claude APIs unavailable' }, { status: 503 });
+          return res.status(503).json({ error: 'Both OpenAI and Claude APIs unavailable' });
         }
       }
     }
@@ -94,16 +92,16 @@ export default async function handler(req: NextRequest) {
         },
       };
 
-      return NextResponse.json(openaiFormat);
+      return res.status(200).json(openaiFormat);
     }
 
-    return NextResponse.json({ error: 'No API keys configured' }, { status: 503 });
+    return res.status(503).json({ error: 'No API keys configured' });
 
   } catch (error) {
     console.error('API Error:', error);
-    return NextResponse.json({
+    return res.status(500).json({
       error: 'Internal server error',
       details: error instanceof Error ? error.message : 'Unknown error'
-    }, { status: 500 });
+    });
   }
 }
