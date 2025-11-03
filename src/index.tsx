@@ -349,23 +349,71 @@ ${electionContext}
 
 Please provide helpful, accurate, and neutral information about Bihar elections based on this data.`;
 
-      // Use proxy endpoint instead of direct API calls
-      const proxyBody = {
-        messages: [
-          { role: 'system', content: systemPrompt },
-          ...newMessages.map(msg => ({ role: msg.role, content: msg.content }))
-        ],
-        provider: API_CONFIG.provider,
-        model: API_CONFIG.model
-      };
+      // Use proxy endpoint in production, direct API in development
+      const isProduction = process.env.NODE_ENV === 'production' || window.location.hostname !== 'localhost';
 
-      const response = await fetch('/api/chat', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(proxyBody)
-      });
+      let response: Response;
+
+      if (isProduction) {
+        // Use proxy endpoint in production
+        const proxyBody = {
+          messages: [
+            { role: 'system', content: systemPrompt },
+            ...newMessages.map(msg => ({ role: msg.role, content: msg.content }))
+          ],
+          provider: API_CONFIG.provider,
+          model: API_CONFIG.model
+        };
+
+        response = await fetch('/api/chat', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(proxyBody)
+        });
+      } else {
+        // Fallback to direct API calls in development
+        let apiUrl: string;
+        let headers: Record<string, string>;
+        let requestBody: any;
+
+        if (API_CONFIG.provider === 'openai') {
+          apiUrl = 'https://api.openai.com/v1/chat/completions';
+          headers = {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${currentApiKey}`
+          };
+          requestBody = {
+            model: API_CONFIG.model,
+            messages: [
+              { role: 'system', content: systemPrompt },
+              ...newMessages.map(msg => ({ role: msg.role, content: msg.content }))
+            ],
+            max_tokens: 1000,
+            temperature: 0.3
+          };
+        } else {
+          apiUrl = 'https://api.anthropic.com/v1/messages';
+          headers = {
+            'Content-Type': 'application/json',
+            'x-api-key': currentApiKey,
+            'anthropic-version': '2023-06-01'
+          };
+          requestBody = {
+            model: API_CONFIG.model.includes('claude') ? API_CONFIG.model : 'claude-3-sonnet-20240229',
+            max_tokens: 1000,
+            messages: newMessages.map(msg => ({ role: msg.role, content: msg.content })),
+            system: systemPrompt
+          };
+        }
+
+        response = await fetch(apiUrl, {
+          method: 'POST',
+          headers,
+          body: JSON.stringify(requestBody)
+        });
+      }
 
       if (!response.ok) {
         const errorData = await response.json().catch(() => ({}));
